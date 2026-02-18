@@ -1,62 +1,119 @@
 # Module Template
 
-Copy this structure into a topic folder.
+Copy this structure into a topic folder. See `docs/GOVERNANCE.md` for the full lifecycle
+and `docs/prompts/` for prompts that drive each production stage.
+
+---
 
 ## README.md
 
-- Title
-- Purpose (what mechanic this module explains)
-- Status (draft / reviewed / published)
-- Tags
-- Link to `outline.md`
-- Contribution notes
+```text
+# [Topic Name]
+
+Purpose: [One sentence — what mechanic or structure this module explains.]
+
+Status: empty
+
+Tags: [comma-separated; see docs/schemas/readme_schema.json for recommended values]
+
+Outline: see `outline.md`
+
+Contributors: [names / links]
+
+How to contribute:
+
+- Use docs/prompts/draft_module.md to generate initial content
+- Add citations under "Suggested sources" in outline.md
+- Propose visuals in figures/ and link from here
+```
+
+**Status field — controlled vocabulary** (see `docs/GOVERNANCE.md` for transition rules):
+
+| Value | Meaning |
+| ------- | --------- |
+| `empty` | Folder exists; files are pure template |
+| `scaffolded` | Headings present; intent notes replace placeholders |
+| `draft` | All sections have substantive prose; claims labeled |
+| `sourced` | All `[Observed]` claims have citations |
+| `reviewed` | Second contributor verified tone and sourcing |
+| `published` | Stable; changes tracked in PR descriptions |
+
+---
 
 ## outline.md
 
-## Module title (replace me)
+```markdown
+# [Topic Name]
 
-**Summary:** 2–4 sentences.
+**Summary:** 3–5 sentences explaining what this mechanism is, why it exists,
+and why it matters for understanding political power. Institutional, descriptive
+voice — no partisan framing, no moral evaluation.
 
-**Mechanism in one sentence:** How the lever of power works operationally.
+**Mechanism in one sentence:** ≤ 30 words. How the lever of power operates.
 
 ### Actors and roles
 
-- Actor A — incentives, constraints
-- Actor B — incentives, constraints
+- [Actor A] — [role]; incentive: [what they gain]; constraint: [what limits them]
+- [Actor B] — [role]; incentive: [what they gain]; constraint: [what limits them]
+- [Oversight actor] — [role]; constraint: [what limits enforcement]
 
 ### Process map (bulleted)
 
-- Step 1
-- Step 2
-- Step 3
+- Step 1: [concrete action — who does it, what triggers it]
+- Step 2: [next concrete action]
+- Step 3: [next concrete action]
+- Step 4: [outcome or next stage]
 
 ### Where power concentrates
 
-- Gatekeepers
-- Bottlenecks
-- Veto points
+- **Gatekeepers:** [who controls access or flow]
+- **Bottlenecks:** [where delays or blockages occur structurally]
+- **Veto points:** [who can stop or reverse the process]
 
 ### Common failure modes
 
-- Misaligned incentives
-- Enforcement weakness
-- Transparency gaps
+- [Mode 1] — [Observed/Inferred/Hypothesis] — [explanation]
+- [Mode 2] — [Observed/Inferred/Hypothesis] — [explanation]
+- [Mode 3] — [Observed/Inferred/Hypothesis] — [explanation]
 
 ### What evidence would prove/disprove key claims
 
-- Documents / datasets / audits
+- [Dataset, audit, or record type that would confirm or refute the main claims]
+- [What a contrary finding would look like]
 
 ### Suggested sources
 
-- Primary sources
-- Oversight reports
-- Data sources
+- [Full title]. [Issuing body], [Date]. [URL or identifier].
+- [Full title]. [Issuing body], [Date]. [URL or identifier].
+- [Full title]. [Issuing body], [Date]. [URL or identifier].
 
 ### Episode outline (6 parts)
 
-1. Structure (what it is)
-2. Incentive (why it behaves as it does)
-3. Example (case study)
-4. Evidence (what to show)
-5. Levers (how accountability/reform could work)
-6. Takeaway
+1. **Structure** — [1–2 sentences: what this mechanism is]
+2. **Incentive** — [1–2 sentences: why actors behave as they do]
+3. **Example** — [1–2 sentences: a specific, real case study — name it]
+4. **Evidence** — [1–2 sentences: primary sources or data to show]
+5. **Levers** — [1–2 sentences: ≥ 2 concrete accountability or reform mechanisms]
+6. **Takeaway** — [1–2 sentences: what a reader should remember]
+```
+
+---
+
+## Claim type labels
+
+Every factual assertion must carry one of:
+
+- `[Observed]` — documented in a primary source listed in Suggested sources
+- `[Inferred]` — follows logically from observed facts; state the reasoning
+- `[Hypothesis]` — plausible but unverified; state what would confirm or refute it
+
+---
+
+## Production workflow
+
+1. `python scripts/generate_queue.py --next 1` — get next topic to draft
+2. `docs/prompts/draft_module.md` — generate initial outline.md content
+3. `docs/prompts/citation_pass.md` — verify and enrich sources
+4. `docs/prompts/neutrality_pass.md` — check for framing issues
+5. `docs/prompts/final_polish.md` — prose quality pass
+6. Open PR using `.github/PULL_REQUEST_TEMPLATE.md` checklist

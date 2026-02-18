@@ -18,6 +18,11 @@ jobs:
       - name: Validate topic naming and numbering
         run: python scripts/validate_topic_names.py
 
+      - name: Check module completeness
+        # --warn-only: exits 0 even with issues; remove when modules are in draft+
+        # --stats-only: suppress per-module detail, show summary only
+        run: python scripts/validate_completeness.py --warn-only --stats-only
+
       - name: Lint markdown
         uses: DavidAnson/markdownlint-cli2-action@v18
         with:
