@@ -7,6 +7,9 @@ Checks each topic for:
   - README.md: required fields present, Status is a known value
   - outline.md: all required headings present
   - outline.md: fewer than N placeholder strings (not a template stub)
+  - outline.md: at least min_claim_labels labeled claims [Observed/Inferred/Hypothesis]
+  - outline.md: at least sources_min_entries real source entries in Suggested sources
+  - outline.md: actors section meets actors_min_words word count
 
 Exit codes:
   0  all modules pass (or --warn-only mode)
@@ -29,13 +32,38 @@ TOPICS = ROOT / "topics"
 SCHEMAS = ROOT / "docs" / "schemas"
 
 TOPIC_RE = re.compile(r"^\d{3}_")
-HEADING_RE = re.compile(r"^#{1,6}\s+(.+)$", re.MULTILINE)
+HEADING_RE = re.compile(r"^(#{1,6})\s+(.+)$", re.MULTILINE)
+CLAIM_LABEL_RE = re.compile(r"\[(Observed|Inferred|Hypothesis)")
 
 
 def load_schemas() -> tuple[dict, dict]:
     outline = json.loads((SCHEMAS / "outline_schema.json").read_text())
     readme = json.loads((SCHEMAS / "readme_schema.json").read_text())
     return outline, readme
+
+
+def extract_section(text: str, heading_keyword: str) -> str:
+    """Return the body of the first heading matching keyword, up to the next heading
+    at the same or higher level. Returns empty string if the heading is not found."""
+    lines = text.split("\n")
+    in_section = False
+    section_level = 0
+    collected: list[str] = []
+
+    for line in lines:
+        m = re.match(r"^(#{1,6})\s+(.+)$", line)
+        if m:
+            level = len(m.group(1))
+            heading_text = m.group(2)
+            if in_section and level <= section_level:
+                break
+            if heading_keyword.lower() in heading_text.lower():
+                in_section = True
+                section_level = level
+        elif in_section:
+            collected.append(line)
+
+    return "\n".join(collected)
 
 
 def check_readme(path: Path, schema: dict) -> list[str]:
@@ -59,9 +87,10 @@ def check_readme(path: Path, schema: dict) -> list[str]:
 def check_outline(path: Path, schema: dict) -> list[str]:
     issues = []
     text = path.read_text()
+    targets = schema.get("word_count_targets", {})
 
     # Required headings
-    headings = [m.group(1).strip() for m in HEADING_RE.finditer(text)]
+    headings = [m.group(2).strip() for m in HEADING_RE.finditer(text)]
     for required in schema["required_headings"]:
         if not any(required.lower() in h.lower() for h in headings):
             issues.append(f"outline.md: missing heading matching '{required}'")
@@ -74,6 +103,43 @@ def check_outline(path: Path, schema: dict) -> list[str]:
             f"outline.md: {len(hits)} template placeholder(s) still present "
             f"(threshold: {threshold})"
         )
+
+    # Claim label count
+    min_labels = schema.get("min_claim_labels", 0)
+    if min_labels:
+        label_count = len(CLAIM_LABEL_RE.findall(text))
+        if label_count < min_labels:
+            issues.append(
+                f"outline.md: {label_count} claim label(s) found "
+                f"([Observed]/[Inferred]/[Hypothesis]), need \u2265 {min_labels}"
+            )
+
+    # Source entry count (non-placeholder bullets in Suggested sources)
+    min_sources = targets.get("sources_min_entries", 0)
+    if min_sources:
+        sources_text = extract_section(text, "Suggested sources")
+        real_sources = [
+            ln.strip()
+            for ln in sources_text.split("\n")
+            if ln.strip().startswith("-")
+            and not any(p in ln for p in schema["template_placeholders"])
+        ]
+        if len(real_sources) < min_sources:
+            issues.append(
+                f"outline.md: {len(real_sources)} source entry(ies) in "
+                f"Suggested sources, need \u2265 {min_sources}"
+            )
+
+    # Actors section word count
+    min_actor_words = targets.get("actors_min_words", 0)
+    if min_actor_words:
+        actors_text = extract_section(text, "Actors and roles")
+        word_count = len(actors_text.split())
+        if word_count < min_actor_words:
+            issues.append(
+                f"outline.md: Actors and roles section has {word_count} word(s), "
+                f"need \u2265 {min_actor_words}"
+            )
 
     return issues
 

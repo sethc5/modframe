@@ -1,45 +1,43 @@
 # Golden Examples
 
-This folder holds 3 fully-complete, `published`-status modules that serve as the
-reference standard for all content work. When in doubt about what a finished module
-looks like, use these.
+This folder holds reference modules showing what `sourced`-quality content looks like.
+Use these when calibrating drafts, running neutrality passes, or onboarding new contributors.
 
-## Purpose
+## Current examples
 
-- **Ground truth** for what `published` means in practice
-- **Training material** for contributors and model prompts
-- **Calibration** for the neutrality and citation passes
+| Module | Section | Status | Sources |
+| ------- | --------- | ------- | ------- |
+| [001_Campaign_Finance_Architecture](001_Campaign_Finance_Architecture/outline.md) | 01 Electoral | sourced | 7 (FECA, Buckley, Citizens United, McCutcheon, OpenSecrets, FEC stats, CRS) |
+| [002_Primaries_and_Candidate_Gatekeeping](002_Primaries_and_Candidate_Gatekeeping/outline.md) | 01 Electoral | sourced | 7 (CA Dem v. Jones, NCSL, Ballotpedia, Hall 2019, Brookings, DNC/RNC rules) |
+| [003_Gerrymandering_Systems](003_Gerrymandering_Systems/outline.md) | 01 Electoral | sourced | 7 (Rucho, VRA §10301, Allen v. Milligan, Stephanopoulos/McGhee, NCSL, Princeton GP, Dave's) |
 
-## Selection criteria
+These are copies of their counterparts in `topics/`. When the topic versions advance to
+`reviewed` or `published`, update the copies here.
 
-A golden example module must:
+## What to use them for
 
-1. Cover a mechanism that is well-documented in primary sources (not contested or data-sparse)
-2. Have ≥ 5 real citations, all tier-1 or tier-2 (see `docs/CITATIONS.md`)
-3. Have passed both the neutrality pass and final polish pass
-4. Have been reviewed by at least two contributors
-5. Represent different sections of the taxonomy (not all from the same section)
+- **Calibration before drafting** — read an example before filling `draft_module.md`
+  prompt variables; notice how claim labels are applied, how process steps are scoped,
+  how sources are formatted
+- **Prompt grounding** — paste an example outline as context when instructing a model
+  to draft a new module in the same style
+- **Reviewer reference** — when running `neutrality_pass.md`, compare the candidate
+  module's tone and structure to the examples
 
-## Status
+## Selection criteria for future examples
 
-No golden examples have been designated yet. The first three modules to reach `reviewed`
-status and be approved by a maintainer will be copied here (or symlinked) and designated
-as golden examples.
+A module should replace or join this set when it:
 
-Candidates for first golden examples (high source availability, well-documented mechanisms):
-
-- `001_Campaign_Finance_Architecture` (01 Electoral)
-- `028_Congressional_Committee_Power` or similar (02 Congressional)
-- `056_Revolving_Door_Mechanics` or similar (04 Revolving Door)
+1. Is `reviewed` or `published` status
+2. Has ≥ 5 real citations, all tier-1 or tier-2 (see `docs/CITATIONS.md`)
+3. Has passed both the neutrality and final polish passes
+4. Covers a different section than existing examples (aim for cross-section diversity)
 
 ## File structure
 
-Each golden example lives in its own subfolder mirroring the topic structure:
-
 ```text
 docs/examples/
-  001_Campaign_Finance_Architecture/
-    README.md       (copy from topics/, Status: published)
-    outline.md      (fully drafted, sourced, reviewed)
-  ...
+  NNN_Topic_Name/
+    README.md    (copied from topics/ at time of promotion)
+    outline.md   (copied from topics/ at time of promotion)
 ```

@@ -138,10 +138,24 @@ This prints the highest-priority incomplete module. Note the path.
 Open `topics/<section>/<topic>/README.md` and `topics/<section>/<topic>/outline.md`.
 Read both fully before writing anything.
 
-### 3. Draft the content
+### 3. Write a topic brief
 
-Use the prompt in `docs/prompts/draft_module.md`. Fill in the `{{variables}}` and
-send it. Paste the output into `outline.md`, replacing the entire file contents.
+Before opening the draft prompt, write 4–6 sentences from your own knowledge:
+
+- What is the core mechanism in one sentence?
+- Who are the 2–3 most important actors and what do they want?
+- What is the most significant real-world example of this mechanism?
+- Which primary sources (statutes, cases, datasets) are most directly relevant?
+
+Save this as `{{TOPIC_CONTEXT}}` — you will paste it into the draft prompt. This
+step is mandatory. A model drafting from a blank context produces weaker output
+than one that has recalled relevant domain knowledge first.
+
+### 4. Draft the content
+
+Use the prompt in `docs/prompts/draft_module.md`. Fill in all `{{variables}}`
+including `{{TOPIC_CONTEXT}}` from the previous step. Send the completed prompt.
+Paste the output into `outline.md`, replacing the entire file contents.
 
 **Before advancing to `draft`:**
 
@@ -152,7 +166,7 @@ send it. Paste the output into `outline.md`, replacing the entire file contents.
 - [ ] All factual claims carry `[Observed]`, `[Inferred]`, or `[Hypothesis]`
 - [ ] Episode outline Part 3 names a real, specific case study
 
-### 4. Citation pass
+### 5. Citation pass
 
 Use the prompt in `docs/prompts/citation_pass.md`. Paste the current `outline.md`
 into the `{{OUTLINE_MD}}` variable and send it. Apply the output.
@@ -165,7 +179,7 @@ into the `{{OUTLINE_MD}}` variable and send it. Apply the output.
 - [ ] At least 3 sources in Suggested sources
 - [ ] Any downgraded claims (Observed → Inferred/Hypothesis) are annotated
 
-### 5. Update README.md
+### 6. Update README.md
 
 Change the `Status:` line to reflect the new state:
 
@@ -175,7 +189,7 @@ Status: sourced
 
 Valid values: `empty`, `scaffolded`, `draft`, `sourced`, `reviewed`, `published`
 
-### 6. Stop — human review required
+### 7. Stop — human review required
 
 Modules at `sourced` need a second human contributor to run the neutrality pass
 (`docs/prompts/neutrality_pass.md`) and final polish (`docs/prompts/final_polish.md`),

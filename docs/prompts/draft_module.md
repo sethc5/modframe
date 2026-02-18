@@ -8,12 +8,35 @@
 
 ## How to use this prompt
 
-1. Run `python scripts/generate_queue.py --next 1` to get the next topic to draft.
-2. Copy the topic's `outline.md` into `{{OUTLINE_MD}}` below.
-3. Fill `{{TOPIC_NAME}}`, `{{TOPIC_ID}}`, `{{SECTION_NAME}}`.
-4. Send the completed prompt to the model.
-5. Paste the model's output back into `outline.md`.
-6. Set `Status: draft` in `README.md`.
+1. Run `python3 scripts/generate_queue.py --next 1` to get the next topic to draft.
+2. **Write a topic brief first** (see below) — paste it into `{{TOPIC_CONTEXT}}`.
+3. Copy the topic's `outline.md` into `{{OUTLINE_MD}}`.
+4. Fill `{{TOPIC_NAME}}`, `{{TOPIC_ID}}`, `{{SECTION_NAME}}`.
+5. Send the completed prompt to the model.
+6. Paste the model's output back into `outline.md`.
+7. Set `Status: draft` in `README.md`.
+
+### Writing the topic brief ({{TOPIC_CONTEXT}})
+
+Before filling the prompt, write 4–6 sentences answering these questions from your own
+knowledge of the topic:
+
+- What is the core mechanism? (one sentence)
+- Who are the 2–3 most important actors and what do they want?
+- What is the most significant real-world example of this mechanism operating?
+- What primary sources (statutes, cases, agencies, datasets) are most relevant?
+
+This brief grounds the model before it drafts. Even a rough sketch substantially
+improves output quality. Example for topic "Campaign Finance Architecture":
+
+> Federal elections are funded through a layered system governed by FECA (52 U.S.C.
+> §§ 30101–30145) and subsequent court rulings. Citizens United v. FEC (2010) created
+> the super PAC vehicle; SpeechNow.org v. FEC enabled unlimited contributions to them.
+> The FEC (6 commissioners, max 3 per party) enforces via 4-vote majority — frequently
+> deadlocked 3-3. Key actors: candidates, party committees, super PACs, 501(c)(4) dark
+> money groups. The 2012 Crossroads GPS / American Crossroads structure was the first
+> large-scale dark money pass-through in a presidential cycle. Key sources: FECA text,
+> Citizens United, FEC enforcement stats, OpenSecrets outside spending data.
 
 ---
 
@@ -23,6 +46,10 @@ You are drafting content for a nonpartisan, citation-forward library that explai
 
 **Topic:** {{TOPIC_NAME}} (ID: {{TOPIC_ID}})
 **Section:** {{SECTION_NAME}}
+
+**Topic context (use this as your knowledge base for drafting):**
+
+{{TOPIC_CONTEXT}}
 
 ---
 
