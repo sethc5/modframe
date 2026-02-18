@@ -1,0 +1,79 @@
+name: Factual Correction
+description: Report a factual error, outdated information, or unsupported claim in an existing module.
+labels: ["correction", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to report a factual error, a claim that can't be sourced, or
+        information that has become outdated. Quote the text exactly so maintainers
+        can locate it quickly.
+
+  - type: input
+    id: module_path
+    attributes:
+      label: Module path
+      description: Path to the file containing the error.
+      placeholder: "topics/01_Electoral_Power_Structures/001_Campaign_Finance_Architecture/outline.md"
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Section and approximate location
+      description: Section heading and rough position within it.
+      placeholder: "Actors and roles, third bullet"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_text
+    attributes:
+      label: Current text (quote exactly)
+      description: Copy the exact sentence or passage that is wrong.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: error_type
+    attributes:
+      label: Error type
+      options:
+        - "Factually incorrect — contradicted by primary sources"
+        - "Outdated — was accurate but no longer is"
+        - "Unsupported — claim labeled [Observed] but no source exists"
+        - "Misleading framing — technically true but creates false impression"
+        - "Wrong claim type label — should be Inferred or Hypothesis"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: What is wrong
+      description: Explain the error concisely. Be specific about what is incorrect or missing.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Correcting source
+      description: |
+        Cite the primary source that supports the correction.
+        Include: title, issuing body, date, and link or identifier.
+      placeholder: |
+        - FEC v. Cruz, 596 U.S. 289 (2022). Supreme Court of the United States.
+          https://www.supremecourt.gov/opinions/21pdf/21-12_d18h.pdf
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested_revision
+    attributes:
+      label: Suggested replacement text (optional)
+      description: If you have a corrected version ready, paste it here.
+    validations:
+      required: false

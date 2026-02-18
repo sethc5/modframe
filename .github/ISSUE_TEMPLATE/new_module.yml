@@ -1,0 +1,86 @@
+name: New Module Request
+description: Suggest a new topic module or flag a gap in coverage.
+labels: ["content", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request a new topic module or suggest expanding an existing one.
+        Before submitting, check the topic list to see if the module already exists.
+
+  - type: input
+    id: topic_name
+    attributes:
+      label: Topic name
+      description: A short descriptive name for the mechanism or structure to cover.
+      placeholder: "e.g. Senate holds and their effect on executive nominations"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Best-fit section
+      description: Which existing section does this belong in?
+      options:
+        - "01 Electoral Power Structures"
+        - "02 Congressional Power Mechanics"
+        - "03 Executive Branch Incentives"
+        - "04 Revolving Door and Influence Networks"
+        - "05 Media Ecosystem Influence"
+        - "06 Judicial Power Structure"
+        - "07 State-Level Power Laboratories"
+        - "08 Money and Industry Influence"
+        - "09 Crisis Governance"
+        - "10 Structural Incentives Behind Polarization"
+        - "11 Accountability and Transparency Gaps"
+        - "12 Foreign Influence and Global Intersections"
+        - "13 Meta Incentive Structures"
+        - "14 State and Local Power Structures"
+        - "15 Regulatory and Administrative Oversight"
+        - "16 Lobbying Advocacy and Influence Networks"
+        - "17 Media Narrative and Communication Structures"
+        - "18 Judicial and Legal Process Expanded"
+        - "19 Financial Economic and Policy Levers"
+        - "20 Crisis Emergency and Contingency Structures"
+        - "21 Meta Incentive and Cross-Cutting Structures"
+        - "22 International and Geopolitical Intersections"
+        - "23 Emerging and Overlooked Structures"
+        - "Unsure / New section needed"
+    validations:
+      required: true
+
+  - type: textarea
+    id: mechanism
+    attributes:
+      label: Mechanism to explain
+      description: |
+        What power mechanic, incentive, or structural feature should this module cover?
+        Describe it in structural terms: who controls what, what are the incentives, where does power concentrate.
+      placeholder: |
+        e.g. The Senate hold is an informal practice that allows any individual Senator to
+        anonymously object to floor consideration of a nominee or bill. It functions as a
+        veto point that is invisible to the public and difficult for leadership to override...
+    validations:
+      required: true
+
+  - type: textarea
+    id: why_important
+    attributes:
+      label: Why this mechanism matters for accountability
+      description: What accountability gaps, transparency issues, or power concentrations does understanding this mechanism reveal?
+    validations:
+      required: false
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Known primary sources
+      description: |
+        Any statutes, regulations, GAO/OIG reports, court opinions, or official datasets
+        you know are relevant. Specific is better than general.
+      placeholder: |
+        - Senate Rule VII (holds procedure)
+        - CRS Report RL31980, "Senate Holds: Procedural Context and Recent Proposals for Change"
+    validations:
+      required: false

@@ -1,0 +1,36 @@
+{
+  "_comment": "Schema for topic README.md files. Read by scripts/validate_completeness.py.",
+
+  "required_fields": ["Status", "Tags"],
+
+  "valid_statuses": [
+    "empty",
+    "scaffolded",
+    "draft",
+    "sourced",
+    "reviewed",
+    "published"
+  ],
+
+  "recommended_tags": [
+    "mechanics",
+    "institutions",
+    "accountability",
+    "incentives",
+    "oversight",
+    "transparency",
+    "money",
+    "elections",
+    "media",
+    "judiciary",
+    "executive",
+    "legislative",
+    "state-level",
+    "international",
+    "crisis",
+    "lobbying",
+    "regulation",
+    "appointments",
+    "foreign-influence"
+  ]
+}
