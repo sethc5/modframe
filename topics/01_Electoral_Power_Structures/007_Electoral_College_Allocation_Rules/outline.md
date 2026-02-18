@@ -219,37 +219,49 @@ codified in 3 U.S.C. and reformed in 2022.
 ### Suggested sources
 
 - U.S. Constitution, Article II, Section 1, Clause 2 (elector appointment authority).
-  National Archives.
-  https://constitution.congress.gov/browse/article-2/section-1/clause-2/
+  National Archives. https://constitution.congress.gov/browse/article-2/section-1/clause-2/
 
 - U.S. Constitution, Amendment XII (electoral vote counting procedure). National Archives.
   https://constitution.congress.gov/browse/amendment-12/
 
 - Electoral Count Reform and Presidential Transition Improvement Act of 2022. Pub. L.
-  117-328, Div. P, December 2022.
-  https://www.congress.gov/117/plaws/publ328/PLAW-117publ328.pdf
+  117-328, Div. P, December 2022. https://www.congress.gov/117/plaws/publ328/PLAW-117publ328.pdf
 
 - The Electoral Count Reform Act of 2022. Congressional Research Service, CRS R47031,
-  January 2023.
-  https://crsreports.congress.gov/product/pdf/R/R47031
+  January 2023. https://crsreports.congress.gov/product/pdf/R/R47031
 
 - *Chiafalo v. Washington*, 591 U.S. 578 (2020). Supreme Court of the United States
-  (faithless electors, state enforcement authority over electors).
-  https://supreme.justia.com/cases/federal/us/591/19-465/
+  (faithless electors, state enforcement authority over electors). https://supreme.justia.com/cases/federal/us/591/19-465/
 
 - *Bush v. Gore*, 531 U.S. 98 (2000). Supreme Court of the United States (equal
-  protection limits on standardless recount; per curiam).
-  https://supreme.justia.com/cases/federal/us/531/98/
+  protection limits on standardless recount; per curiam). https://supreme.justia.com/cases/federal/us/531/98/
 
 - What Is the Electoral College? National Archives and Records Administration, updated
-  2024.
-  https://www.archives.gov/electoral-college/about
+  2024. https://www.archives.gov/electoral-college/about
 
 - Methods of Choosing Electors. National Conference of State Legislatures, updated 2024.
   https://www.ncsl.org/elections-and-campaigns/methods-of-choosing-presidential-electors
 
 - Faithless Elector Laws. National Conference of State Legislatures, updated 2024.
   https://www.ncsl.org/elections-and-campaigns/faithless-electors
+
+- Federal Election Commission, presidential campaign finance data by state (candidate
+  disbursements and expenditures). Federal Election Commission, updated annually.
+  https://www.fec.gov/data/
+
+- Pew Research Center, analysis of campaign events and advertising by state (swing-state
+  attention), 2000–2020. Pew Research Center, 2020. https://www.pewresearch.org
+
+- Larcinese, V., Snyder, J.M., & Testa, C., "Testing the Electoral College: How
+  Representation Shapes Policy." American Journal of Political Science, 2006.
+  (analysis of policy allocation and electoral incentives)
+
+- Ballotpedia, "Nebraska's 2nd congressional district, 2020 presidential election." Ballotpedia, 2020.
+  https://ballotpedia.org/Nebraska%27s_2nd_congressional_district
+
+- Nebraska LB 764 (2024 session). Nebraska Legislature (bill text and session history).
+  Identifier: LB 764 (2024)
+
 
 ### Episode outline (6 parts)
 
