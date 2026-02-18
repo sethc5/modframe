@@ -33,3 +33,10 @@ See `LICENSE`.
 ## Contributing
 
 Start with `docs/CONTRIBUTING.md` and `docs/MODULE_TEMPLATE.md`.
+
+## Local quality checks
+
+Run these before opening a PR:
+
+- `python scripts/validate_topic_names.py`
+- `npx markdownlint-cli2 "**/*.md"`
