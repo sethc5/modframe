@@ -1,8 +1,10 @@
-Here’s a clean, portable summary prompt you can use to restart this conversation in a new thread while preserving the strategic depth:
+# Initial Prompt Seed
+
+This is the original seed prompt for the project, preserved in `docs` for documentation continuity.
 
 ---
 
-**Summary Prompt:**
+## Summary Prompt
 
 I want to explore building a modular, evergreen political media framework called (working title) “The Structural Activation Model.”
 
@@ -21,19 +23,19 @@ The long-term goal is not to tailor this to any one personality or network, but 
 
 Key questions to explore:
 
-* How should the concept be framed to be irresistible to media outlets?
-* What would the minimum viable version look like?
-* How do we prevent ideological capture while maintaining clarity?
-* What’s the optimal sequencing from launch to influence?
-* What structural governance would preserve legitimacy?
-* What metrics would indicate real leverage vs. superficial traction?
+- How should the concept be framed to be irresistible to media outlets?
+- What would the minimum viable version look like?
+- How do we prevent ideological capture while maintaining clarity?
+- What’s the optimal sequencing from launch to influence?
+- What structural governance would preserve legitimacy?
+- What metrics would indicate real leverage vs. superficial traction?
 
 I want rigorous strategic analysis — not surface-level media advice.
 
 ---
 
-If you'd like, I can also give you:
+Optional follow-ups:
 
-* A more concise version (under 150 words)
-* A sharper investor-facing version
-* Or a reform-oriented version designed for civic institutions
+- A concise version (under 150 words)
+- A sharper investor-facing version
+- A reform-oriented version designed for civic institutions

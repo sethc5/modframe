@@ -1,5 +1,6 @@
 # Documentation Index
 
+- `INITIAL_PROMPT.md` — original project seed prompt and framing
 - `PROJECT_CHARTER.md` — purpose and posture
 - `CONTRIBUTING.md` — how to contribute
 - `STYLEGUIDE.md` — neutrality + claim types
@@ -15,3 +16,4 @@
 - `SECURITY_AND_SAFETY.md` — guardrails
 - `FAQ.md` — reader-facing basics
 - `MAINTAINERS.md` — maintainers + responsibilities
+- `../LICENSE` — canonical CC BY 4.0 license text
