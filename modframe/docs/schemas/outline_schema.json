@@ -29,11 +29,15 @@
 
   "placeholder_hit_threshold": 3,
 
-  "claim_labels": {
+  "claim_label_formats": {
+    "_note": "Use exactly these forms. [Observed] alone is preferred when the source appears in Suggested sources. The inline form [Observed — source: SHORT_REF] is optional but must use an em dash and match a Suggested sources entry. [Inferred] and [Hypothesis] must be followed by reasoning text on the same line or immediately following sentence.",
     "observed": "[Observed]",
+    "observed_inline": "[Observed — source: SHORT_REF]",
     "inferred": "[Inferred]",
     "hypothesis": "[Hypothesis]"
   },
+
+  "min_claim_labels": 5,
 
   "word_count_targets": {
     "summary_min_sentences": 2,
