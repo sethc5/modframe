@@ -2,7 +2,7 @@
 
 Purpose: short reference and outline for the "Primaries and Candidate Gatekeeping" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
