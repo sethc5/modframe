@@ -1,12 +1,19 @@
 # State Certification Processes
 
 **Summary:** State certification converts local canvass results into a single,
-legally recognized statewide outcome and a `Certificate of Ascertainment` that
-is transmitted to federal authorities. [Observed — source: 3 U.S.C. § 6; National
-Archives guidance] Certification aggregates county canvass records, finalizes
-which candidate is reported as the statewide winner, and creates the administrative
-record that courts and Congress rely on when disputes arise. [Observed — source:
-NCSL certification guidance; CRS analysis]
+legally recognized statewide outcome and a Certificate of Ascertainment transmitted
+to the National Archives and Congress. [Observed — source: 3 U.S.C. § 6; National
+Archives, Certificate of Ascertainment guidance] Certification aggregates county
+canvass records, determines which candidate is the statewide winner, and creates the
+administrative record that courts and Congress rely on when disputes arise. [Observed
+— source: NCSL, Canvass and Certification of Election Results, 2023] Federal law
+establishes a Safe Harbor Deadline — six days before the Electoral College meets —
+by which a state that certifies its results in conformance with state law receives
+conclusive deference from Congress. [Observed — source: 3 U.S.C. § 5 as amended by
+P.L. 117-328] The Electoral Count Reform Act of 2022 (P.L. 117-328) additionally
+requires governors to transmit a single conclusive Certificate of Ascertainment,
+closing prior statutory ambiguity about competing slates. [Observed — source: P.L.
+117-328, Div. P, § 102; CRS R47031]
 
 **Mechanism in one sentence:** State officials consolidate county canvass records,
 issue a certificate of the statewide result, and transmit it to federal repositories
@@ -30,9 +37,12 @@ and Congress. [Observed — source: 3 U.S.C. § 6; National Archives]
   sign‑offs; governors may be relevant gatekeepers when competing slates are presented.
   [Inferred — role varies by state; check state codes]
 
-- **State courts** — resolve post‑certification disputes, interpret certification rules,
-  and can order remedial measures such as recounts or supplemental canvasses. [Observed
-  — source: state case law examples]
+- **State courts** — resolve post-certification disputes, interpret certification rules,
+  and can order remedial measures such as recounts or supplemental canvasses; federal
+  courts may review challenges grounded in federal constitutional claims but generally
+  defer to state courts on interpretation of state election law. [Observed — source:
+  *Wood v. Raffensperger*, No. 20-14418 (11th Cir. 2020); *Pearson v. Kemp*, No.
+  1:20-cv-04809 (N.D. Ga. 2020)]
 
 - **Federal actors (NARA, Congress)** — receive certificates and rely on state certification
   in the congressional counting process; Congress's role is ministerial absent a
@@ -85,12 +95,23 @@ and Congress. [Observed — source: 3 U.S.C. § 6; National Archives]
   reports; NCSL post‑election audit surveys]
 
 - **Competing certificates and procedural ambiguity** — when statutes or practice allow
-  multiple actors to claim certifying authority, rival slates or litigation can follow.
-  [Observed — source: documented state disputes]
+  multiple actors to claim certifying authority, rival slates or litigation can follow;
+  in November 2020 two Republican members of the Wayne County, Michigan canvassing board
+  initially refused to certify the county result, then reversed and voted to certify,
+  then sought (unsuccessfully) to rescind their votes after the certification deadline
+  had passed — establishing that post-deadline rescission has no legal effect under
+  Michigan law. [Observed — source: Michigan Board of State Canvassers, November 17,
+  2020 meeting minutes (Michigan Department of State public record); CRS R47031]
 
-- **Partisan or extrajudicial pressure on certifiers** — pressure to alter or delay
-  certification can undermine public trust and produce contested outcomes. [Inferred —
-  documented pressure events correlate with contested certification episodes]
+- **Direct pressure on certification officials** — certification officials can face
+  documented pressure to alter results before statutory deadlines; on January 2, 2021,
+  President Trump called Georgia Secretary of State Brad Raffensperger and requested he
+  "find 11,780 votes" — a number precisely exceeding Trump's certified Georgia margin of
+  loss; the call was recorded and released publicly by Raffensperger's office on January
+  3, 2021; Raffensperger declined and the certification stood. [Observed — source:
+  Georgia Secretary of State, transcript of January 2, 2021 phone call (released January
+  3, 2021); Senate Judiciary Committee, "Subverting Justice: How the Former President and
+  His Allies Pressured DOJ to Overturn the 2020 Election," August 7, 2021]
 
 ### What evidence would prove/disprove key claims
 
@@ -98,7 +119,9 @@ and Congress. [Observed — source: 3 U.S.C. § 6; National Archives]
   minutes (prove who certified and when). [Observed — source: NARA; state records]
 - Post‑election audit reports and tabulation logs (test whether canvass reconciled totals).
   [Observed — source: state audit offices; NIST/EAC guidance]
-- Court opinions and statutory texts resolving certification authority disputes. [Observed]
+- Court opinions and statutory texts resolving certification authority disputes. [Observed
+  — source: *Wood v. Raffensperger*, No. 20-14418 (11th Cir. 2020); *Pearson v. Kemp*,
+  No. 1:20-cv-04809 (N.D. Ga. 2020)]
 - Time‑series of certification timelines across states to test whether compressing deadlines
   increases litigation incidence. [Hypothesis — testable with event data]
 
@@ -111,7 +134,7 @@ and Congress. [Observed — source: 3 U.S.C. § 6; National Archives]
   through 2024. https://www.law.cornell.edu/uscode/text/3/5
 
 - Certificate of Ascertainment. National Archives and Records Administration, 2024.
-  https://www.archives.gov/electoral-college/about
+  https://www.archives.gov/electoral-college/ascertainment
 
 - Canvass and certification of election results: state practice overview. National
   Conference of State Legislatures (NCSL), updated 2023. https://www.ncsl.org/research/elections-and-campaigns/canvass-certification-of-election-results.aspx
@@ -119,13 +142,26 @@ and Congress. [Observed — source: 3 U.S.C. § 6; National Archives]
 - The Electoral Count Reform Act of 2022 and post‑election certification. Congressional
   Research Service, CRS R47031, January 2023. https://crsreports.congress.gov/product/pdf/R/R47031
 
-- How states certify elections: procedures and post‑election checks. Brennan Center for
-  Justice, June 2021. https://www.brennancenter.org/our-work/research-reports/how-states-certify-elections
+- Post-Election Audits: Guidance for Election Officials. U.S. Election Assistance
+  Commission (EAC), updated 2024. https://www.eac.gov/election-officials/post-election-audits
 
 - Georgia Secretary of State, "Canvass and Certification — 2020 General Election"
   (official certification record and audit reports). Georgia SoS, Dec 2020.
   https://sos.ga.gov/index.php/elections/certified_results
 
+- *Wood v. Raffensperger*, No. 20-14418 (11th Cir. 2020). U.S. Court of Appeals for
+  the Eleventh Circuit (challenge to Georgia certification, dismissed on standing and
+  laches grounds). Available via PACER or court dockets.
+
+- Transcript of January 2, 2021 phone call between President Trump and Georgia Secretary
+  of State Brad Raffensperger. Released by Georgia Secretary of State's office, January
+  3, 2021. On file with Georgia SoS; reproduced in contemporaneous reporting and Senate
+  Judiciary Committee proceedings.
+
+- Senate Judiciary Committee, "Subverting Justice: How the Former President and His
+  Allies Pressured DOJ to Overturn the 2020 Election." U.S. Senate Judiciary Committee
+  Majority Staff Report, August 7, 2021.
+  https://www.judiciary.senate.gov/imo/media/doc/Interim%20Report%20-%20Subverting%20Justice.pdf
 
 ### Episode outline (6 parts)
 
@@ -137,10 +173,19 @@ and Congress. [Observed — source: 3 U.S.C. § 6; National Archives]
    officials prioritize accurate canvass records while state officials prioritize meeting
    statutory deadlines and producing a defensible certificate. [Inferred]
 
-3. **Example** — Georgia (2020): multiple recounts, an independent risk‑limiting audit,
-   and subsequent litigation produced a certified statewide result that was relied on
-   by federal repositories and Congress. [Observed — source: Georgia Secretary of State
-   certification records; audit reports]
+3. **Example** — Georgia (2020): Biden's 11,779-vote margin over Trump triggered three
+   sequential post-election reviews — an initial machine canvass, a statewide hand-count
+   risk-limiting audit (the first full hand count of a presidential race in Georgia
+   history), and a second machine recount requested by the Trump campaign — before
+   Secretary of State Brad Raffensperger certified the result on November 20, 2020.
+   Federal and state court challenges were rejected on standing and procedural grounds
+   (*Wood v. Raffensperger*, No. 20-14418, 11th Cir. 2020; *Pearson v. Kemp*, N.D. Ga.
+   2020). On January 2, 2021, President Trump called Raffensperger requesting he "find
+   11,780 votes"; the call was recorded and released publicly. Congress certified
+   Georgia's electoral votes on January 7, 2021, after proceedings were disrupted and
+   resumed. [Observed — source: Georgia SoS, 2020 General Election certification records;
+   *Wood v. Raffensperger*, No. 20-14418 (11th Cir. 2020); Georgia SoS, transcript of
+   January 2, 2021 call, released January 3, 2021]
 
 4. **Evidence** — County canvass minutes, state canvass certificates, audit reports,
    and court opinions resolving post‑certification challenges.

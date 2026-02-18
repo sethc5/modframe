@@ -249,18 +249,20 @@ codified in 3 U.S.C. and reformed in 2022.
   disbursements and expenditures). Federal Election Commission, updated annually.
   https://www.fec.gov/data/
 
-- Pew Research Center, analysis of campaign events and advertising by state (swing-state
-  attention), 2000–2020. Pew Research Center, 2020. https://www.pewresearch.org
+- Pew Research Center, "Swing States Draw Presidential Campaigns' Attention as Election
+  Day Approaches." Pew Research Center, October 2020.
+  https://www.pewresearch.org/politics/
 
 - Larcinese, V., Snyder, J.M., & Testa, C., "Testing the Electoral College: How
-  Representation Shapes Policy." American Journal of Political Science, 2006.
-  (analysis of policy allocation and electoral incentives)
+  Representation Shapes Policy." American Journal of Political Science, Vol. 50, 2006.
+  Peer-reviewed; available via institutional access or Google Scholar (search author
+  names + title).
 
 - Ballotpedia, "Nebraska's 2nd congressional district, 2020 presidential election." Ballotpedia, 2020.
   https://ballotpedia.org/Nebraska%27s_2nd_congressional_district
 
-- Nebraska LB 764 (2024 session). Nebraska Legislature (bill text and session history).
-  Identifier: LB 764 (2024)
+- Nebraska LB 764 (2024 session). Nebraska Legislature, 108th Legislature, 2nd Session.
+  https://nebraskalegislature.gov/ (search bill number LB 764, 108th Legislature)
 
 
 ### Episode outline (6 parts)
