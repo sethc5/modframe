@@ -2,7 +2,7 @@
 
 Purpose: short reference and outline for the "Campaign Finance Architecture" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
