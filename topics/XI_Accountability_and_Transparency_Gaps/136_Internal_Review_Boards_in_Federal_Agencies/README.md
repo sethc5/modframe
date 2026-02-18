@@ -6,11 +6,11 @@ Status: draft
 
 Tags: accountability, transparency, oversight
 
-Outline: see 
+Outline: see `outline.md`
 
 Contributors: add names and links here
 
 How to contribute:
-- Add citations to  under "Suggested sources"
-- Propose visuals in  and link from this README
+- Add citations to `outline.md` under "Suggested sources"
+- Propose visuals in `figures/` and link from this README
 
