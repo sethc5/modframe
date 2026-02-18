@@ -2,7 +2,7 @@
 
 Purpose: short reference and outline for the "Ranked Choice Voting Mechanics" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
