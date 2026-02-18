@@ -2,7 +2,7 @@
 
 Purpose: short reference and outline for the "Convention Delegate Math" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
