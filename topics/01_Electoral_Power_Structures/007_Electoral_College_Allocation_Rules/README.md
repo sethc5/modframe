@@ -2,7 +2,7 @@
 
 Purpose: short reference and outline for the "Electoral College Allocation Rules" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 

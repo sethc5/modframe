@@ -37,6 +37,15 @@ at a time, following the lifecycle steps in order.
 - Mark a module `sourced` if any `[Observed]` claim lacks a real citation
 - Skip steps in the lifecycle — do them in order
 - Work on more than one module at a time
+- **Create new scripts, tools, schemas, workflow files, or any infrastructure** — the
+  scaffolding is complete; your job is content only; if something seems missing, ask
+- **Create persistent files for intermediate steps** — the topic brief (Step 3) lives
+  only in your context; do not write TOPIC_CONTEXT.txt, workorder.json, or any task file
+- **Build replacement tooling when you cannot run a command** — if a script call fails,
+  report the error and ask for the output; do not build a workaround
+- **Stop and ask which option to choose mid-workflow** — the steps are specified; follow
+  them in order; only pause if you hit an ambiguity that would cause you to skip a step
+  or corrupt module content
 
 ---
 
