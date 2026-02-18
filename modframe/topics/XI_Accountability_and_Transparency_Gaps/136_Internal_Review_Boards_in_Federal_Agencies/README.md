@@ -1,0 +1,16 @@
+# Internal review boards in federal agencies
+
+Purpose: short reference and outline for the "Internal review boards in federal agencies" module.
+
+Status: draft
+
+Tags: accountability, transparency, oversight
+
+Outline: see 
+
+Contributors: add names and links here
+
+How to contribute:
+- Add citations to  under "Suggested sources"
+- Propose visuals in  and link from this README
+
