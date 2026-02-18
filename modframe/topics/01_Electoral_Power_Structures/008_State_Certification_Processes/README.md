@@ -2,7 +2,7 @@
 
 Purpose: short reference and outline for the "State Certification Processes" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
