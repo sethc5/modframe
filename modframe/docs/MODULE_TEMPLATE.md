@@ -25,13 +25,35 @@ Last reviewed: [YYYY-MM]
 
 Actors:
 	- name: [Actor name]
-		type: [regulatory_body | political_entity | court | committee | office | dataset_owner]
+		type: [regulatory_body | political_entity | institution | court | committee | office | dataset_owner]
 
 Statutes:
 	- [e.g., 52 U.S.C. § 30118]
 
 Cases:
 	- [e.g., Citizens United v. FEC, 558 U.S. 310 (2010)]
+
+Case study:
+	name: [specific event or package]
+	date: [YYYY-MM or YYYY]
+	actors:
+		- [Actor A]
+		- [Actor B]
+	outcome: [one-sentence structural outcome]
+
+Reform proposals:
+	- name: [proposal name]
+	  bill: [bill number or N/A]
+	  congress: [e.g., 118th]
+	  status: [introduced|committee|passed chamber|enacted|not advanced]
+	  addresses_failure_mode: [which failure mode and how]
+
+Data sources:
+	- source: [dataset or reporting system]
+	  format: [csv|json|api|pdf]
+	  update_frequency: [daily|monthly|quarterly|annual|ad hoc]
+	  url: [https://...]
+	  accessibility: [open|registration|restricted]
 
 How to contribute:
 
@@ -127,8 +149,9 @@ Every factual assertion must carry one of:
 1. `python scripts/generate_queue.py --next 1` — get next topic to draft
 2. `docs/prompts/draft_module.md` — generate initial outline.md content
 3. `docs/prompts/citation_pass.md` — verify and enrich sources
-4. Populate README metadata fields (`Related modules`, `Last reviewed`, `Actors`, `Statutes`, `Cases`)
-5. `python scripts/validate_metadata.py --status sourced --warn-only` — metadata quality check
-6. `docs/prompts/neutrality_pass.md` — check for framing issues
-7. `docs/prompts/final_polish.md` — prose quality pass
-8. Open PR using `.github/PULL_REQUEST_TEMPLATE.md` checklist
+4. `docs/prompts/metadata_pass.md` — populate/normalize structured README metadata
+5. `docs/prompts/linking_pass.md` — choose 3–6 high-confidence related module links
+6. `python scripts/validate_metadata.py --status sourced --warn-only` — metadata quality check
+7. `docs/prompts/neutrality_pass.md` — check for framing issues
+8. `docs/prompts/final_polish.md` — prose quality pass
+9. Open PR using `.github/PULL_REQUEST_TEMPLATE.md` checklist

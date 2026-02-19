@@ -1,0 +1,3082 @@
+[
+  {
+    "topic_id": 21,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Appropriations Process",
+    "path": "topics/02_Congressional_Power_Mechanics/021_Appropriations_Process",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 22,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Discharge Petitions",
+    "path": "topics/02_Congressional_Power_Mechanics/022_Discharge_Petitions",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 23,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Suspension of the Rules Process",
+    "path": "topics/02_Congressional_Power_Mechanics/023_Suspension_of_the_Rules_Process",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 24,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Senate Cloture Evolution",
+    "path": "topics/02_Congressional_Power_Mechanics/024_Senate_Cloture_Evolution",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 25,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Budget Control Act Legacy Effects",
+    "path": "topics/02_Congressional_Power_Mechanics/025_Budget_Control_Act_Legacy_Effects",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 26,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Debt Ceiling Leverage Mechanics",
+    "path": "topics/02_Congressional_Power_Mechanics/026_Debt_Ceiling_Leverage_Mechanics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 27,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Member Fundraising Call Time Incentives",
+    "path": "topics/02_Congressional_Power_Mechanics/027_Member_Fundraising_Call_Time_Incentives",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 28,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Congressional Caucus Blocs",
+    "path": "topics/02_Congressional_Power_Mechanics/028_Congressional_Caucus_Blocs",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 29,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Ethics Committee Enforcement Limits",
+    "path": "topics/02_Congressional_Power_Mechanics/029_Ethics_Committee_Enforcement_Limits",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 30,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "House vs Senate Structural Asymmetries",
+    "path": "topics/02_Congressional_Power_Mechanics/030_House_vs_Senate_Structural_Asymmetries",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 31,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Legislative Drafting Offices",
+    "path": "topics/02_Congressional_Power_Mechanics/031_Legislative_Drafting_Offices",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 32,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "GAO Oversight Authority",
+    "path": "topics/02_Congressional_Power_Mechanics/032_GAO_Oversight_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 33,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Conference Committee Opacity",
+    "path": "topics/02_Congressional_Power_Mechanics/033_Conference_Committee_Opacity",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 34,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Appropriations Subcommittee Jurisdictions",
+    "path": "topics/02_Congressional_Power_Mechanics/034_Appropriations_Subcommittee_Jurisdictions",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 35,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "CRS Influence",
+    "path": "topics/02_Congressional_Power_Mechanics/035_CRS_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 36,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Legislative Counsel Drafting Rules",
+    "path": "topics/02_Congressional_Power_Mechanics/036_Legislative_Counsel_Drafting_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 37,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Floor Scheduling and Motion Rules",
+    "path": "topics/02_Congressional_Power_Mechanics/037_Floor_Scheduling_and_Motion_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 38,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Amendments and Motion Pathways",
+    "path": "topics/02_Congressional_Power_Mechanics/038_Amendments_and_Motion_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 39,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Committee Reporting Requirements",
+    "path": "topics/02_Congressional_Power_Mechanics/039_Committee_Reporting_Requirements",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 40,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "House Rules Committee Control Mechanisms",
+    "path": "topics/02_Congressional_Power_Mechanics/040_House_Rules_Committee_Control_Mechanisms",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 41,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Senate Unanimous Consent Processes",
+    "path": "topics/02_Congressional_Power_Mechanics/041_Senate_Unanimous_Consent_Processes",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 42,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Leadership Whip Vote Tracking and Enforcement",
+    "path": "topics/02_Congressional_Power_Mechanics/042_Leadership_Whip_Vote_Tracking_and_Enforcement",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 43,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "White House Power Centers",
+    "path": "topics/03_Executive_Branch_Incentives/043_White_House_Power_Centers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 44,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Executive Orders and Agency Rulemaking",
+    "path": "topics/03_Executive_Branch_Incentives/044_Executive_Orders_and_Agency_Rulemaking",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 45,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Inspector Generals",
+    "path": "topics/03_Executive_Branch_Incentives/045_Inspector_Generals",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 46,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Federal Bureaucracy",
+    "path": "topics/03_Executive_Branch_Incentives/046_Federal_Bureaucracy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 47,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "OMB Apportionment Authority",
+    "path": "topics/03_Executive_Branch_Incentives/047_OMB_Apportionment_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 48,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Administrative Procedure Act Constraints",
+    "path": "topics/03_Executive_Branch_Incentives/048_Administrative_Procedure_Act_Constraints",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 49,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Federal Register Publication Cycle",
+    "path": "topics/03_Executive_Branch_Incentives/049_Federal_Register_Publication_Cycle",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 50,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Acting Appointment Rules",
+    "path": "topics/03_Executive_Branch_Incentives/050_Acting_Appointment_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 51,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "National Emergency Declaration Renewal Rules",
+    "path": "topics/03_Executive_Branch_Incentives/051_National_Emergency_Declaration_Renewal_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 52,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Executive Privilege Claims",
+    "path": "topics/03_Executive_Branch_Incentives/052_Executive_Privilege_Claims",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 53,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Security Clearance Leverage",
+    "path": "topics/03_Executive_Branch_Incentives/053_Security_Clearance_Leverage",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 54,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Interagency Process Dynamics",
+    "path": "topics/03_Executive_Branch_Incentives/054_Interagency_Process_Dynamics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 55,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Presidential Memorandum vs Executive Order",
+    "path": "topics/03_Executive_Branch_Incentives/055_Presidential_Memorandum_vs_Executive_Order",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 56,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Pardon Power Mechanics",
+    "path": "topics/03_Executive_Branch_Incentives/056_Pardon_Power_Mechanics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 57,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "OMB Circulars and Compliance Enforcement",
+    "path": "topics/03_Executive_Branch_Incentives/057_OMB_Circulars_and_Compliance_Enforcement",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 58,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Interagency Budget Negotiation Structures",
+    "path": "topics/03_Executive_Branch_Incentives/058_Interagency_Budget_Negotiation_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 59,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Regulatory Review by White House Offices",
+    "path": "topics/03_Executive_Branch_Incentives/059_Regulatory_Review_by_White_House_Offices",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 60,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Presidential Signing Statements and Limits",
+    "path": "topics/03_Executive_Branch_Incentives/060_Presidential_Signing_Statements_and_Limits",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 61,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Federal Advisory Committees",
+    "path": "topics/03_Executive_Branch_Incentives/061_Federal_Advisory_Committees",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 62,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Special Commissions and Panels",
+    "path": "topics/03_Executive_Branch_Incentives/062_Special_Commissions_and_Panels",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 63,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Executive Branch Interdepartmental Task Forces",
+    "path": "topics/03_Executive_Branch_Incentives/063_Executive_Branch_Interdepartmental_Task_Forces",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 64,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Federal Rulemaking Notice Comment Cycles",
+    "path": "topics/03_Executive_Branch_Incentives/064_Federal_Rulemaking_Notice_Comment_Cycles",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 65,
+    "section": "03_Executive_Branch_Incentives",
+    "topic_name": "Acting Official Limitations and Succession Rules",
+    "path": "topics/03_Executive_Branch_Incentives/065_Acting_Official_Limitations_and_Succession_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 66,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Lobbying Industry Structure",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/066_Lobbying_Industry_Structure",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 67,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Think Tanks and Policy Incubators",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/067_Think_Tanks_and_Policy_Incubators",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 68,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Law Firms and Strategic Litigation",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/068_Law_Firms_and_Strategic_Litigation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 69,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Defense and Intelligence Contractors",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/069_Defense_and_Intelligence_Contractors",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 70,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Revolving Door Timelines and Restrictions",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/070_Revolving_Door_Timelines_and_Restrictions",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 71,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Trade Association Coordination Networks",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/071_Trade_Association_Coordination_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 72,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Lobbying Disclosure Thresholds",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/072_Lobbying_Disclosure_Thresholds",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 73,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Grassroots vs Astroturf Advocacy Pathways",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/073_Grassroots_vs_Astroturf_Advocacy_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 74,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Lobbyist Bundling and Influence Aggregation",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/074_Lobbyist_Bundling_and_Influence_Aggregation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 75,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Foreign Lobbying Regulations FARA",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/075_Foreign_Lobbying_Regulations_FARA",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 76,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Issue Advocacy vs Electoral Advocacy Rules",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/076_Issue_Advocacy_vs_Electoral_Advocacy_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 77,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Political Consultancy Networks",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/077_Political_Consultancy_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 78,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Coalition Building for Policy Wins",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/078_Coalition_Building_for_Policy_Wins",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 79,
+    "section": "04_Revolving_Door_and_Influence_Networks",
+    "topic_name": "Litigation and Amicus Brief Influence",
+    "path": "topics/04_Revolving_Door_and_Influence_Networks/079_Litigation_and_Amicus_Brief_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 80,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Cable News Incentives",
+    "path": "topics/05_Media_Ecosystem_Influence/080_Cable_News_Incentives",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 81,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Digital Media and Algorithmic Amplification",
+    "path": "topics/05_Media_Ecosystem_Influence/081_Digital_Media_and_Algorithmic_Amplification",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 82,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Political PR and Crisis Communications",
+    "path": "topics/05_Media_Ecosystem_Influence/082_Political_PR_and_Crisis_Communications",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 83,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Platform Moderation Governance",
+    "path": "topics/05_Media_Ecosystem_Influence/083_Platform_Moderation_Governance",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 84,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Political Ad Microtargeting Systems",
+    "path": "topics/05_Media_Ecosystem_Influence/084_Political_Ad_Microtargeting_Systems",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 85,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Media Ownership Consolidation",
+    "path": "topics/05_Media_Ecosystem_Influence/085_Media_Ownership_Consolidation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 86,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Public Broadcasting Funding Mechanisms",
+    "path": "topics/05_Media_Ecosystem_Influence/086_Public_Broadcasting_Funding_Mechanisms",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 87,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Intelligence Community Oversight Architecture",
+    "path": "topics/05_Media_Ecosystem_Influence/087_Intelligence_Community_Oversight_Architecture",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 88,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Leaks and Whistleblower Protection Frameworks",
+    "path": "topics/05_Media_Ecosystem_Influence/088_Leaks_and_Whistleblower_Protection_Frameworks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 89,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Foreign Disinformation Detection Systems",
+    "path": "topics/05_Media_Ecosystem_Influence/089_Foreign_Disinformation_Detection_Systems",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 90,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Cable Network Narrative Cycles",
+    "path": "topics/05_Media_Ecosystem_Influence/090_Cable_Network_Narrative_Cycles",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 91,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Algorithmic Amplification Mechanics on Social Media",
+    "path": "topics/05_Media_Ecosystem_Influence/091_Algorithmic_Amplification_Mechanics_on_Social_Media",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 92,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Political Influencer Ecosystem",
+    "path": "topics/05_Media_Ecosystem_Influence/092_Political_Influencer_Ecosystem",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 93,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Online Video Virality Structures",
+    "path": "topics/05_Media_Ecosystem_Influence/093_Online_Video_Virality_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 94,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "PR Rapid Response Playbooks",
+    "path": "topics/05_Media_Ecosystem_Influence/094_PR_Rapid_Response_Playbooks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 95,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Data Driven Audience Segmentation",
+    "path": "topics/05_Media_Ecosystem_Influence/095_Data_Driven_Audience_Segmentation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 96,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Editorial Board Influence on Coverage",
+    "path": "topics/05_Media_Ecosystem_Influence/096_Editorial_Board_Influence_on_Coverage",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 97,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "News Aggregation Platforms and Ranking Dynamics",
+    "path": "topics/05_Media_Ecosystem_Influence/097_News_Aggregation_Platforms_and_Ranking_Dynamics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 98,
+    "section": "05_Media_Ecosystem_Influence",
+    "topic_name": "Meme and Narrative Propagation Networks",
+    "path": "topics/05_Media_Ecosystem_Influence/098_Meme_and_Narrative_Propagation_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 99,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Federal Judicial Appointments",
+    "path": "topics/06_Judicial_Power_Structure/099_Federal_Judicial_Appointments",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 100,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Supreme Court Influence",
+    "path": "topics/06_Judicial_Power_Structure/100_Supreme_Court_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 101,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "State Court Power",
+    "path": "topics/06_Judicial_Power_Structure/101_State_Court_Power",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 102,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Strategic Case Selection Pipelines",
+    "path": "topics/06_Judicial_Power_Structure/102_Strategic_Case_Selection_Pipelines",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 103,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Amicus Brief Coalitions",
+    "path": "topics/06_Judicial_Power_Structure/103_Amicus_Brief_Coalitions",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 104,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Forum Shopping Strategies",
+    "path": "topics/06_Judicial_Power_Structure/104_Forum_Shopping_Strategies",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 105,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Nationwide Injunction Dynamics",
+    "path": "topics/06_Judicial_Power_Structure/105_Nationwide_Injunction_Dynamics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 106,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Judicial Ethics Oversight Limits",
+    "path": "topics/06_Judicial_Power_Structure/106_Judicial_Ethics_Oversight_Limits",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 107,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "State Attorney General Multistate Coalitions",
+    "path": "topics/06_Judicial_Power_Structure/107_State_Attorney_General_Multistate_Coalitions",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 108,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Special Counsel Regulations",
+    "path": "topics/06_Judicial_Power_Structure/108_Special_Counsel_Regulations",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 109,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Sentencing Guideline Discretion",
+    "path": "topics/06_Judicial_Power_Structure/109_Sentencing_Guideline_Discretion",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 110,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Federal Appellate Court Panel Selection Dynamics",
+    "path": "topics/06_Judicial_Power_Structure/110_Federal_Appellate_Court_Panel_Selection_Dynamics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 111,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Judicial Recusal Practices and Enforcement",
+    "path": "topics/06_Judicial_Power_Structure/111_Judicial_Recusal_Practices_and_Enforcement",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 112,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Supreme Court Certiorari Petition Influence",
+    "path": "topics/06_Judicial_Power_Structure/112_Supreme_Court_Certiorari_Petition_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 113,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "State Federal Litigation Interplay",
+    "path": "topics/06_Judicial_Power_Structure/113_State_Federal_Litigation_Interplay",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 114,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Legal Standing Limitations in Systemic Cases",
+    "path": "topics/06_Judicial_Power_Structure/114_Legal_Standing_Limitations_in_Systemic_Cases",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 115,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Class Action Procedural Pathways",
+    "path": "topics/06_Judicial_Power_Structure/115_Class_Action_Procedural_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 116,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Amicus Brief Coordination Networks",
+    "path": "topics/06_Judicial_Power_Structure/116_Amicus_Brief_Coordination_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 117,
+    "section": "06_Judicial_Power_Structure",
+    "topic_name": "Judicial Confirmation Influence Networks",
+    "path": "topics/06_Judicial_Power_Structure/117_Judicial_Confirmation_Influence_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 118,
+    "section": "07_State-Level_Power_Laboratories",
+    "topic_name": "Governors Emergency Powers",
+    "path": "topics/07_State-Level_Power_Laboratories/118_Governors_Emergency_Powers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 119,
+    "section": "07_State-Level_Power_Laboratories",
+    "topic_name": "Attorneys General",
+    "path": "topics/07_State-Level_Power_Laboratories/119_Attorneys_General",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 120,
+    "section": "07_State-Level_Power_Laboratories",
+    "topic_name": "Model Legislation Networks",
+    "path": "topics/07_State-Level_Power_Laboratories/120_Model_Legislation_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 121,
+    "section": "07_State-Level_Power_Laboratories",
+    "topic_name": "Preemption Laws",
+    "path": "topics/07_State-Level_Power_Laboratories/121_Preemption_Laws",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 122,
+    "section": "07_State-Level_Power_Laboratories",
+    "topic_name": "State Constitutional Amendment Processes",
+    "path": "topics/07_State-Level_Power_Laboratories/122_State_Constitutional_Amendment_Processes",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 123,
+    "section": "07_State-Level_Power_Laboratories",
+    "topic_name": "Red State Blue State Policy Export Networks",
+    "path": "topics/07_State-Level_Power_Laboratories/123_Red_State_Blue_State_Policy_Export_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 124,
+    "section": "07_State-Level_Power_Laboratories",
+    "topic_name": "Governors Budget Line Item Veto Power",
+    "path": "topics/07_State-Level_Power_Laboratories/124_Governors_Budget_Line_Item_Veto_Power",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 125,
+    "section": "07_State-Level_Power_Laboratories",
+    "topic_name": "State Supreme Court Appointment Models",
+    "path": "topics/07_State-Level_Power_Laboratories/125_State_Supreme_Court_Appointment_Models",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 126,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Pharma and Health Policy",
+    "path": "topics/08_Money_and_Industry_Influence/126_Pharma_and_Health_Policy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 127,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Energy and Environmental Policy",
+    "path": "topics/08_Money_and_Industry_Influence/127_Energy_and_Environmental_Policy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 128,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Tech Regulation",
+    "path": "topics/08_Money_and_Industry_Influence/128_Tech_Regulation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 129,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Wall Street and Financial Oversight",
+    "path": "topics/08_Money_and_Industry_Influence/129_Wall_Street_and_Financial_Oversight",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 130,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Federal Reserve Independence Structure",
+    "path": "topics/08_Money_and_Industry_Influence/130_Federal_Reserve_Independence_Structure",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 131,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Treasury Market Stabilization Tools",
+    "path": "topics/08_Money_and_Industry_Influence/131_Treasury_Market_Stabilization_Tools",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 132,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Bank Regulatory Capital Standards",
+    "path": "topics/08_Money_and_Industry_Influence/132_Bank_Regulatory_Capital_Standards",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 133,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Financial Stability Oversight Council Authority",
+    "path": "topics/08_Money_and_Industry_Influence/133_Financial_Stability_Oversight_Council_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 134,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Debt Issuance Structure",
+    "path": "topics/08_Money_and_Industry_Influence/134_Debt_Issuance_Structure",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 135,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Procurement Contracting Pathways",
+    "path": "topics/08_Money_and_Industry_Influence/135_Procurement_Contracting_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 136,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Government Subsidy Design Mechanics",
+    "path": "topics/08_Money_and_Industry_Influence/136_Government_Subsidy_Design_Mechanics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 137,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Tax Expenditure Architecture",
+    "path": "topics/08_Money_and_Industry_Influence/137_Tax_Expenditure_Architecture",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 138,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Federal Debt Issuance and Auction Structures",
+    "path": "topics/08_Money_and_Industry_Influence/138_Federal_Debt_Issuance_and_Auction_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 139,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Tax Expenditure Allocation Processes",
+    "path": "topics/08_Money_and_Industry_Influence/139_Tax_Expenditure_Allocation_Processes",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 140,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Agency Specific Subsidy Frameworks",
+    "path": "topics/08_Money_and_Industry_Influence/140_Agency_Specific_Subsidy_Frameworks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 141,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Treasury Emergency Lending Powers",
+    "path": "topics/08_Money_and_Industry_Influence/141_Treasury_Emergency_Lending_Powers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 142,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Fed Open Market Operations Structure",
+    "path": "topics/08_Money_and_Industry_Influence/142_Fed_Open_Market_Operations_Structure",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 143,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Banking Regulatory Enforcement Layers",
+    "path": "topics/08_Money_and_Industry_Influence/143_Banking_Regulatory_Enforcement_Layers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 144,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Commodity Futures Regulation Mechanics",
+    "path": "topics/08_Money_and_Industry_Influence/144_Commodity_Futures_Regulation_Mechanics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 145,
+    "section": "08_Money_and_Industry_Influence",
+    "topic_name": "Corporate Lobbying on Financial Rules",
+    "path": "topics/08_Money_and_Industry_Influence/145_Corporate_Lobbying_on_Financial_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 146,
+    "section": "09_Crisis_Governance",
+    "topic_name": "National Emergencies",
+    "path": "topics/09_Crisis_Governance/146_National_Emergencies",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 147,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Pandemic Governance",
+    "path": "topics/09_Crisis_Governance/147_Pandemic_Governance",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 148,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Intelligence and Surveillance",
+    "path": "topics/09_Crisis_Governance/148_Intelligence_and_Surveillance",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 149,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Stafford Act Disaster Authority",
+    "path": "topics/09_Crisis_Governance/149_Stafford_Act_Disaster_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 150,
+    "section": "09_Crisis_Governance",
+    "topic_name": "War Powers Resolution Enforcement Limits",
+    "path": "topics/09_Crisis_Governance/150_War_Powers_Resolution_Enforcement_Limits",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 151,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Continuity of Government Planning",
+    "path": "topics/09_Crisis_Governance/151_Continuity_of_Government_Planning",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 152,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Defense Production Act Activation Rules",
+    "path": "topics/09_Crisis_Governance/152_Defense_Production_Act_Activation_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 153,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Pandemic Response Chains of Authority",
+    "path": "topics/09_Crisis_Governance/153_Pandemic_Response_Chains_of_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 154,
+    "section": "09_Crisis_Governance",
+    "topic_name": "National Security Emergency Declarations",
+    "path": "topics/09_Crisis_Governance/154_National_Security_Emergency_Declarations",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 155,
+    "section": "09_Crisis_Governance",
+    "topic_name": "FEMA Response Planning Hierarchies",
+    "path": "topics/09_Crisis_Governance/155_FEMA_Response_Planning_Hierarchies",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 156,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Continuity of Government Logistics",
+    "path": "topics/09_Crisis_Governance/156_Continuity_of_Government_Logistics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 157,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Disaster Declaration Trigger Points",
+    "path": "topics/09_Crisis_Governance/157_Disaster_Declaration_Trigger_Points",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 158,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Federal State Coordination Structures",
+    "path": "topics/09_Crisis_Governance/158_Federal_State_Coordination_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 159,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Defense Production Act Deployment Process",
+    "path": "topics/09_Crisis_Governance/159_Defense_Production_Act_Deployment_Process",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 160,
+    "section": "09_Crisis_Governance",
+    "topic_name": "Emergency Funding Appropriation Pathways",
+    "path": "topics/09_Crisis_Governance/160_Emergency_Funding_Appropriation_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 161,
+    "section": "10_Structural_Incentives_Behind_Polarization",
+    "topic_name": "Fundraising Incentives for Conflict",
+    "path": "topics/10_Structural_Incentives_Behind_Polarization/161_Fundraising_Incentives_for_Conflict",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 162,
+    "section": "10_Structural_Incentives_Behind_Polarization",
+    "topic_name": "Safe District Effects",
+    "path": "topics/10_Structural_Incentives_Behind_Polarization/162_Safe_District_Effects",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 163,
+    "section": "10_Structural_Incentives_Behind_Polarization",
+    "topic_name": "Media Fragmentation",
+    "path": "topics/10_Structural_Incentives_Behind_Polarization/163_Media_Fragmentation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 164,
+    "section": "10_Structural_Incentives_Behind_Polarization",
+    "topic_name": "Primary Threat Leverage",
+    "path": "topics/10_Structural_Incentives_Behind_Polarization/164_Primary_Threat_Leverage",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 165,
+    "section": "10_Structural_Incentives_Behind_Polarization",
+    "topic_name": "Donor Ideological Filtering",
+    "path": "topics/10_Structural_Incentives_Behind_Polarization/165_Donor_Ideological_Filtering",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 166,
+    "section": "10_Structural_Incentives_Behind_Polarization",
+    "topic_name": "Political Consultant Economy",
+    "path": "topics/10_Structural_Incentives_Behind_Polarization/166_Political_Consultant_Economy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 182,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "FARA Enforcement",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/182_FARA_Enforcement",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 183,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "Sovereign Wealth Fund Investments",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/183_Sovereign_Wealth_Fund_Investments",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 184,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "Defense Alliance Pressure Networks",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/184_Defense_Alliance_Pressure_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 185,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "Trade Policy Lobbying",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/185_Trade_Policy_Lobbying",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 186,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "Treaty Ratification Process",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/186_Treaty_Ratification_Process",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 187,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "Trade Negotiation Fast Track Authority",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/187_Trade_Negotiation_Fast_Track_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 188,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "Sanctions Regime Architecture",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/188_Sanctions_Regime_Architecture",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 189,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "NATO Funding Mechanics",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/189_NATO_Funding_Mechanics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 190,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "Foreign Aid Authorization vs Appropriation",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/190_Foreign_Aid_Authorization_vs_Appropriation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 191,
+    "section": "12_Foreign_Influence_and_Global_Intersections",
+    "topic_name": "Sovereign Debt Diplomacy",
+    "path": "topics/12_Foreign_Influence_and_Global_Intersections/191_Sovereign_Debt_Diplomacy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 192,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Political Consultant Compensation Incentives",
+    "path": "topics/13_Meta_Incentive_Structures/192_Political_Consultant_Compensation_Incentives",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 193,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Think Tank Funding Transparency Gaps",
+    "path": "topics/13_Meta_Incentive_Structures/193_Think_Tank_Funding_Transparency_Gaps",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 194,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Donor Advised Fund Political Pathways",
+    "path": "topics/13_Meta_Incentive_Structures/194_Donor_Advised_Fund_Political_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 195,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Philanthropic Foundation Influence",
+    "path": "topics/13_Meta_Incentive_Structures/195_Philanthropic_Foundation_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 196,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Litigation Finance Industry",
+    "path": "topics/13_Meta_Incentive_Structures/196_Litigation_Finance_Industry",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 197,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Corporate Political Compliance Departments",
+    "path": "topics/13_Meta_Incentive_Structures/197_Corporate_Political_Compliance_Departments",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 198,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Congressional Post Office Employment Pathways",
+    "path": "topics/13_Meta_Incentive_Structures/198_Congressional_Post_Office_Employment_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 199,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Political Risk Insurance Markets",
+    "path": "topics/13_Meta_Incentive_Structures/199_Political_Risk_Insurance_Markets",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 200,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Litigation Finance Pathways for Systemic Influence",
+    "path": "topics/13_Meta_Incentive_Structures/200_Litigation_Finance_Pathways_for_Systemic_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 201,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Political Consultant Revenue Incentives",
+    "path": "topics/13_Meta_Incentive_Structures/201_Political_Consultant_Revenue_Incentives",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 202,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Think Tank Funding Influence Mapping",
+    "path": "topics/13_Meta_Incentive_Structures/202_Think_Tank_Funding_Influence_Mapping",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 203,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Donor Advised Fund Political Contribution Pipelines",
+    "path": "topics/13_Meta_Incentive_Structures/203_Donor_Advised_Fund_Political_Contribution_Pipelines",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 204,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Corporate PAC Compliance Rules",
+    "path": "topics/13_Meta_Incentive_Structures/204_Corporate_PAC_Compliance_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 205,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Revolving Door Long Term Influence Chains",
+    "path": "topics/13_Meta_Incentive_Structures/205_Revolving_Door_Long_Term_Influence_Chains",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 206,
+    "section": "13_Meta_Incentive_Structures",
+    "topic_name": "Academic Policy Cross Pollination Pathways",
+    "path": "topics/13_Meta_Incentive_Structures/206_Academic_Policy_Cross_Pollination_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 207,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "State Legislature Committee Hierarchy",
+    "path": "topics/14_State_and_Local_Power_Structures/207_State_Legislature_Committee_Hierarchy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 208,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "State Budgetary Control Mechanisms",
+    "path": "topics/14_State_and_Local_Power_Structures/208_State_Budgetary_Control_Mechanisms",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 209,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "State Administrative Rulemaking Processes",
+    "path": "topics/14_State_and_Local_Power_Structures/209_State_Administrative_Rulemaking_Processes",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 210,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "Governor Veto and Line Item Veto Powers",
+    "path": "topics/14_State_and_Local_Power_Structures/210_Governor_Veto_and_Line_Item_Veto_Powers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 211,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "State Supreme Court Appointment Election Systems",
+    "path": "topics/14_State_and_Local_Power_Structures/211_State_Supreme_Court_Appointment_Election_Systems",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 212,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "State Attorney General Authority and Multistate Coalition Influence",
+    "path": "topics/14_State_and_Local_Power_Structures/212_State_Attorney_General_Authority_and_Multistate_Coalition_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 213,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "Local Government Home Rule Powers",
+    "path": "topics/14_State_and_Local_Power_Structures/213_Local_Government_Home_Rule_Powers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 214,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "Municipal Bond Issuance Governance",
+    "path": "topics/14_State_and_Local_Power_Structures/214_Municipal_Bond_Issuance_Governance",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 215,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "Local Zoning and Planning Board Influence",
+    "path": "topics/14_State_and_Local_Power_Structures/215_Local_Zoning_and_Planning_Board_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 216,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "State Election Certification and Canvassing Boards",
+    "path": "topics/14_State_and_Local_Power_Structures/216_State_Election_Certification_and_Canvassing_Boards",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 217,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "Intergovernmental Grant Allocation Frameworks",
+    "path": "topics/14_State_and_Local_Power_Structures/217_Intergovernmental_Grant_Allocation_Frameworks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 218,
+    "section": "14_State_and_Local_Power_Structures",
+    "topic_name": "State Emergency Management Authority",
+    "path": "topics/14_State_and_Local_Power_Structures/218_State_Emergency_Management_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 219,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Federal Agency Inspector General Networks",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/219_Federal_Agency_Inspector_General_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 220,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Agency Internal Review Boards and Appeals",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/220_Agency_Internal_Review_Boards_and_Appeals",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 221,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Office of Management and Budget Regulatory Review",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/221_Office_of_Management_and_Budget_Regulatory_Review",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 222,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Regulatory Impact Analysis RIA Frameworks",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/222_Regulatory_Impact_Analysis_RIA_Frameworks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 223,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Cost Benefit Assessment Structures",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/223_Cost_Benefit_Assessment_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 224,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Agency Advisory Committee Structures",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/224_Agency_Advisory_Committee_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 225,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Licensing and Permitting Authority Chains",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/225_Licensing_and_Permitting_Authority_Chains",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 226,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Administrative Adjudication Processes",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/226_Administrative_Adjudication_Processes",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 227,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Enforcement Discretion and Prosecutorial Priority",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/227_Enforcement_Discretion_and_Prosecutorial_Priority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 228,
+    "section": "15_Regulatory_and_Administrative_Oversight",
+    "topic_name": "Agency Interdepartmental Coordination",
+    "path": "topics/15_Regulatory_and_Administrative_Oversight/228_Agency_Interdepartmental_Coordination",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 229,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Professional Association Lobbying Pathways",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/229_Professional_Association_Lobbying_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 230,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Corporate Trade Association Coordination",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/230_Corporate_Trade_Association_Coordination",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 231,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Coalition Formation for Federal Legislation",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/231_Coalition_Formation_for_Federal_Legislation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 232,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Grassroots vs Astroturf Mobilization",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/232_Grassroots_vs_Astroturf_Mobilization",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 233,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Political Consultant Client Networks",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/233_Political_Consultant_Client_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 234,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Lobbying Expenditure Thresholds and Disclosure",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/234_Lobbying_Expenditure_Thresholds_and_Disclosure",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 235,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Shadow Lobbying and Indirect Influence Networks",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/235_Shadow_Lobbying_and_Indirect_Influence_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 236,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Issue Based Advocacy vs Candidate Focused Advocacy",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/236_Issue_Based_Advocacy_vs_Candidate_Focused_Advocacy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 237,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "PAC Bundling and Donor Influence Mapping",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/237_PAC_Bundling_and_Donor_Influence_Mapping",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 238,
+    "section": "16_Lobbying_Advocacy_and_Influence_Networks",
+    "topic_name": "Legal Strategies to Affect Policy Amicus Briefs and Strategic Litigation",
+    "path": "topics/16_Lobbying_Advocacy_and_Influence_Networks/238_Legal_Strategies_to_Affect_Policy_Amicus_Briefs_and_Strategic_Litigation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 239,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Cable and Broadcast News Cycle Dependencies",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/239_Cable_and_Broadcast_News_Cycle_Dependencies",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 240,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Social Media Algorithmic Amplification",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/240_Social_Media_Algorithmic_Amplification",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 241,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Digital Microtargeting Ad Networks",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/241_Digital_Microtargeting_Ad_Networks",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 242,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Influencer Ecosystem for Political Messaging",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/242_Influencer_Ecosystem_for_Political_Messaging",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 243,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Meme Propagation Pathways",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/243_Meme_Propagation_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 244,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Editorial Board Agenda Setting Power",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/244_Editorial_Board_Agenda_Setting_Power",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 245,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Rapid Response PR War Rooms",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/245_Rapid_Response_PR_War_Rooms",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 246,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Syndicated OpEd and Think Tank Influence",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/246_Syndicated_OpEd_and_Think_Tank_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 247,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "News Aggregation Platforms and Ranking Impact",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/247_News_Aggregation_Platforms_and_Ranking_Impact",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 248,
+    "section": "17_Media_Narrative_and_Communication_Structures",
+    "topic_name": "Cross Platform Audience Segmentation",
+    "path": "topics/17_Media_Narrative_and_Communication_Structures/248_Cross_Platform_Audience_Segmentation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 249,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Strategic Selection of Legal Venues",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/249_Strategic_Selection_of_Legal_Venues",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 250,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Federal vs State Court Interplay",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/250_Federal_vs_State_Court_Interplay",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 251,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Class Action Procedural Influence",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/251_Class_Action_Procedural_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 252,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Judicial Standing Limitations",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/252_Judicial_Standing_Limitations",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 253,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Appellate Court Panel Selection Dynamics",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/253_Appellate_Court_Panel_Selection_Dynamics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 254,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Supreme Court Certiorari Pipelines",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/254_Supreme_Court_Certiorari_Pipelines",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 255,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Recusal Practices and Enforcement",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/255_Recusal_Practices_and_Enforcement",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 256,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Legal Precedent Interpretation NetworkS",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/256_Legal_Precedent_Interpretation_NetworkS",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 257,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Multistate Litigation Coordination",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/257_Multistate_Litigation_Coordination",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 258,
+    "section": "18_Judicial_and_Legal_Process_Expanded",
+    "topic_name": "Special Counsel Appointment and Reporting",
+    "path": "topics/18_Judicial_and_Legal_Process_Expanded/258_Special_Counsel_Appointment_and_Reporting",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 259,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Federal Budget Reconciliation Mechanics",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/259_Federal_Budget_Reconciliation_Mechanics",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 260,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Congressional Appropriations Process",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/260_Congressional_Appropriations_Process",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 261,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Debt Ceiling Negotiation Leverage",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/261_Debt_Ceiling_Negotiation_Leverage",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 262,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Federal Reserve Emergency Powers",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/262_Federal_Reserve_Emergency_Powers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 263,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Treasury Issuance of Securities",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/263_Treasury_Issuance_of_Securities",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 264,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Tax Expenditure Influence Structures",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/264_Tax_Expenditure_Influence_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 265,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Corporate Lobbying on Financial Regulation",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/265_Corporate_Lobbying_on_Financial_Regulation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 266,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Agency Specific Subsidy Allocation",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/266_Agency_Specific_Subsidy_Allocation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 267,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "Commodity and Energy Market Regulatory Pathways",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/267_Commodity_and_Energy_Market_Regulatory_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 268,
+    "section": "19_Financial_Economic_and_Policy_Levers",
+    "topic_name": "State Level Tax and Fiscal Policy Levers",
+    "path": "topics/19_Financial_Economic_and_Policy_Levers/268_State_Level_Tax_and_Fiscal_Policy_Levers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 269,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "Pandemic Response Chains of Authority",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/269_Pandemic_Response_Chains_of_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 270,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "Disaster Declaration Trigger Points",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/270_Disaster_Declaration_Trigger_Points",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 271,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "FEMA Organizational Hierarchy",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/271_FEMA_Organizational_Hierarchy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 272,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "Continuity of Government Planning",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/272_Continuity_of_Government_Planning",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 273,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "Defense Production Act Activation Rules",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/273_Defense_Production_Act_Activation_Rules",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 274,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "National Security Emergency Declarations",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/274_National_Security_Emergency_Declarations",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 275,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "Federal State Emergency Coordination",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/275_Federal_State_Emergency_Coordination",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 276,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "Federal Emergency Funding Disbursement Processes",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/276_Federal_Emergency_Funding_Disbursement_Processes",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 277,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "Presidential Emergency Powers",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/277_Presidential_Emergency_Powers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 278,
+    "section": "20_Crisis_Emergency_and_Contingency_Structures",
+    "topic_name": "Critical Infrastructure Protection Chains",
+    "path": "topics/20_Crisis_Emergency_and_Contingency_Structures/278_Critical_Infrastructure_Protection_Chains",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 279,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Political Risk Insurance Markets",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/279_Political_Risk_Insurance_Markets",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 280,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Litigation Finance Pathways for Policy Influence",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/280_Litigation_Finance_Pathways_for_Policy_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 281,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Revolving Door Long Term Influence Chains",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/281_Revolving_Door_Long_Term_Influence_Chains",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 282,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Think Tank Funding Influence",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/282_Think_Tank_Funding_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 283,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Donor Advised Fund Political Contribution Pipelines",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/283_Donor_Advised_Fund_Political_Contribution_Pipelines",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 284,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Corporate PAC Compliance Structures",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/284_Corporate_PAC_Compliance_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 285,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Academic Policy Cross Pollination Pathways",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/285_Academic_Policy_Cross_Pollination_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 286,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Strategic Alliances between Lobbying Firms and Agencies",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/286_Strategic_Alliances_between_Lobbying_Firms_and_Agencies",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 287,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Institutionalized Conflict of Interest Loopholes",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/287_Institutionalized_Conflict_of_Interest_Loopholes",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 288,
+    "section": "21_Meta_Incentive_and_Cross_Cutting_Structures",
+    "topic_name": "Multilayered Coalition Building Across Branches",
+    "path": "topics/21_Meta_Incentive_and_Cross_Cutting_Structures/288_Multilayered_Coalition_Building_Across_Branches",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 289,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "Treaty Ratification Processes",
+    "path": "topics/22_International_and_Geopolitical_Intersections/289_Treaty_Ratification_Processes",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 290,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "Fast Track Trade Negotiation Authority",
+    "path": "topics/22_International_and_Geopolitical_Intersections/290_Fast_Track_Trade_Negotiation_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 291,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "International Sanctions Enforcement Chains",
+    "path": "topics/22_International_and_Geopolitical_Intersections/291_International_Sanctions_Enforcement_Chains",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 292,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "NATO and Alliance Budget Influence",
+    "path": "topics/22_International_and_Geopolitical_Intersections/292_NATO_and_Alliance_Budget_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 293,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "Foreign Aid Authorization vs Appropriation",
+    "path": "topics/22_International_and_Geopolitical_Intersections/293_Foreign_Aid_Authorization_vs_Appropriation",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 294,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "Sovereign Debt Diplomacy Mechanisms",
+    "path": "topics/22_International_and_Geopolitical_Intersections/294_Sovereign_Debt_Diplomacy_Mechanisms",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 295,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "International Lobbying Pathways",
+    "path": "topics/22_International_and_Geopolitical_Intersections/295_International_Lobbying_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 296,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "Global Trade Compliance and Enforcement",
+    "path": "topics/22_International_and_Geopolitical_Intersections/296_Global_Trade_Compliance_and_Enforcement",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 297,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "Cross Border Financial Regulation Influence",
+    "path": "topics/22_International_and_Geopolitical_Intersections/297_Cross_Border_Financial_Regulation_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 298,
+    "section": "22_International_and_Geopolitical_Intersections",
+    "topic_name": "Foreign Direct Investment Policy Pathways",
+    "path": "topics/22_International_and_Geopolitical_Intersections/298_Foreign_Direct_Investment_Policy_Pathways",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 299,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Algorithmic Governance Impact on Public Policy",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/299_Algorithmic_Governance_Impact_on_Public_Policy",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 300,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Digital Surveillance and Civil Liberties Enforcement",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/300_Digital_Surveillance_and_Civil_Liberties_Enforcement",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 301,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Cybersecurity Policy Authority",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/301_Cybersecurity_Policy_Authority",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 302,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Data Privacy Regulatory Structures",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/302_Data_Privacy_Regulatory_Structures",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 303,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Tech Platform Regulatory Influence",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/303_Tech_Platform_Regulatory_Influence",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 304,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Political Misinformation Mitigation FrameworkS",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/304_Political_Misinformation_Mitigation_FrameworkS",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 305,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Cross Branch Task Forces for Emerging Threats",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/305_Cross_Branch_Task_Forces_for_Emerging_Threats",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 306,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Intersectional Policy Impact Mapping",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/306_Intersectional_Policy_Impact_Mapping",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 307,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Artificial Intelligence Governance Levers",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/307_Artificial_Intelligence_Governance_Levers",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 308,
+    "section": "23_Emerging_and_Overlooked_Structures",
+    "topic_name": "Strategic Interagency Policy Coordination",
+    "path": "topics/23_Emerging_and_Overlooked_Structures/308_Strategic_Interagency_Policy_Coordination",
+    "status": "draft",
+    "is_stub": true,
+    "completeness_pct": 15,
+    "priority_score": 36
+  },
+  {
+    "topic_id": 167,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Inspectors General Reporting Structures",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/167_Inspectors_General_Reporting_Structures",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 168,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Congressional Subpoena Enforcement Limits",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/168_Congressional_Subpoena_Enforcement_Limits",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 169,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "GAO Audit Cycles and Authority",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/169_GAO_Audit_Cycles_and_Authority",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 170,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "OGE Procedural Gaps",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/170_OGE_Procedural_Gaps",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 171,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Financial Disclosure Timing and Compliance Loopholes",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/171_Financial_Disclosure_Timing_and_Compliance_Loopholes",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 172,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Whistleblower Complaint Pathways",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/172_Whistleblower_Complaint_Pathways",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 173,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Ethics Waivers for Political Appointees",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/173_Ethics_Waivers_for_Political_Appointees",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 174,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Conflict of Interest Enforcement",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/174_Conflict_of_Interest_Enforcement",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 175,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Internal Review Boards in Federal Agencies",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/175_Internal_Review_Boards_in_Federal_Agencies",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 176,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Inspector General Independence Challenges",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/176_Inspector_General_Independence_Challenges",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 177,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "FOIA Limitations",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/177_FOIA_Limitations",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 178,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Ethics Enforcement Bodies",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/178_Ethics_Enforcement_Bodies",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 179,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Office of Government Ethics",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/179_Office_of_Government_Ethics",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 180,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Congressional Insider Trading Rules",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/180_Congressional_Insider_Trading_Rules",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 181,
+    "section": "11_Accountability_and_Transparency_Gaps",
+    "topic_name": "Financial Disclosure Enforcement",
+    "path": "topics/11_Accountability_and_Transparency_Gaps/181_Financial_Disclosure_Enforcement",
+    "status": "draft",
+    "is_stub": false,
+    "completeness_pct": 80,
+    "priority_score": 20
+  },
+  {
+    "topic_id": 1,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Campaign Finance Architecture",
+    "path": "topics/01_Electoral_Power_Structures/001_Campaign_Finance_Architecture",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 14
+  },
+  {
+    "topic_id": 4,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Voter Access Mechanisms",
+    "path": "topics/01_Electoral_Power_Structures/004_Voter_Access_Mechanisms",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 14
+  },
+  {
+    "topic_id": 15,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Election Litigation Pipelines",
+    "path": "topics/01_Electoral_Power_Structures/015_Election_Litigation_Pipelines",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 14
+  },
+  {
+    "topic_id": 3,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Gerrymandering Systems",
+    "path": "topics/01_Electoral_Power_Structures/003_Gerrymandering_Systems",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 5,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Ballot Initiative Systems",
+    "path": "topics/01_Electoral_Power_Structures/005_Ballot_Initiative_Systems",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 7,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Electoral College Allocation Rules",
+    "path": "topics/01_Electoral_Power_Structures/007_Electoral_College_Allocation_Rules",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 8,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "State Certification Processes",
+    "path": "topics/01_Electoral_Power_Structures/008_State_Certification_Processes",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 9,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Campaign Vendor Ecosystems",
+    "path": "topics/01_Electoral_Power_Structures/009_Campaign_Vendor_Ecosystems",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 13,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Independent Expenditure Coordination Boundaries",
+    "path": "topics/01_Electoral_Power_Structures/013_Independent_Expenditure_Coordination_Boundaries",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 14,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "State Party vs National Party Power Dynamics",
+    "path": "topics/01_Electoral_Power_Structures/014_State_Party_vs_National_Party_Power_Dynamics",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 17,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Political Action Committee Typologies",
+    "path": "topics/01_Electoral_Power_Structures/017_Political_Action_Committee_Typologies",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 18,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Committee System Power",
+    "path": "topics/02_Congressional_Power_Mechanics/018_Committee_System_Power",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 19,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Leadership Structures",
+    "path": "topics/02_Congressional_Power_Mechanics/019_Leadership_Structures",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 20,
+    "section": "02_Congressional_Power_Mechanics",
+    "topic_name": "Procedural Levers",
+    "path": "topics/02_Congressional_Power_Mechanics/020_Procedural_Levers",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 13
+  },
+  {
+    "topic_id": 2,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Primaries and Candidate Gatekeeping",
+    "path": "topics/01_Electoral_Power_Structures/002_Primaries_and_Candidate_Gatekeeping",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 12
+  },
+  {
+    "topic_id": 6,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Ranked Choice Voting Mechanics",
+    "path": "topics/01_Electoral_Power_Structures/006_Ranked_Choice_Voting_Mechanics",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 12
+  },
+  {
+    "topic_id": 10,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Political Data Brokerage Industry",
+    "path": "topics/01_Electoral_Power_Structures/010_Political_Data_Brokerage_Industry",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 12
+  },
+  {
+    "topic_id": 11,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Party Platform Drafting Process",
+    "path": "topics/01_Electoral_Power_Structures/011_Party_Platform_Drafting_Process",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 12
+  },
+  {
+    "topic_id": 12,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Convention Delegate Math",
+    "path": "topics/01_Electoral_Power_Structures/012_Convention_Delegate_Math",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 12
+  },
+  {
+    "topic_id": 16,
+    "section": "01_Electoral_Power_Structures",
+    "topic_name": "Recount Law Structures",
+    "path": "topics/01_Electoral_Power_Structures/016_Recount_Law_Structures",
+    "status": "sourced",
+    "is_stub": false,
+    "completeness_pct": 100,
+    "priority_score": 12
+  }
+]

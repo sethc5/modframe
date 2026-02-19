@@ -20,6 +20,7 @@ Usage:
 """
 
 import csv
+import datetime as dt
 import json
 import re
 import sys
@@ -34,6 +35,7 @@ STATUS_RE = re.compile(r"^Status:\s*(.+)$", re.MULTILINE)
 
 STATUS_ORDER = ["unknown", "empty", "scaffolded", "draft", "sourced", "reviewed", "published"]
 DONE_STATES = {"reviewed", "published"}
+YM_RE = re.compile(r"^(\d{4})-(0[1-9]|1[0-2])$")
 
 
 def load_placeholders() -> list[str]:
@@ -83,6 +85,78 @@ def metadata_penalty(readme_path: Path, status: str) -> int:
         if not re.search(rf"^{key}:\s*$", text, re.MULTILINE):
             penalty += 8
     return penalty
+
+
+def extract_simple_field(text: str, key: str) -> str:
+    m = re.search(rf"^{re.escape(key)}:\s*(.+)$", text, re.MULTILINE)
+    return m.group(1).strip() if m else ""
+
+
+def extract_block(text: str, key: str) -> list[str]:
+    lines = text.splitlines()
+    for i, line in enumerate(lines):
+        if line.strip() == f"{key}:":
+            block: list[str] = []
+            for nxt in lines[i + 1 :]:
+                if not nxt.strip():
+                    block.append(nxt)
+                    continue
+                if re.match(r"^[A-Za-z][A-Za-z ]+:\s*$", nxt.strip()) and not nxt.startswith((" ", "\t")):
+                    break
+                block.append(nxt)
+            return block
+    return []
+
+
+def parse_list_values(block_lines: list[str]) -> list[str]:
+    return [ln.strip()[1:].strip() for ln in block_lines if ln.strip().startswith("-")]
+
+
+def months_since(ym: str) -> int:
+    m = YM_RE.match(ym)
+    if not m:
+        return 0
+    year = int(m.group(1))
+    month = int(m.group(2))
+    today = dt.date.today()
+    return max(0, (today.year - year) * 12 + (today.month - month))
+
+
+def staleness_score(readme_path: Path, status: str) -> int:
+    if status not in {"sourced", "reviewed", "published"}:
+        return 0
+    if not readme_path.exists():
+        return 0
+    text = readme_path.read_text()
+    last_reviewed = extract_simple_field(text, "Last reviewed")
+    if not last_reviewed:
+        return 12
+    return min(24, months_since(last_reviewed))
+
+
+def legal_volatility_score(readme_path: Path, status: str) -> int:
+    if status not in {"sourced", "reviewed", "published"}:
+        return 0
+    if not readme_path.exists():
+        return 0
+    text = readme_path.read_text()
+    statutes = parse_list_values(extract_block(text, "Statutes"))
+    cases = parse_list_values(extract_block(text, "Cases"))
+    return min(12, len(statutes) + len(cases))
+
+
+def status_gap_score(status: str) -> int:
+    target_idx = STATUS_ORDER.index("published")
+    return max(0, target_idx - status_rank(status)) * 5
+
+
+def weighted_priority(readme_path: Path, status: str, completeness_pct: int) -> int:
+    metadata_missing = metadata_penalty(readme_path, status)
+    staleness = staleness_score(readme_path, status)
+    volatility = legal_volatility_score(readme_path, status)
+    gap = status_gap_score(status)
+    completion_gap = max(0, 100 - completeness_pct) // 4
+    return gap + completion_gap + staleness + volatility + metadata_missing
 
 
 def status_rank(status: str) -> int:
@@ -135,6 +209,7 @@ def scan_topics(placeholders: list[str], valid_statuses: list[str]) -> list[dict
             status = get_status(readme, valid_statuses)
             stub = is_stub(outline, placeholders)
             score = completeness_score(readme, outline, placeholders, status)
+            priority = weighted_priority(readme, status, score)
 
             rows.append({
                 "topic_id": topic_id,
@@ -144,6 +219,7 @@ def scan_topics(placeholders: list[str], valid_statuses: list[str]) -> list[dict
                 "status": status,
                 "is_stub": stub,
                 "completeness_pct": score,
+                "priority_score": priority,
             })
     return rows
 
@@ -182,10 +258,10 @@ def main(argv: list[str]) -> int:
     if status_filter:
         rows = [r for r in rows if r["status"] == status_filter]
 
-    # Sort: done topics last, incomplete sorted by (completeness asc, topic_id asc)
+    # Sort: done topics last, incomplete sorted by weighted priority then ID
     incomplete = [r for r in rows if r["status"] not in DONE_STATES]
     complete = [r for r in rows if r["status"] in DONE_STATES]
-    incomplete.sort(key=lambda r: (r["completeness_pct"], r["topic_id"]))
+    incomplete.sort(key=lambda r: (-r["priority_score"], r["topic_id"]))
     complete.sort(key=lambda r: r["topic_id"])
     queue = incomplete + complete
 
@@ -224,7 +300,7 @@ def main(argv: list[str]) -> int:
         name = r["topic_name"][:42]
         print(
             f"  [{r['topic_id']:03d}] {name:<42}  "
-            f"status={r['status']:<12}  pct={r['completeness_pct']:3d}%"
+            f"status={r['status']:<12}  pct={r['completeness_pct']:3d}%  prio={r['priority_score']:3d}"
         )
 
     if not next_n and len(incomplete) > display_limit:

@@ -20,7 +20,11 @@
    - `Actors` (list)
    - `Statutes` (list)
    - `Cases` (list)
-8. Set `Status: draft` in `README.md`.
+8. If available at this stage, add optional metadata blocks:
+   - `Case study` object
+   - `Reform proposals` list
+   - `Data sources` list
+9. Set `Status: draft` in `README.md`.
 
 ### Writing the topic brief ({{TOPIC_CONTEXT}})
 

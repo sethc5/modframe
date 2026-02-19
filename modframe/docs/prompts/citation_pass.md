@@ -17,8 +17,10 @@
 7. Normalize README metadata fields:
    - ensure `Statutes` and `Cases` lists include all legal authorities used in the module
    - ensure `Related modules` and `Last reviewed` are present
-8. Run `python scripts/validate_metadata.py --status sourced --warn-only`.
-9. Set `Status: sourced` in `README.md`.
+8. Run `docs/prompts/metadata_pass.md` to normalize structured README metadata.
+9. Run `docs/prompts/linking_pass.md` to set 3–6 high-confidence related module IDs.
+10. Run `python scripts/validate_metadata.py --status sourced --warn-only`.
+11. Set `Status: sourced` in `README.md`.
 
 ---
 

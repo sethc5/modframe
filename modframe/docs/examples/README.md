@@ -11,6 +11,8 @@ Use these when calibrating drafts, running neutrality passes, or onboarding new 
 | [002_Primaries_and_Candidate_Gatekeeping](002_Primaries_and_Candidate_Gatekeeping/outline.md) | 01 Electoral | sourced | 7 (CA Dem v. Jones, NCSL, Ballotpedia, Hall 2019, Brookings, DNC/RNC rules) |
 | [003_Gerrymandering_Systems](003_Gerrymandering_Systems/outline.md) | 01 Electoral | sourced | 7 (Rucho, VRA §10301, Allen v. Milligan, Stephanopoulos/McGhee, NCSL, Princeton GP, Dave's) |
 
+Roadmap target: maintain at least one fully structured metadata-complete golden example per top-level section.
+
 These are copies of their counterparts in `topics/`. When the topic versions advance to
 `reviewed` or `published`, update the copies here.
 

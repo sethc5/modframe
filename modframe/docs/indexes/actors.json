@@ -1,0 +1,486 @@
+[
+  {
+    "name": "Campaigns and party committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "015"
+    ]
+  },
+  {
+    "name": "Candidate committees and party committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "009",
+      "013"
+    ]
+  },
+  {
+    "name": "Candidates and campaigns",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "001"
+    ]
+  },
+  {
+    "name": "Committee chairs (House and Senate)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "018"
+    ]
+  },
+  {
+    "name": "Congressional campaign committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "019"
+    ]
+  },
+  {
+    "name": "Connected PACs (corporate, union, trade-association affiliated)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "017"
+    ]
+  },
+  {
+    "name": "Consultants, media vendors, and former campaign staff",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "013"
+    ]
+  },
+  {
+    "name": "Consulting firms (media, polling, digital, mail, field)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "009"
+    ]
+  },
+  {
+    "name": "Convention delegates",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "011"
+    ]
+  },
+  {
+    "name": "County and local party units",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "014"
+    ]
+  },
+  {
+    "name": "County election officials",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "008"
+    ]
+  },
+  {
+    "name": "County/local election administrators",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "016"
+    ]
+  },
+  {
+    "name": "Courts (state trial/appellate, federal district/circuit, Supreme Court)",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "015"
+    ]
+  },
+  {
+    "name": "Data and software vendors",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "009"
+    ]
+  },
+  {
+    "name": "Data brokers and analytics vendors",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "010"
+    ]
+  },
+  {
+    "name": "Election administrators",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "006"
+    ]
+  },
+  {
+    "name": "Election Assistance Commission (EAC)",
+    "types": [
+      "regulatory_body"
+    ],
+    "topics": [
+      "004"
+    ]
+  },
+  {
+    "name": "Electors",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "007"
+    ]
+  },
+  {
+    "name": "Government Accountability Office",
+    "types": [
+      "regulatory_body"
+    ],
+    "topics": [
+      "018"
+    ]
+  },
+  {
+    "name": "Governors",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "003"
+    ]
+  },
+  {
+    "name": "House Rules Committee",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "020"
+    ]
+  },
+  {
+    "name": "Incumbent officeholders",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "002"
+    ]
+  },
+  {
+    "name": "Independent and bipartisan redistricting commissions",
+    "types": [
+      "regulatory_body"
+    ],
+    "topics": [
+      "003"
+    ]
+  },
+  {
+    "name": "Independent expenditure-only committees (super PACs)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "013"
+    ]
+  },
+  {
+    "name": "Initiative sponsors",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "005"
+    ]
+  },
+  {
+    "name": "Leadership PACs",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "017"
+    ]
+  },
+  {
+    "name": "National party committees (DNC/RNC and congressional campaign committees)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "014"
+    ]
+  },
+  {
+    "name": "National party committees (DNC/RNC)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "011",
+      "012"
+    ]
+  },
+  {
+    "name": "Nonconnected PACs",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "017"
+    ]
+  },
+  {
+    "name": "Party leadership (Speaker and leaders)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "018"
+    ]
+  },
+  {
+    "name": "Platform committee members and subcommittee chairs",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "011"
+    ]
+  },
+  {
+    "name": "Political Action Committees (PACs)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "001"
+    ]
+  },
+  {
+    "name": "Political campaigns and party committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "010"
+    ]
+  },
+  {
+    "name": "Political party committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "001"
+    ]
+  },
+  {
+    "name": "Presidential campaigns",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "007",
+      "012"
+    ]
+  },
+  {
+    "name": "Professional signature-gathering firms",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "005"
+    ]
+  },
+  {
+    "name": "Senate Majority and Minority Leaders",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "019"
+    ]
+  },
+  {
+    "name": "Senate Parliamentarian",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "020"
+    ]
+  },
+  {
+    "name": "Senate party leadership",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "020"
+    ]
+  },
+  {
+    "name": "Speaker of the House",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "019"
+    ]
+  },
+  {
+    "name": "State and local election officials",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "004"
+    ]
+  },
+  {
+    "name": "State and local governments",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "006"
+    ]
+  },
+  {
+    "name": "State and national party committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "002"
+    ]
+  },
+  {
+    "name": "State canvassing authority / Secretary of State",
+    "types": [
+      "regulatory_body"
+    ],
+    "topics": [
+      "008"
+    ]
+  },
+  {
+    "name": "State election administrators",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "010"
+    ]
+  },
+  {
+    "name": "State election officials and attorneys general",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "015"
+    ]
+  },
+  {
+    "name": "State election officials and canvassing boards",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "016"
+    ]
+  },
+  {
+    "name": "State governments",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "002"
+    ]
+  },
+  {
+    "name": "State legislature",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "005",
+      "008"
+    ]
+  },
+  {
+    "name": "State legislatures",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "003",
+      "004",
+      "007",
+      "016"
+    ]
+  },
+  {
+    "name": "State party committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "014"
+    ]
+  },
+  {
+    "name": "State party organizations",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "012"
+    ]
+  },
+  {
+    "name": "Voting equipment vendors and state certification authorities",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "006"
+    ]
+  }
+]

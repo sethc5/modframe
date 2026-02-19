@@ -207,6 +207,15 @@ Before setting or keeping `Status: sourced`, ensure README contains:
 - `Actors:` list of actor objects (`name`, `type`)
 - `Statutes:` list of statute/regulation identifiers
 - `Cases:` list of case citations
+- Optional but high-value fields when evidence is available:
+  - `Case study:` object (`name`, `date`, `actors[]`, `outcome`)
+  - `Reform proposals:` list (`name`, `bill`, `congress`, `status`, `addresses_failure_mode`)
+  - `Data sources:` list (`source`, `format`, `update_frequency`, `url`, `accessibility`)
+
+Run prompt passes in this order after citation pass:
+
+1. `docs/prompts/metadata_pass.md`
+2. `docs/prompts/linking_pass.md`
 
 Run:
 
@@ -252,7 +261,11 @@ Run `python3 scripts/validate_completeness.py --status sourced` to check your wo
 | Check completeness | `python3 scripts/validate_completeness.py` |
 | Initial draft | `docs/prompts/draft_module.md` |
 | Add/verify citations | `docs/prompts/citation_pass.md` |
+| Normalize metadata | `docs/prompts/metadata_pass.md` |
+| Suggest related links | `docs/prompts/linking_pass.md` |
 | Validate README metadata | `python3 scripts/validate_metadata.py` |
+| Build metadata indexes | `python3 scripts/build_indexes.py` |
+| Staleness prioritization | `python3 scripts/staleness_queue.py` |
 | Neutrality review (human) | `docs/prompts/neutrality_pass.md` |
 | Final polish (human) | `docs/prompts/final_polish.md` |
 | Lifecycle rules | `docs/GOVERNANCE.md` |

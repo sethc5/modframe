@@ -40,10 +40,17 @@
   "min_claim_labels": 5,
 
   "word_count_targets": {
-    "summary_min_sentences": 2,
-    "summary_max_sentences": 4,
+    "summary_min_sentences": 3,
+    "summary_max_sentences": 5,
+    "mechanism_max_words": 30,
     "actors_min_words": 80,
     "process_min_steps": 3,
     "sources_min_entries": 3
+  },
+
+  "citation_rules": {
+    "traceability_mode": "strict-inline-or-mapping",
+    "enforce_source_entry_structure": true,
+    "source_entry_regex": "^-\\s+.+\\..+\\..+$"
   }
 }
