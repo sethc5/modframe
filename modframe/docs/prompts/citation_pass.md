@@ -14,7 +14,11 @@
 4. Send the completed prompt to the model.
 5. Paste the model's output back into `outline.md`.
 6. Verify at least 3 real sources exist and all `[Observed]` claims have a matching citation.
-7. Set `Status: sourced` in `README.md`.
+7. Normalize README metadata fields:
+   - ensure `Statutes` and `Cases` lists include all legal authorities used in the module
+   - ensure `Related modules` and `Last reviewed` are present
+8. Run `python scripts/validate_metadata.py --status sourced --warn-only`.
+9. Set `Status: sourced` in `README.md`.
 
 ---
 
@@ -76,3 +80,4 @@ Examples:
 - [ ] No invented or unverifiable citations
 - [ ] At least 3 sources in Suggested sources
 - [ ] Any downgraded claims (Observed → Inferred/Hypothesis) are annotated with a reason
+- [ ] README metadata reflects the final sourced version (`Related modules`, `Last reviewed`, `Actors`, `Statutes`, `Cases`)

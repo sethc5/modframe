@@ -14,7 +14,13 @@
 4. Fill `{{TOPIC_NAME}}`, `{{TOPIC_ID}}`, `{{SECTION_NAME}}`.
 5. Send the completed prompt to the model.
 6. Paste the model's output back into `outline.md`.
-7. Set `Status: draft` in `README.md`.
+7. Populate README metadata fields for machine indexing:
+   - `Related modules`
+   - `Last reviewed`
+   - `Actors` (list)
+   - `Statutes` (list)
+   - `Cases` (list)
+8. Set `Status: draft` in `README.md`.
 
 ### Writing the topic brief ({{TOPIC_CONTEXT}})
 
@@ -95,3 +101,4 @@ Fill in the outline below with real, substantive content. Replace every placehol
 - [ ] Process map has ≥ 4 steps
 - [ ] Suggested sources lists ≥ 3 entries (stubs are OK at this stage)
 - [ ] No partisan or moralizing language
+- [ ] README has initial metadata fields populated (can be refined in citation pass)

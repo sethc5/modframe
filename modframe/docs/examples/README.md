@@ -24,6 +24,19 @@ These are copies of their counterparts in `topics/`. When the topic versions adv
 - **Reviewer reference** — when running `neutrality_pass.md`, compare the candidate
   module's tone and structure to the examples
 
+## Metadata expectation (MVP)
+
+Golden examples should also demonstrate README metadata completeness:
+
+- `Related modules`
+- `Last reviewed`
+- `Actors`
+- `Statutes`
+- `Cases`
+
+Use `python scripts/validate_metadata.py --status sourced --warn-only` before promoting
+an example copy.
+
 ## Selection criteria for future examples
 
 A module should replace or join this set when it:

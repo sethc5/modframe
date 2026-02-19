@@ -66,6 +66,25 @@ def get_status(readme_path: Path, valid: list[str]) -> str:
     return value if value in valid else "unknown"
 
 
+def metadata_penalty(readme_path: Path, status: str) -> int:
+    """Small queue penalty for missing machine-readable metadata on sourced+ modules."""
+    if status not in {"sourced", "reviewed", "published"}:
+        return 0
+    if not readme_path.exists():
+        return 0
+    text = readme_path.read_text()
+
+    penalty = 0
+    if not re.search(r"^Related modules:\s*.+$", text, re.MULTILINE):
+        penalty += 8
+    if not re.search(r"^Last reviewed:\s*\d{4}-(0[1-9]|1[0-2])$", text, re.MULTILINE):
+        penalty += 8
+    for key in ("Actors", "Statutes", "Cases"):
+        if not re.search(rf"^{key}:\s*$", text, re.MULTILINE):
+            penalty += 8
+    return penalty
+
+
 def status_rank(status: str) -> int:
     try:
         return STATUS_ORDER.index(status)
@@ -73,7 +92,7 @@ def status_rank(status: str) -> int:
         return 0
 
 
-def completeness_score(readme_path: Path, outline_path: Path, placeholders: list[str]) -> int:
+def completeness_score(readme_path: Path, outline_path: Path, placeholders: list[str], status: str) -> int:
     """0–100 rough completion score used for sorting within same status."""
     score = 0
     if readme_path.exists():
@@ -92,7 +111,8 @@ def completeness_score(readme_path: Path, outline_path: Path, placeholders: list
             score += 10
         if "### Suggested sources" in text and "Statutes and regulations\n" not in text:
             score += 10
-    return min(score, 100)
+    score -= metadata_penalty(readme_path, status)
+    return max(0, min(score, 100))
 
 
 def scan_topics(placeholders: list[str], valid_statuses: list[str]) -> list[dict]:
@@ -114,7 +134,7 @@ def scan_topics(placeholders: list[str], valid_statuses: list[str]) -> list[dict
 
             status = get_status(readme, valid_statuses)
             stub = is_stub(outline, placeholders)
-            score = completeness_score(readme, outline, placeholders)
+            score = completeness_score(readme, outline, placeholders, status)
 
             rows.append({
                 "topic_id": topic_id,
