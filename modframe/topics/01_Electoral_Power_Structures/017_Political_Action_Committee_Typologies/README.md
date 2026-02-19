@@ -2,7 +2,7 @@
 
 Purpose: short reference and outline for the "Political Action Committee Typologies" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
