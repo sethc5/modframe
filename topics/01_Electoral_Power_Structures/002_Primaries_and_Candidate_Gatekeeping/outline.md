@@ -1,22 +1,16 @@
 # Primaries and Candidate Gatekeeping
 
-**Summary:** Primary elections are the mechanism through which political parties narrow
-the field of candidates before a general election, but the rules governing who may vote,
-who may appear on the ballot, and how delegates are allocated are set by a combination of
-state law and party rules — not by a single unified federal standard. [Observed — source:
-U.S. Const. art. I; state election codes; Democratic and Republican National Committee
-delegate selection rules] Because primary electorates are smaller and systematically more
-ideologically homogeneous than general election electorates, candidates face a structural
-incentive to appeal to primary voters in ways that may diverge from median general
-election preferences. [Observed — source: Pew Research Center primary voter studies;
-political science literature on primary turnout] Ballot access rules — filing fees,
-petition signature requirements, and registration deadlines — function as additional
-gatekeeping mechanisms that favor well-funded, party-aligned, or incumbent candidates.
-[Observed — source: state election codes; NCSL ballot access survey]
+**Summary:** Primaries narrow candidate fields before general elections, but key rules
+for voter eligibility, ballot access, and delegate allocation are set by state law and
+party procedures rather than a single federal framework. [Observed] Primary electorates
+are typically smaller and more ideologically concentrated than general electorates,
+creating strategic pressure on candidates to prioritize primary-specific incentives.
+[Observed] Ballot access and filing rules add an additional gatekeeping layer that shapes
+which candidates can compete effectively. [Observed]
 
-**Mechanism in one sentence:** State law and party rules jointly determine who votes in
-primaries and who appears on ballots, concentrating candidate selection power in a smaller,
-more ideologically sorted electorate than the general election population. [Observed]
+**Mechanism in one sentence:** State election law and party rules determine who can vote
+and who can appear on primary ballots, concentrating nomination power in a smaller,
+ideologically sorted electorate. [Observed]
 
 ### Actors and roles
 

@@ -1,26 +1,16 @@
 # Ballot Initiative Systems
 
-**Summary:** Ballot initiative systems allow citizens in approximately half of US states
-to propose and enact statutes or constitutional amendments directly, bypassing the state
-legislature, provided they collect a threshold number of petition signatures within a
-fixed time window. [Observed — source: NCSL Initiative and Referendum Processes survey;
-state constitutions] The mechanism was adopted during the Progressive Era as a structural
-check on legislatures perceived as captured by industrial interests, but the same tool
-is now routinely deployed by well-funded organizations — including industry groups and
-government employee unions — that use the professional signature-gathering industry to
-qualify measures the legislature would not pass. [Observed — source: Initiative and
-Referendum Institute, University of Southern California; Gerber, *The Populist Paradox*
-(1999)] The initiative process operates differently across states in three key structural
-dimensions: direct vs. indirect (whether the legislature sees the measure before it goes
-to voters), statutory vs. constitutional (affecting the difficulty of future amendment),
-and the signature threshold and geographic distribution requirements (affecting practical
-access). [Observed — source: NCSL initiative process comparison]
+**Summary:** Ballot initiative systems allow voters in many states to place statutes or
+constitutional amendments directly on ballots after meeting petition requirements.
+[Observed] The process varies by state design, including direct versus indirect pathways,
+statutory versus constitutional targets, and signature thresholds with different
+distribution rules. [Observed] Modern initiative campaigns frequently depend on
+professionalized signature-gathering and high-cost media operations, which shifts practical
+access toward better-resourced sponsors. [Observed]
 
-**Mechanism in one sentence:** Sponsors who collect sufficient verified petition
-signatures can place statutes or constitutional amendments directly before voters,
-bypassing the legislature — but the threshold requirements and professional cost of
-qualifying measures have transformed the process into one dominated by organized and
-well-funded actors. [Observed]
+**Mechanism in one sentence:** Sponsors that meet signature and filing thresholds can send
+measures directly to voters, but qualifying costs and procedural thresholds shape which
+actors can use the process at scale. [Observed]
 
 ### Actors and roles
 

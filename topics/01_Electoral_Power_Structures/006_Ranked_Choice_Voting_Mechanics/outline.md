@@ -1,25 +1,14 @@
 # Ranked Choice Voting Mechanics
 
-**Summary:** Ranked choice voting (RCV) is a ballot counting method in which voters rank
-candidates in order of preference; if no candidate wins a majority of first-choice votes,
-the last-place candidate is eliminated and those voters' ballots are redistributed to
-their next-ranked active candidate, with rounds continuing until one candidate reaches
-a majority threshold. [Observed — source: FairVote, "How Ranked Choice Voting Works";
-Maine Ranked Choice Voting Implementation Act, Pub. L. 2017, ch. 316] As of 2024, RCV
-is used in federal elections in Maine and Alaska, and in dozens of jurisdictions for
-local and state primary elections, representing a structural alternative to the
-plurality-winner system used in most US elections. [Observed — source: FairVote, "Where
-is RCV Used?" 2024; NCSL Ranked Choice Voting survey] RCV changes both candidate
-incentive structures (creating strategic value in seeking coalition support across
-partisan lines) and election administration requirements (tabulation takes longer and
-requires different equipment or software). [Inferred — incentive effects are structural
-predictions; empirical evidence on behavioral change is mixed and context-dependent]
+**Summary:** Ranked choice voting (RCV) counts ballots through sequential elimination and
+redistribution until a candidate reaches a majority of active votes. [Observed] It is used
+in selected federal and local jurisdictions as an alternative to plurality systems.
+[Observed] RCV changes campaign strategy incentives and election-administration workflows,
+especially tabulation, certification timing, and equipment requirements. [Inferred]
 
-**Mechanism in one sentence:** Voters rank candidates in order of preference; losers are
-progressively eliminated and their voters' ballots redistributed to next-ranked active
-candidates until one candidate reaches a majority — replacing the plurality rule that
-allows a candidate with less than majority support to win a multi-candidate field.
-[Observed]
+**Mechanism in one sentence:** Voters rank candidates, lower-performing candidates are
+eliminated in rounds, and ballots transfer until one candidate holds a majority of active
+votes. [Observed]
 
 ### Actors and roles
 
@@ -168,7 +157,8 @@ allows a candidate with less than majority support to win a multi-candidate fiel
 - Maine Ranked Choice Voting Implementation Act. Pub. L. 2017, ch. 316. Maine
   Legislature. https://legislature.maine.gov/legis/bills/bills_128th/chappdfs/PUBLIC316.pdf
 
-- Alaska Ballot Measure 2 (2020) and implementing statutes. Alaska Division of Elections.
+- Alaska Ballot Measure 2 (2020) and implementing statutes. Alaska Division of Elections,
+  updated 2024.
   https://www.elections.alaska.gov/RCV.php
 
 - Where is RCV Used? FairVote, updated 2024. (Note: FairVote is an RCV advocacy

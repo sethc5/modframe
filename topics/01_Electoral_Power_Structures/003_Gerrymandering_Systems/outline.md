@@ -1,22 +1,15 @@
 # Gerrymandering Systems
 
-**Summary:** Gerrymandering is the manipulation of electoral district boundaries to
-advantage a particular party, group, or incumbent by concentrating or dispersing voters
-across districts. [Observed — source: *Rucho v. Common Cause*, 588 U.S. 684 (2019);
-redistricting literature] In most states, district boundaries for both state legislatures
-and the US House of Representatives are redrawn every ten years following the decennial
-census, with the process controlled by whichever party or coalition holds state
-legislative power at the time. [Observed — source: U.S. Const. art. I, § 4; state
-redistricting statutes; NCSL redistricting process survey] The Supreme Court held in
-*Rucho v. Common Cause* (2019) that federal courts may not review partisan gerrymandering
-claims, leaving challenges to state courts, state constitutional provisions, and voter
-initiative processes as the primary legal remedies. [Observed — source: Rucho v. Common
-Cause, 588 U.S. 684 (2019)]
+**Summary:** Gerrymandering uses district-boundary design to shape electoral outcomes by
+concentrating or dispersing voters across districts. [Observed] In most states,
+redistricting follows the decennial census and is controlled by institutions holding
+state-level map-drawing authority at that time. [Observed] Federal courts do not adjudicate
+partisan gerrymandering claims under current doctrine, so major remedies are concentrated
+in state courts, state constitutional law, and state-level reform structures. [Observed]
 
-**Mechanism in one sentence:** The party controlling state government after each decennial
-census typically draws congressional and state legislative maps that concentrate opposing
-voters into fewer districts and spread their own voters more efficiently, locking in
-electoral advantages for the decade between redistricting cycles. [Observed]
+**Mechanism in one sentence:** After each census, map-drawing authorities can redraw
+districts so vote geography converts into durable seat advantages across the decade between
+redistricting cycles. [Observed]
 
 ### Actors and roles
 
@@ -177,7 +170,7 @@ electoral advantages for the decade between redistricting cycles. [Observed]
   University, 2022.
   https://gerrymander.princeton.edu/redistricting-report-card
 
-- Dave's Redistricting App. Open-source redistricting analysis tool.
+- Dave's Redistricting App. Dave's Redistricting, updated 2024.
   https://davesredistricting.org/
 
 ### Episode outline (6 parts)

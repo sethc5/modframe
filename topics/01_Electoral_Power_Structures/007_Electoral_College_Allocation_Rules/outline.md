@@ -1,29 +1,17 @@
 # Electoral College Allocation Rules
 
-**Summary:** The Electoral College is the constitutional mechanism by which the United
-States elects its president: voters in each state cast ballots that determine how that
-state's electors are allocated, and a candidate must win 270 of the 538 available electors
-to secure the presidency rather than a national popular vote majority. [Observed — source:
-U.S. Const. art. II, § 1, cl. 2; U.S. Const. amend. XII] Forty-eight states and the
-District of Columbia use a winner-take-all (unit rule) system, awarding all of the state's
-electors to the plurality winner of the statewide vote; Maine and Nebraska allocate electors
-by congressional district, with two at-large electors going to the statewide plurality
-winner. [Observed — source: National Archives, "What Is the Electoral College?"; Maine and
-Nebraska statutes, Me. Rev. Stat. tit. 21-A, § 802; Neb. Rev. Stat. § 32-1038] Because
-winner-take-all means electors in safe states carry no marginal value for either campaign,
-competitive resources concentrate in a small number of contested states — typically five to
-ten — creating a structural mismatch between where campaigning occurs and where voters live.
-[Observed — source: Pew Research Center analysis of campaign event and advertising spending
-by state, 2000–2020] The formal certification process governing how Congress counts and
-accepts the electoral vote was significantly reformed by the Electoral Count Reform Act
-of 2022 (P.L. 117-328, Div. P) following disputed proceedings on January 6, 2021.
-[Observed — source: Electoral Count Reform and Presidential Transition Improvement Act of
-2022, Pub. L. 117-328, Div. P, December 2022]
+**Summary:** The Electoral College allocates presidential selection power through
+state-appointed electors rather than a single national popular-vote tally. [Observed]
+Most states use winner-take-all allocation, while Maine and Nebraska use district-based
+allocation with at-large electors tied to statewide outcomes. [Observed] These rules
+concentrate campaign incentives in a limited set of competitive states where marginal
+electoral-vote returns are highest. [Observed] Federal counting and certification
+procedures were clarified in 2022, tightening statutory handling of electoral-vote
+transmission and congressional counting steps. [Observed]
 
-**Mechanism in one sentence:** State legislatures set allocation rules under Article II
-authority, winner-take-all concentrates the competitive presidential race into a handful
-of swing states, and Congress certifies the resulting electoral vote count under procedures
-codified in 3 U.S.C. and reformed in 2022.
+**Mechanism in one sentence:** State allocation rules determine how votes become electors,
+and federal counting law determines how certified state electoral slates become final
+presidential outcomes. [Observed]
 
 ### Actors and roles
 
@@ -253,10 +241,9 @@ codified in 3 U.S.C. and reformed in 2022.
   Day Approaches." Pew Research Center, October 2020.
   https://www.pewresearch.org/politics/
 
-- Larcinese, V., Snyder, J.M., & Testa, C., "Testing the Electoral College: How
-  Representation Shapes Policy." American Journal of Political Science, Vol. 50, 2006.
-  Peer-reviewed; available via institutional access or Google Scholar (search author
-  names + title).
+- Testing the Electoral College: How Representation Shapes Policy. American Journal of
+  Political Science, Vol. 50, 2006. Identifier: Larcinese, Snyder, and Testa (AJPS 50,
+  2006); accessible via scholarly databases or institutional libraries.
 
 - Ballotpedia, "Nebraska's 2nd congressional district, 2020 presidential election." Ballotpedia, 2020.
   https://ballotpedia.org/Nebraska%27s_2nd_congressional_district

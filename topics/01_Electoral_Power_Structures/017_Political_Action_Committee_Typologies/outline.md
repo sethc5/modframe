@@ -1,6 +1,13 @@
 # Political Action Committee Typologies
 
-**Summary:** Political Action Committees (PACs) are regulated fundraising and spending vehicles that aggregate money for electoral activity under distinct legal categories with different contribution and spending rules. [Observed] U.S. law distinguishes connected PACs, nonconnected PACs, leadership PACs, and independent expenditure-only committees (super PACs), each with different operational constraints and strategic uses. [Observed] These typologies shape how money moves through campaigns by determining where limits apply, where disclosure is required, and where independent spending can scale. [Observed] The structure matters for political power analysis because legal category choice influences donor access channels, campaign support patterns, and transparency visibility across election cycles. [Inferred]
+**Summary:** Political Action Committees (PACs) are regulated vehicles that raise and
+spend money under legally distinct campaign-finance categories. [Observed] Federal law
+distinguishes connected PACs, nonconnected PACs, leadership PACs, and independent
+expenditure-only committees with different contribution and spending constraints.
+[Observed] Those category differences shape how funds move between donors, committees,
+and electoral messaging channels. [Observed] Legal category choice therefore influences
+visibility, access pathways, and strategic leverage in campaign finance networks.
+[Inferred]
 
 **Mechanism in one sentence:** PAC category rules determine contribution limits, permissible expenditures, and disclosure obligations, which in turn structure how electoral money is raised and deployed. [Observed]
 

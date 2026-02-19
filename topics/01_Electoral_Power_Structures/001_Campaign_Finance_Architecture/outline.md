@@ -1,18 +1,13 @@
 # Campaign Finance Architecture
 
-**Summary:** The US federal campaign finance system governs how money enters and moves
-through elections through a layered structure of contribution limits, disclosure
-requirements, and spending rules established by the Federal Election Campaign Act. [Observed
-— source: 52 U.S.C. §§ 30101–30145] A sequence of Supreme Court decisions beginning with
-*Buckley v. Valeo* (1976) and accelerating after *Citizens United v. FEC* (2010) treated
-certain political expenditures as protected First Amendment speech, creating parallel
-spending channels with different rules and disclosure requirements. [Observed — source:
-Buckley v. Valeo (1976); Citizens United v. FEC (2010)] The result is a bifurcated
-architecture: a disclosed, contribution-limited channel (direct giving to candidates and
-parties) running alongside an effectively unlimited, partially undisclosed channel
-(independent expenditures through super PACs and 501(c)(4) organizations). [Observed —
-source: FEC outside spending data] Understanding where the two tracks diverge is essential
-for tracing how financial resources translate into political access and leverage.
+**Summary:** The federal campaign finance system structures how money is raised,
+reported, and spent in elections through contribution limits, disclosure requirements,
+and spending rules. [Observed] Court decisions over several decades expanded
+constitutional protection for certain political expenditures, creating parallel funding
+channels with different legal constraints. [Observed] The resulting architecture combines
+direct, contribution-limited support with large independent-spending pathways. [Observed]
+Mapping how money moves across those pathways is central to analyzing access,
+agenda-setting, and enforcement capacity in elections. [Inferred]
 
 **Mechanism in one sentence:** Federal law caps direct contributions to candidates while
 court rulings permit unlimited independent expenditures, creating two parallel money tracks
