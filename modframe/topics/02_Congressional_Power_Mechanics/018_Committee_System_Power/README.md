@@ -10,13 +10,13 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 019, 020, 032
+Related modules: 019, 020, 021, 029, 032
 Last reviewed: 2026-02
 
 Actors:
 	- name: Committee chairs (House and Senate)
 		type: political_entity
-	- name: Party leadership (Speaker and leaders)
+	- name: Congressional leadership
 		type: political_entity
 	- name: Government Accountability Office
 		type: regulatory_body

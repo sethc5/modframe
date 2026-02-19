@@ -24,9 +24,11 @@ Actors:
 Statutes:
 	- Congressional Budget and Impoundment Control Act of 1974
 
+	- House Rule X (committee jurisdictions)
 Cases:
 	- Train v. City of New York, 420 U.S. 35 (1975)
 
+	- Bowsher v. Synar, 478 U.S. 714 (1986)
 How to contribute:
 
 - Add citations to `outline.md` under "Suggested sources"

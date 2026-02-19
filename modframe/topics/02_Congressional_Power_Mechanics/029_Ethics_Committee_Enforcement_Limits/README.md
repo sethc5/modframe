@@ -10,7 +10,7 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 018, 027, 042
+Related modules: 018, 027, 032, 042
 Last reviewed: 2026-02
 
 Actors:

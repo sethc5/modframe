@@ -19,6 +19,8 @@
 - Text is revised through markup, manager’s amendments, and bicameral negotiation before enrollment. [Observed]
 - Final statutory language enters implementation and judicial interpretation pathways where drafting choices affect outcomes. [Observed]
 
+- Enrolled text and codification offices verify final language against chamber-passed versions, ensuring statutory precision before signature and publication. [Observed]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Legislative counsel and committee legal staff control speed and quality of conversion from idea to viable statutory text. [Observed]
@@ -30,6 +32,8 @@
 - Rapid-cycle drafting can produce ambiguity that shifts effective policymaking power to agencies or courts during implementation. [Inferred]
 - Complex cross-references and technical edits may reduce member-level comprehension of final text before votes. [Observed]
 - Uneven access to high-capacity drafting support can advantage leadership-aligned proposals over rank-and-file alternatives. [Observed]
+
+- Post-enactment codification delays can compound original drafting ambiguities, creating gaps between political intent and statutory integration. [Observed]
 
 ### What evidence would prove/disprove key claims
 
@@ -45,11 +49,13 @@
 - Congressional Research Service, Statutory Interpretation and Legislative Drafting in Congress. Congressional Research Service, updated editions. https://crsreports.congress.gov [Observed]
 - House and Senate legislative process manuals and drafting guides. U.S. Congress, current. https://www.congress.gov [Observed]
 
+- Filson, Lawrence E., and Sandra L. Strokoff, The Legislative Drafter's Desk Reference. CQ Press, 2nd ed. ISBN identifier. [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Describe chamber drafting offices, committee counsel roles, and text-production workflows from idea to introduced bill. [Observed]
+1. **Structure:** Describe chamber drafting offices, committee counsel roles, codification conventions, and text-production workflows from idea to introduced bill. [Observed] Describe chamber drafting offices, committee counsel roles, and text-production workflows from idea to introduced bill. [Observed]
 2. **Incentive:** Explain how timing and coalition constraints shape drafting tradeoffs between clarity, scope, and speed. [Inferred]
-3. **Example:** Trace a major package where late drafting revisions materially changed implementation boundaries. [Observed]
+3. **Example:** Trace a major legislative package where late drafting revisions or technical conventions materially changed implementation scope and enforcement boundaries. [Observed] Trace a major package where late drafting revisions materially changed implementation boundaries. [Observed]
 4. **Evidence:** Use drafting guides, timeline records, and technical-corrections history to test capacity and quality claims. [Observed]
 5. **Levers:** Assess expanded drafting staffing, redline transparency, and pre-vote readability standards as process improvements. [Hypothesis]
-6. **Takeaway:** Drafting offices are structural power nodes because language precision determines whether political agreements survive implementation. [Inferred]
+6. **Takeaway:** Drafting offices are structural power nodes because language precision determines whether political agreements survive implementation, judicial review, and administrative interpretation. [Inferred] Drafting offices are structural power nodes because language precision determines whether political agreements survive implementation. [Inferred]

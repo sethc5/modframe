@@ -20,6 +20,8 @@
 - Full committee and floor stages reconcile internal tradeoffs, often consolidating bills under deadline pressure. [Observed]
 - Bicameral negotiations resolve jurisdiction-specific differences before final enactment and implementation monitoring. [Observed]
 
+- Oversight findings from prior fiscal years feed into the next subcommittee cycle, creating iterative relationships between funding decisions and performance evidence gathered through hearings. [Observed]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Subcommittee leadership and senior staff control detailed account treatment and explanatory language inclusion. [Observed]
@@ -31,6 +33,8 @@
 - Jurisdictional silos can underweight cross-cutting program interactions and transfer costs across budget categories. [Inferred]
 - Compressed timelines can reduce scrutiny of account-level adjustments embedded in large consolidated packages. [Observed]
 - Report-language influence may be significant in practice while remaining less visible than statutory text to public audiences. [Observed]
+
+- Subcommittee chair turnover can disrupt institutional knowledge continuity, reducing the effectiveness of specialized oversight built across multiple appropriation cycles. [Inferred]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Congressional Research Service, Appropriations Subcommittee Structure and Process. Congressional Research Service, updated editions. https://crsreports.congress.gov [Observed]
 - Government Accountability Office, Federal Budget and Program Oversight Reports. U.S. Government Accountability Office, ongoing. https://www.gao.gov [Observed]
 
+- Senate Appropriations Committee, historical hearing records and subcommittee report archives. U.S. Senate, ongoing. https://www.appropriations.senate.gov [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Explain subcommittee jurisdiction maps and how they connect top-line limits to account-level decisions. [Observed]
+1. **Structure:** Explain subcommittee jurisdiction maps, allocation mechanics, and how they connect top-line budget limits to account-level funding decisions. [Observed] Explain subcommittee jurisdiction maps and how they connect top-line limits to account-level decisions. [Observed]
 2. **Incentive:** Describe why specialization strengthens expertise but also creates inter-panel bargaining frictions. [Inferred]
-3. **Example:** Follow one spending domain through subcommittee markup, full committee revisions, and final package integration. [Observed]
+3. **Example:** Follow one spending domain through subcommittee markup, full committee revisions, conference negotiation, and final package integration. [Observed] Follow one spending domain through subcommittee markup, full committee revisions, and final package integration. [Observed]
 4. **Evidence:** Use jurisdiction charts, hearing records, and account-level appropriations data to test control claims. [Observed]
 5. **Levers:** Assess transparency improvements for report language and cross-jurisdiction coordination mechanisms. [Hypothesis]
-6. **Takeaway:** Jurisdiction design is a structural power allocator because it decides who can shape funding detail at scale. [Inferred]
+6. **Takeaway:** Jurisdiction design is a structural power allocator because it decides who can shape funding detail at scale and across recurring fiscal cycles. [Inferred] Jurisdiction design is a structural power allocator because it decides who can shape funding detail at scale. [Inferred]

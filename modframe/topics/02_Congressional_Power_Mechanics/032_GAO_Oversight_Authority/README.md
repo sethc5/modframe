@@ -14,7 +14,7 @@ Related modules: 018, 021, 029
 Last reviewed: 2026-02
 
 Actors:
-	- name: U.S. Government Accountability Office
+	- name: Government Accountability Office
 		type: regulatory_body
 	- name: Congressional oversight committees
 		type: committee
@@ -24,9 +24,12 @@ Actors:
 Statutes:
 	- 31 U.S.C. §§ 701–720
 
+	- Government Accountability Office Act of 2008 (P.L. 110-323)
+	- Inspector General Act of 1978 (5 U.S.C. App.)
 Cases:
 	- Bowsher v. Synar, 478 U.S. 714 (1986)
 
+	- Walker v. Cheney, 230 F. Supp. 2d 51 (D.D.C. 2002)
 How to contribute:
 
 - Add citations to `outline.md` under "Suggested sources"

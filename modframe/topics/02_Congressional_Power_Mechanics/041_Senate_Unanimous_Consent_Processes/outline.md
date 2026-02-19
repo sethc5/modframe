@@ -20,6 +20,8 @@
 - If objection occurs, leadership may renegotiate terms, delay action, or shift to more time-consuming formal procedures. [Observed]
 - Repeated consent dynamics establish chamber norms and strategic expectations across legislative cycles. [Inferred]
 
+- Institutional memory of consent precedents and prior negotiation frameworks shapes the feasible bargaining space for future agreement design across recurring legislative categories. [Inferred]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Floor leadership and pivotal senators shape consent feasibility and term design before formal floor requests. [Observed]
@@ -31,6 +33,8 @@
 - Strategic objections may prioritize leverage extraction over policy resolution, increasing chamber processing costs. [Inferred]
 - Informal hold and negotiation channels can reduce transparency around why specific items are delayed. [Observed]
 - Reliance on consent can create brittle throughput when trust and cross-office coordination deteriorate. [Observed]
+
+- Escalating use of consent objections for political signaling rather than substantive disagreement can erode cooperative norms required for efficient chamber throughput. [Inferred]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Congressional Research Service, Unanimous Consent Agreements in the Senate. Congressional Research Service, updated editions. https://crsreports.congress.gov [Observed]
 - U.S. Senate floor activity records and calendars. U.S. Senate, ongoing. https://www.senate.gov/legislative [Observed]
 
+- Oleszek, Walter J., et al., Congressional Procedures and the Policy Process. CQ Press, recent edition. ISBN identifier. [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Explain how unanimous consent requests define Senate operating terms in real time. [Observed]
+1. **Structure:** Explain how unanimous consent requests define Senate operating terms, hold practices, and floor negotiation dynamics in real time. [Observed] Explain how unanimous consent requests define Senate operating terms in real time. [Observed]
 2. **Incentive:** Show why objection leverage remains powerful even when formal rules permit alternative pathways. [Inferred]
-3. **Example:** Trace a consent breakdown that forced cloture or delayed action and altered policy timing. [Observed]
+3. **Example:** Trace a consent breakdown that forced cloture, delayed action on major legislation, and altered policy timing and coalition calculus. [Observed] Trace a consent breakdown that forced cloture or delayed action and altered policy timing. [Observed]
 4. **Evidence:** Use floor records, objection episodes, and timing metrics to test leverage and bottleneck claims. [Observed]
 5. **Levers:** Evaluate hold-transparency and negotiated-term disclosure improvements. [Hypothesis]
-6. **Takeaway:** Unanimous consent is a central Senate power mechanism because agreement failure reallocates time and leverage costs. [Inferred]
+6. **Takeaway:** Unanimous consent is a central Senate power mechanism because agreement failure reallocates time, leverage costs, and strategic positioning. [Inferred] Unanimous consent is a central Senate power mechanism because agreement failure reallocates time and leverage costs. [Inferred]

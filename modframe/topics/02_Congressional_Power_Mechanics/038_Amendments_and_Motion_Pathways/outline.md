@@ -20,6 +20,8 @@
 - Accepted amendments and motion outcomes reshape text, timing, or consideration posture before final passage. [Observed]
 - Unsuccessful pathways can still alter negotiations by signaling pivot risks to leadership and sponsors. [Inferred]
 
+- Post-vote amendment analysis and procedural debriefs inform future leadership strategy for rule design, pathway management, and coalition-protection in subsequent legislative cycles. [Inferred]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Rules-setting bodies and floor managers control pathway openness, shaping member influence over live text. [Observed]
@@ -31,6 +33,8 @@
 - Highly restrictive pathways may produce under-scrutinized final text and reduced cross-faction policy correction. [Inferred]
 - Highly open pathways can encourage tactical overload that consumes floor time without improving substantive quality. [Observed]
 - Procedural complexity can obscure why specific amendments failed, reducing public accountability clarity. [Observed]
+
+- Inconsistent germaneness standards across chambers and bill types can create confusion about which amendments remain available during active floor consideration. [Observed]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Congressional Record floor proceedings and amendment databases. U.S. Government Publishing Office, ongoing. https://www.govinfo.gov [Observed]
 - House Clerk and Senate Secretary legislative activity datasets. U.S. Congress, ongoing. https://clerk.house.gov and https://www.senate.gov [Observed]
 
+- Smith, Steven S., Call to Order: Floor Politics in the House and Senate. Brookings Institution Press, 1989. ISBN identifier. [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Explain amendment eligibility, motion categories, and admissibility controls in each chamber. [Observed]
+1. **Structure:** Explain amendment eligibility, motion categories, germaneness standards, and admissibility controls in each chamber. [Observed] Explain amendment eligibility, motion categories, and admissibility controls in each chamber. [Observed]
 2. **Incentive:** Show how pathway design shapes member bargaining power and leadership control tradeoffs. [Inferred]
-3. **Example:** Analyze a measure whose substantive outcome changed through amendment/motion sequencing. [Observed]
+3. **Example:** Analyze a measure whose substantive policy outcome changed through amendment sequencing, motion strategy, or admissibility rulings. [Observed] Analyze a measure whose substantive outcome changed through amendment/motion sequencing. [Observed]
 4. **Evidence:** Use acceptance rates, ruling records, and final-text comparisons to test pathway effects. [Observed]
 5. **Levers:** Evaluate balanced pathway designs that preserve correction capacity while limiting tactical overload. [Hypothesis]
-6. **Takeaway:** Amendment and motion pathways are structural governance valves that allocate real-time legislative influence. [Inferred]
+6. **Takeaway:** Amendment and motion pathways are structural governance valves that allocate real-time legislative influence and shape final enacted text. [Inferred] Amendment and motion pathways are structural governance valves that allocate real-time legislative influence. [Inferred]

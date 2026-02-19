@@ -10,7 +10,7 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 020, 024, 041
+Related modules: 020, 024, 031, 033, 041
 Last reviewed: 2026-02
 
 Actors:
@@ -18,7 +18,7 @@ Actors:
 		type: office
 	- name: Senate leadership and individual senators
 		type: political_entity
-	- name: House and Senate parliamentarian offices
+	- name: Parliamentarian offices
 		type: office
 
 Statutes:

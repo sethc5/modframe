@@ -20,6 +20,8 @@
 - Floor managers adjust sequence in response to vote counts, objections, and negotiating developments. [Observed]
 - Final action or deferral reflects whether procedural control and coalition thresholds remain aligned through the sequence. [Observed]
 
+- End-of-session compaction creates pressure for leadership to bundle outstanding items, shifting tactical leverage toward members willing to exploit procedural delay in high-value windows. [Observed]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Floor schedulers and procedural managers decide which measures receive scarce high-probability vote windows. [Observed]
@@ -31,6 +33,8 @@
 - Scheduling volatility can reduce deliberative quality by compressing review windows for complex legislative text. [Inferred]
 - Tactical overuse of delay motions may consume floor capacity without improving policy clarity or accountability. [Observed]
 - Public reporting often emphasizes final votes while underreporting the procedural sequence that determined viability. [Observed]
+
+- Calendar fragmentation across multiple competing priorities can reduce deliberative coherence, leaving major policy questions underexamined before deadline-driven floor action. [Inferred]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Congressional Record and legislative activity feeds. U.S. Government Publishing Office/Clerk/Secretary, ongoing. https://www.govinfo.gov [Observed]
 - Brookings Institution, Vital Statistics on Congress procedural indicators. Brookings Institution, ongoing. https://www.brookings.edu/multi-chapter-report/vital-statistics-on-congress/ [Observed]
 
+- Oleszek, Walter J., et al., Congressional Procedures and the Policy Process. CQ Press, recent edition. ISBN identifier. [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Define calendar-setting authority and motion pathways in each chamber. [Observed]
+1. **Structure:** Define calendar-setting authority, motion pathways, scheduling precedents, and procedural constraints in each chamber. [Observed] Define calendar-setting authority and motion pathways in each chamber. [Observed]
 2. **Incentive:** Explain why procedural sequencing can outweigh substantive preference under time scarcity. [Inferred]
-3. **Example:** Follow a bill whose fate changed primarily through scheduling and motion decisions. [Observed]
+3. **Example:** Follow a bill whose legislative fate changed primarily through scheduling decisions, motion sequencing, or calendar displacement tactics. [Observed] Follow a bill whose fate changed primarily through scheduling and motion decisions. [Observed]
 4. **Evidence:** Use calendar data, motion logs, and vote sequencing records to test control claims. [Observed]
 5. **Levers:** Assess transparency and notice standards for schedule changes and procedural pivots. [Hypothesis]
-6. **Takeaway:** Floor scheduling and motions are central power levers because they determine which coalitions get tested at all. [Inferred]
+6. **Takeaway:** Floor scheduling and motions are central power levers because they determine which coalitions get tested and under what procedural conditions. [Inferred] Floor scheduling and motions are central power levers because they determine which coalitions get tested at all. [Inferred]

@@ -16,17 +16,19 @@ Last reviewed: 2026-02
 Actors:
 	- name: House Rules Committee
 		type: committee
-	- name: House leadership floor team
-		type: office
-	- name: House parliamentarian support offices
+	- name: House party leadership
+		type: political_entity
+	- name: Parliamentarian offices
 		type: office
 
 Statutes:
 	- Rules of the House of Representatives, Rule XIII
 
+	- House Rule XI (committee procedures)
 Cases:
 	- United States v. Ballin, 144 U.S. 1 (1892)
 
+	- Field v. Clark, 143 U.S. 649 (1892)
 How to contribute:
 
 - Add citations to `outline.md` under "Suggested sources"

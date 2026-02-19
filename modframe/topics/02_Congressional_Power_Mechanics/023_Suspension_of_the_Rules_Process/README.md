@@ -10,12 +10,12 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 020, 021, 022
+Related modules: 020, 021, 022, 024, 037, 038
 Last reviewed: 2026-02
 
 Actors:
-	- name: House majority leadership
-		type: office
+	- name: House party leadership
+		type: political_entity
 	- name: House committee chairs and bill sponsors
 		type: political_entity
 	- name: Office of the Clerk, U.S. House of Representatives

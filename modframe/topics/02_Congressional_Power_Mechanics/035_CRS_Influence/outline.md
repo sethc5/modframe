@@ -20,6 +20,8 @@
 - Members and staff apply analysis to draft language, hearing preparation, amendment strategy, or oversight design. [Observed]
 - As policy debates evolve, CRS updates products and responds to follow-up requests, sustaining iterative influence. [Observed]
 
+- CRS periodically produces multi-author compilations and reference digests that aggregate institutional knowledge on recurring legislative and oversight themes spanning multiple sessions. [Observed]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Committee and leadership staff decide which CRS analyses are elevated into active negotiation and drafting channels. [Observed]
@@ -31,6 +33,8 @@
 - High-volume demand may prioritize short-turn summaries over deeper causal analysis for complex institutional reforms. [Inferred]
 - Offices may selectively cite CRS findings that support prior positions, reducing the nonpartisan corrective role. [Observed]
 - Confidential advisory channels can obscure how analytic evidence shaped final decisions in specific legislative episodes. [Observed]
+
+- Demand spikes during contested legislation can stretch analyst capacity, reducing depth on lower-priority but consequential policy questions. [Inferred]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Library of Congress annual reports on congressional support services. Library of Congress, recurring. https://www.loc.gov [Observed]
 - Congressional hearings and committee reports referencing CRS analysis. U.S. Congress, ongoing. https://www.congress.gov [Observed]
 
+- Brudnick, Ida A., The Congressional Research Service and the American Legislative Process. Congressional Research Service, updated editions. https://crsreports.congress.gov [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Explain CRS institutional placement, product types, and how requests move from offices to analytic outputs. [Observed]
+1. **Structure:** Explain CRS institutional placement within the Library of Congress, product types, confidential advisory services, and how requests produce analytic outputs. [Observed] Explain CRS institutional placement, product types, and how requests move from offices to analytic outputs. [Observed]
 2. **Incentive:** Show why nonpartisan credibility and rapid response make CRS central in high-uncertainty legislative moments. [Inferred]
-3. **Example:** Trace a policy dispute where CRS legal/procedural analysis materially reframed available congressional options. [Observed]
+3. **Example:** Trace a policy dispute where CRS legal, procedural, or comparative analysis materially reframed available congressional options and negotiating positions. [Observed] Trace a policy dispute where CRS legal/procedural analysis materially reframed available congressional options. [Observed]
 4. **Evidence:** Use citation traces, report updates, and workflow timing to test influence pathways. [Observed]
 5. **Levers:** Evaluate stronger usage transparency and office training to improve analytic uptake and comparability. [Hypothesis]
-6. **Takeaway:** CRS influence is structural knowledge power: it shapes feasible choice sets before votes are counted. [Inferred]
+6. **Takeaway:** CRS influence is structural knowledge power: it shapes feasible choice sets and perceived policy boundaries before votes are counted. [Inferred] CRS influence is structural knowledge power: it shapes feasible choice sets before votes are counted. [Inferred]

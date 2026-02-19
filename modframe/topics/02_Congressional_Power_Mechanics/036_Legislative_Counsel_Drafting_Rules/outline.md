@@ -20,6 +20,8 @@
 - Committees and leadership iterate text as negotiations evolve, preserving or revising technical structures. [Observed]
 - Final enrolled language enters codification and implementation stages where rule adherence affects legal stability. [Observed]
 
+- Enrolled and engrossed text passes through verification steps that detect formatting, numbering, and cross-reference errors before official transmission for presidential action. [Observed]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Legislative counsel and senior committee legal staff determine whether proposals can be translated into compliant language quickly. [Observed]
@@ -31,6 +33,8 @@
 - Political urgency can compress technical review windows, increasing ambiguity and post-enactment correction needs. [Inferred]
 - Complex conforming edits may be under-scrutinized by non-specialists, raising hidden implementation risk. [Observed]
 - Uneven office-level access to skilled counsel can exacerbate quality differences between leadership and rank-and-file proposals. [Observed]
+
+- Inconsistent application of drafting conventions across different counsel offices can produce integration friction during bicameral negotiation and conference reconciliation. [Observed]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - House Legislative Counsel’s Manual on Drafting Style (public guidance excerpts). U.S. House of Representatives, current. https://legcounsel.house.gov [Observed]
 - Congressional Research Service, Drafting and Interpreting Federal Legislation. Congressional Research Service, updated editions. https://crsreports.congress.gov [Observed]
 
+- Office of the Law Revision Counsel, U.S. Code editorial and codification process materials. U.S. House of Representatives, current. https://uscode.house.gov [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Define drafting-rule systems, codification conventions, and institutional roles in text production. [Observed]
+1. **Structure:** Define drafting-rule systems, codification conventions, cross-reference standards, and institutional roles in statutory text production. [Observed] Define drafting-rule systems, codification conventions, and institutional roles in text production. [Observed]
 2. **Incentive:** Explain why technical compliance affects both passage feasibility and post-enactment legal durability. [Inferred]
-3. **Example:** Follow a bill where drafting-rule choices shaped interpretive outcomes or required corrective legislation. [Observed]
+3. **Example:** Follow a bill where drafting-rule choices shaped interpretive outcomes, required corrective legislation, or triggered judicial scrutiny of ambiguous provisions. [Observed] Follow a bill where drafting-rule choices shaped interpretive outcomes or required corrective legislation. [Observed]
 4. **Evidence:** Use correction history, litigation patterns, and drafting timeline data to evaluate rule-effect claims. [Observed]
 5. **Levers:** Assess expanded drafting support and structured pre-vote legal-quality checks. [Hypothesis]
-6. **Takeaway:** Drafting rules are power rules because legal form controls how policy survives implementation and review. [Inferred]
+6. **Takeaway:** Drafting rules are power rules because legal form controls how policy survives implementation, judicial review, and long-term codification. [Inferred] Drafting rules are power rules because legal form controls how policy survives implementation and review. [Inferred]

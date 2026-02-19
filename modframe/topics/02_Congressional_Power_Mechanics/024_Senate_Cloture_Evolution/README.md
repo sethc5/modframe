@@ -10,12 +10,12 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 020, 023, 041
+Related modules: 020, 023, 025, 030, 041
 Last reviewed: 2026-02
 
 Actors:
-	- name: Senate majority and minority leadership
-		type: office
+	- name: Senate party leadership
+		type: political_entity
 	- name: Individual U.S. Senators
 		type: political_entity
 	- name: Senate Parliamentarian
