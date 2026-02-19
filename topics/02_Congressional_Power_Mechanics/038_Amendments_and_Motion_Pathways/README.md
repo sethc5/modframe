@@ -14,19 +14,21 @@ Related modules: 023, 037, 040
 Last reviewed: 2026-02
 
 Actors:
-	- name: Members offering amendments and motions
+	- name: Members of Congress
 		type: political_entity
-	- name: Floor leadership and procedural managers
-		type: office
-	- name: Parliamentarian and clerk offices
+	- name: Floor leadership and managers
+		type: political_entity
+	- name: Parliamentarian offices
 		type: office
 
 Statutes:
 	- House and Senate amendment procedure rules
 
+	- House Rule XVI (germaneness of amendments)
 Cases:
 	- INS v. Chadha, 462 U.S. 919 (1983)
 
+	- United States v. Ballin, 144 U.S. 1 (1892)
 How to contribute:
 
 - Add citations to `outline.md` under "Suggested sources"

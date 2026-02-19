@@ -16,9 +16,9 @@ Last reviewed: 2026-02
 Actors:
 	- name: Congressional caucus members
 		type: political_entity
-	- name: Party leadership offices
-		type: office
-	- name: House and Senate whips
+	- name: Congressional leadership
+		type: political_entity
+	- name: Whip organizations
 		type: office
 
 Statutes:

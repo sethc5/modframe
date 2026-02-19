@@ -19,6 +19,8 @@
 - Committees use reports in hearings, appropriations language, or oversight follow-up to pursue corrective action. [Observed]
 - Implementation is tracked through recommendation status updates and subsequent oversight cycles. [Observed]
 
+- GAO coordinates with inspectors general and other oversight entities to reduce duplication and strengthen multi-agency coverage across complex program areas. [Observed]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Committee chairs/ranking members and GAO work-planning decisions shape what oversight questions receive full analytic treatment. [Observed]
@@ -30,6 +32,8 @@
 - Oversight agendas may prioritize politically salient cases over lower-visibility but high-fiscal-impact administrative risks. [Inferred]
 - Recommendation adoption can lag for years, weakening deterrent and corrective effects of oversight products. [Observed]
 - Technical reports may be underutilized when committees lack staff capacity to convert findings into enforceable action. [Observed]
+
+- Resource constraints can force GAO to prioritize breadth over depth, limiting follow-through capacity on prior-year high-risk designations. [Observed]
 
 ### What evidence would prove/disprove key claims
 
@@ -45,11 +49,13 @@
 - U.S. Government Accountability Office, High-Risk Series. U.S. Government Accountability Office, biennial. https://www.gao.gov/highrisk [Observed]
 - Congressional Research Service, GAO: Role and Authorities in Congressional Oversight. Congressional Research Service, updated editions. https://crsreports.congress.gov [Observed]
 
+- Inspector General community reports and coordination materials. Council of the Inspectors General on Integrity and Efficiency (CIGIE), ongoing. https://www.ignet.gov [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Explain GAO’s statutory authorities, work-request channels, and report-to-recommendation pipeline. [Observed]
+1. **Structure:** Explain GAO's statutory authorities, work-request channels, inspector general coordination, and report-to-recommendation pipeline. [Observed] Explain GAO’s statutory authorities, work-request channels, and report-to-recommendation pipeline. [Observed]
 2. **Incentive:** Show why findings matter most when committees tie them to funding, hearings, or statutory directives. [Inferred]
-3. **Example:** Follow a major GAO finding from report publication to congressional action and agency implementation response. [Observed]
+3. **Example:** Follow a major GAO finding from report publication through congressional hearings to agency implementation response and outcome tracking. [Observed] Follow a major GAO finding from report publication to congressional action and agency implementation response. [Observed]
 4. **Evidence:** Use recommendation databases, hearing records, and budget language changes to test oversight impact. [Observed]
 5. **Levers:** Evaluate stronger follow-up deadlines and implementation scorecards to tighten evidence-to-action conversion. [Hypothesis]
-6. **Takeaway:** GAO authority is powerful when embedded in active congressional enforcement loops, not as reporting alone. [Inferred]
+6. **Takeaway:** GAO authority is powerful when embedded in active congressional enforcement loops with follow-through accountability, not as standalone reporting. [Inferred] GAO authority is powerful when embedded in active congressional enforcement loops, not as reporting alone. [Inferred]

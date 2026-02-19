@@ -20,6 +20,8 @@
 - Consideration proceeds under adopted terms, with amendment and motion options constrained by rule design. [Observed]
 - Final passage reflects whether the rule successfully protected coalition alignment through floor execution. [Observed]
 
+- Post-consideration analysis of rule-type outcomes feeds back into leadership learning about which procedural designs best stabilize fragile coalitions under varying margin conditions. [Inferred]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Rules Committee and leadership offices decide floor terms that determine practical participation rights. [Observed]
@@ -31,6 +33,8 @@
 - Overly restrictive rules can reduce member buy-in and increase legitimacy disputes around major legislative packages. [Inferred]
 - Last-minute rule changes may compress review time and reduce traceability of procedural strategic intent. [Observed]
 - Repeated closed-rule dependence can weaken deliberative correction capacity for complex, multi-title bills. [Observed]
+
+- Heavy reliance on self-executing provisions within rules can complicate public understanding of what the House has actually voted to adopt. [Observed]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Congressional Research Service, The House Rules Committee and Special Rules. Congressional Research Service, updated editions. https://crsreports.congress.gov [Observed]
 - Brookings Institution, Vital Statistics on Congress procedural indicators. Brookings Institution, ongoing. https://www.brookings.edu/multi-chapter-report/vital-statistics-on-congress/ [Observed]
 
+- Bach, Stanley, and Steven S. Smith, Managing Uncertainty in the House of Representatives: Adaptation and Innovation in Special Rules. Brookings Institution Press, 1988. ISBN identifier. [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Define special rules and how they govern debate, amendments, waivers, and sequencing. [Observed]
+1. **Structure:** Define special rules, structured rules, closed rules, and how they govern debate, amendments, waivers, and vote sequencing. [Observed] Define special rules and how they govern debate, amendments, waivers, and sequencing. [Observed]
 2. **Incentive:** Explain why majority leadership uses rule design to stabilize passage under narrow margins. [Inferred]
-3. **Example:** Follow a major bill where special-rule terms materially shaped participation and outcome. [Observed]
+3. **Example:** Follow a major bill where special-rule terms materially shaped amendment access, coalition management, and final passage outcome. [Observed] Follow a major bill where special-rule terms materially shaped participation and outcome. [Observed]
 4. **Evidence:** Use rule-type frequencies, amendment logs, and vote margins to test control claims. [Observed]
 5. **Levers:** Assess rule transparency and openness standards for high-impact legislation. [Hypothesis]
-6. **Takeaway:** Rules Committee mechanisms are agenda power instruments that define the real operating space of House floor politics. [Inferred]
+6. **Takeaway:** Rules Committee mechanisms are agenda power instruments that define the real operating space of House floor politics and coalition management. [Inferred] Rules Committee mechanisms are agenda power instruments that define the real operating space of House floor politics. [Inferred]

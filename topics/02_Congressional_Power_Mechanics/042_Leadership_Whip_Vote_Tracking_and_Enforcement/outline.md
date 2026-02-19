@@ -20,6 +20,8 @@
 - Leadership deploys concessions, sequencing changes, or pressure tools to convert uncertain members before floor action. [Observed]
 - After votes, outcomes inform future enforcement credibility and relationship management across subsequent legislative cycles. [Observed]
 
+- Whip intelligence archives and historical vote-pattern data inform leadership calibration of enforcement intensity and concession strategy for comparable future legislative episodes. [Inferred]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Whip and leadership offices control privileged vote-intelligence flows that shape strategic decision timing. [Observed]
@@ -31,6 +33,8 @@
 - Overemphasis on short-run vote conversion can reduce long-term policy coherence and member trust in commitments. [Inferred]
 - Inaccurate whip counts can trigger premature floor scheduling and high-visibility strategic failures. [Observed]
 - Internal enforcement practices are largely nonpublic, limiting external accountability for coercive or opaque bargaining methods. [Observed]
+
+- Whip teams may overestimate commitment stability for measures where member preferences shift rapidly in response to external events or constituency pressure. [Inferred]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Brookings Institution, Vital Statistics on Congress party cohesion and vote margins. Brookings Institution, ongoing. https://www.brookings.edu/multi-chapter-report/vital-statistics-on-congress/ [Observed]
 - Congressional vote records and floor timelines. U.S. Congress, ongoing. https://www.congress.gov [Observed]
 
+- Evans, C. Lawrence, and Walter J. Oleszek, Congress Under Fire: Reform Politics and the Republican Majority. Houghton Mifflin, 1997. ISBN identifier. [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Map whip organization, vote tracking workflows, and leadership integration points. [Observed]
+1. **Structure:** Map whip organization structure, vote tracking workflows, commitment classification, and leadership integration points. [Observed] Map whip organization, vote tracking workflows, and leadership integration points. [Observed]
 2. **Incentive:** Explain why information asymmetry and narrow margins make whip intelligence decisive for floor strategy. [Inferred]
-3. **Example:** Trace a close vote where whip operations and late concessions determined final passage. [Observed]
+3. **Example:** Trace a close vote where whip operations, late concessions, and real-time intelligence updates determined final passage outcome. [Observed] Trace a close vote where whip operations and late concessions determined final passage. [Observed]
 4. **Evidence:** Use vote margins, timeline shifts, and concession signals to evaluate enforcement and forecasting claims. [Observed]
 5. **Levers:** Assess internal accuracy standards and transparency norms for high-impact whip-driven negotiations. [Hypothesis]
-6. **Takeaway:** Whip systems are operational power engines because they transform uncertain preferences into coordinated voting outcomes. [Inferred]
+6. **Takeaway:** Whip systems are operational power engines because they transform uncertain preferences into coordinated voting outcomes under deadline pressure. [Inferred] Whip systems are operational power engines because they transform uncertain preferences into coordinated voting outcomes. [Inferred]

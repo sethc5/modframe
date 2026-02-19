@@ -1,5 +1,14 @@
 [
   {
+    "name": "Agency budget and program officials",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "034"
+    ]
+  },
+  {
     "name": "Campaigns and party committees",
     "types": [
       "political_entity"
@@ -37,6 +46,38 @@
     ]
   },
   {
+    "name": "Committee staff",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "031",
+      "033",
+      "036",
+      "039"
+    ]
+  },
+  {
+    "name": "Congressional budget and appropriations leadership",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "025"
+    ]
+  },
+  {
+    "name": "Congressional Budget Office",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "025",
+      "026",
+      "039"
+    ]
+  },
+  {
     "name": "Congressional campaign committees",
     "types": [
       "political_entity"
@@ -46,12 +87,52 @@
     ]
   },
   {
-    "name": "Congressional leadership offices",
+    "name": "Congressional caucus members",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "028"
+    ]
+  },
+  {
+    "name": "Congressional leadership",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "018",
+      "021",
+      "028",
+      "033",
+      "042"
+    ]
+  },
+  {
+    "name": "Congressional leadership and fiscal negotiating blocs",
     "types": [
       "office"
     ],
     "topics": [
-      "021"
+      "026"
+    ]
+  },
+  {
+    "name": "Congressional oversight committees",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "032"
+    ]
+  },
+  {
+    "name": "Congressional Research Service",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "035"
     ]
   },
   {
@@ -172,12 +253,50 @@
     ]
   },
   {
+    "name": "Federal agencies under audit",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "032"
+    ]
+  },
+  {
+    "name": "Federal Election Commission",
+    "types": [
+      "regulatory_body"
+    ],
+    "topics": [
+      "027"
+    ]
+  },
+  {
+    "name": "Floor leadership and managers",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "037",
+      "038"
+    ]
+  },
+  {
+    "name": "Full appropriations committee leadership",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "034"
+    ]
+  },
+  {
     "name": "Government Accountability Office",
     "types": [
       "regulatory_body"
     ],
     "topics": [
-      "018"
+      "018",
+      "032"
     ]
   },
   {
@@ -199,6 +318,33 @@
     ]
   },
   {
+    "name": "House and Senate appropriations subcommittees",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "034"
+    ]
+  },
+  {
+    "name": "House and Senate conferees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "033"
+    ]
+  },
+  {
+    "name": "House and Senate Offices of Legislative Counsel",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "031"
+    ]
+  },
+  {
     "name": "House committee chairs and bill sponsors",
     "types": [
       "political_entity"
@@ -208,30 +354,52 @@
     ]
   },
   {
-    "name": "House majority leadership",
+    "name": "House Committee on Ethics",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "029"
+    ]
+  },
+  {
+    "name": "House leadership and Rules Committee",
     "types": [
       "office"
     ],
     "topics": [
-      "023"
+      "030"
+    ]
+  },
+  {
+    "name": "House Office of Legislative Counsel",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "036"
     ]
   },
   {
     "name": "House party leadership",
     "types": [
-      "office"
+      "political_entity"
     ],
     "topics": [
-      "022"
+      "022",
+      "023",
+      "040"
     ]
   },
   {
     "name": "House Rules Committee",
     "types": [
+      "committee",
       "political_entity"
     ],
     "topics": [
-      "020"
+      "020",
+      "040"
     ]
   },
   {
@@ -262,6 +430,16 @@
     ]
   },
   {
+    "name": "Individual U.S. Senators",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "024",
+      "041"
+    ]
+  },
+  {
     "name": "Initiative sponsors",
     "types": [
       "institution"
@@ -280,12 +458,51 @@
     ]
   },
   {
+    "name": "Legislative staff users of CRS analysis",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "035"
+    ]
+  },
+  {
+    "name": "Members of Congress",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "031",
+      "035",
+      "037",
+      "038"
+    ]
+  },
+  {
+    "name": "Members of Congress and candidates",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "027"
+    ]
+  },
+  {
     "name": "Members of the U.S. House of Representatives",
     "types": [
       "political_entity"
     ],
     "topics": [
       "022"
+    ]
+  },
+  {
+    "name": "Minority committee staff",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "039"
     ]
   },
   {
@@ -317,12 +534,22 @@
     ]
   },
   {
+    "name": "Office of Congressional Ethics",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "029"
+    ]
+  },
+  {
     "name": "Office of Management and Budget",
     "types": [
       "office"
     ],
     "topics": [
-      "021"
+      "021",
+      "025"
     ]
   },
   {
@@ -336,12 +563,25 @@
     ]
   },
   {
-    "name": "Party leadership (Speaker and leaders)",
+    "name": "Parliamentarian offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "030",
+      "037",
+      "038",
+      "040",
+      "041"
+    ]
+  },
+  {
+    "name": "Party campaign committees",
     "types": [
       "political_entity"
     ],
     "topics": [
-      "018"
+      "027"
     ]
   },
   {
@@ -400,6 +640,24 @@
     ]
   },
   {
+    "name": "Rank-and-file members in swing blocs",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "042"
+    ]
+  },
+  {
+    "name": "Senate leadership and individual senators",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "030"
+    ]
+  },
+  {
     "name": "Senate Majority and Minority Leaders",
     "types": [
       "political_entity"
@@ -409,12 +667,23 @@
     ]
   },
   {
+    "name": "Senate Office of the Legislative Counsel",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "036"
+    ]
+  },
+  {
     "name": "Senate Parliamentarian",
     "types": [
+      "office",
       "political_entity"
     ],
     "topics": [
-      "020"
+      "020",
+      "024"
     ]
   },
   {
@@ -423,7 +692,18 @@
       "political_entity"
     ],
     "topics": [
-      "020"
+      "020",
+      "024",
+      "041"
+    ]
+  },
+  {
+    "name": "Senate Select Committee on Ethics",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "029"
     ]
   },
   {
@@ -548,12 +828,31 @@
     ]
   },
   {
+    "name": "U.S. Department of the Treasury",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "026"
+    ]
+  },
+  {
     "name": "Voting equipment vendors and state certification authorities",
     "types": [
       "institution"
     ],
     "topics": [
       "006"
+    ]
+  },
+  {
+    "name": "Whip organizations",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "028",
+      "042"
     ]
   }
 ]

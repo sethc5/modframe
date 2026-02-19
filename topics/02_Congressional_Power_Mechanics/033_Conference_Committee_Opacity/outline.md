@@ -20,6 +20,8 @@
 - Conference report text is filed and chambers vote on adoption under constrained amendment conditions. [Observed]
 - If conference fails, chambers pursue alternatives such as amendment exchange or leadership package substitution. [Observed]
 
+- Explanatory statements and manager summaries filed with conference reports provide interpretive context that shapes agency implementation and judicial reference post-enactment. [Observed]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Leadership negotiators and key conferees control agenda inclusion and sequencing of unresolved provisions. [Observed]
@@ -31,6 +33,8 @@
 - Negotiators may prioritize coalition viability over policy coherence, producing internally inconsistent compromise provisions. [Inferred]
 - Limited pre-vote transparency can weaken member accountability for substantive changes introduced late in reconciliation. [Observed]
 - Ambiguity in conference explanatory text can shift interpretation power to agencies and courts post-enactment. [Observed]
+
+- Cross-title package compromises can embed provisions with unclear legislative history, weakening enforcement predictability for agencies and courts. [Observed]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Congressional Record and conference report archives. U.S. Government Publishing Office, ongoing. https://www.govinfo.gov [Observed]
 - Oleszek, Walter J., et al., Congressional Procedures and the Policy Process. CQ Press, recent edition. ISBN identifier. [Observed]
 
+- Nagle, John C., conference committee procedure analysis, Cornell Law Review, Vol. 70, 1985. ISSN identifier. [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Explain conference formation, conferee roles, and report adoption constraints in each chamber. [Observed]
+1. **Structure:** Explain conference formation, conferee appointment criteria, negotiation dynamics, and report adoption constraints in each chamber. [Observed] Explain conference formation, conferee roles, and report adoption constraints in each chamber. [Observed]
 2. **Incentive:** Show why late-stage reconciliation rewards negotiator discipline and package-level coalition management. [Inferred]
-3. **Example:** Trace a major conference report where final compromises significantly altered previously passed chamber text. [Observed]
+3. **Example:** Trace a major conference report where final compromises significantly altered previously passed chamber text and implementation trajectory. [Observed] Trace a major conference report where final compromises significantly altered previously passed chamber text. [Observed]
 4. **Evidence:** Use filing timelines, redline comparisons, and vote records to test opacity and control claims. [Observed]
 5. **Levers:** Evaluate disclosure-time standards and structured redline publication to improve transparency. [Hypothesis]
-6. **Takeaway:** Conference opacity is a structural leverage point because final text authority concentrates when deliberative visibility narrows. [Inferred]
+6. **Takeaway:** Conference opacity is a structural leverage point because final text authority concentrates when deliberative visibility narrows and deadline pressure peaks. [Inferred] Conference opacity is a structural leverage point because final text authority concentrates when deliberative visibility narrows. [Inferred]

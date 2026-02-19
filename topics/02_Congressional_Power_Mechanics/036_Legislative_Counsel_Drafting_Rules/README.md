@@ -18,15 +18,17 @@ Actors:
 		type: office
 	- name: Senate Office of the Legislative Counsel
 		type: office
-	- name: Committee and leadership legal staff
+	- name: Committee staff
 		type: office
 
 Statutes:
 	- Article I, U.S. Constitution
 
+	- 2 U.S.C. § 281 (House Office of Legislative Counsel)
 Cases:
 	- United States v. Ballin, 144 U.S. 1 (1892)
 
+	- Clinton v. City of New York, 524 U.S. 417 (1998)
 How to contribute:
 
 - Add citations to `outline.md` under "Suggested sources"

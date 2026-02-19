@@ -20,6 +20,8 @@
 - Floor managers and members use report content to guide debate framing, amendment choices, and coalition arguments. [Observed]
 - Post-enactment users reference committee reports for interpretive context in implementation and judicial review settings. [Observed]
 
+- Agencies and executive branch offices monitor committee report language for directives that, while not legally binding, shape administrative priority-setting and resource allocation in practice. [Observed]
+
 ### Where power concentrates
 
 - **Gatekeepers:** Committee leadership and report drafters control informational framing and issue salience before floor action. [Observed]
@@ -31,6 +33,8 @@
 - Reporting may become formalistic under deadline pressure, reducing substantive analytical value despite technical compliance. [Inferred]
 - Incomplete integration of oversight and fiscal analysis can obscure implementation risks at vote time. [Observed]
 - Complex reports may be underutilized when member offices lack capacity for detailed pre-floor review. [Observed]
+
+- Varying report quality across committees and congresses creates uneven documentary foundations for downstream judicial and administrative interpretation. [Observed]
 
 ### What evidence would prove/disprove key claims
 
@@ -46,11 +50,13 @@
 - Congressional Research Service, Committee Reports in the Legislative Process. Congressional Research Service, updated editions. https://crsreports.congress.gov [Observed]
 - Congress.gov committee reports archive and metadata. U.S. Congress, ongoing. https://www.congress.gov [Observed]
 
+- Tiefer, Charles, Congressional Practice and Procedure: A Reference, Research, and Legislative Guide. Greenwood Press, 1989. ISBN identifier. [Observed]
+
 ### Episode outline (6 parts)
 
-1. **Structure:** Map required report components and filing rules that connect committee action to floor consideration. [Observed]
+1. **Structure:** Map required report components, filing rules, and procedural prerequisites that connect committee action to floor consideration. [Observed] Map required report components and filing rules that connect committee action to floor consideration. [Observed]
 2. **Incentive:** Explain how reporting depth affects coalition confidence, amendment behavior, and interpretive control. [Inferred]
-3. **Example:** Follow a measure where report timing/content materially changed floor strategy and final implementation expectations. [Observed]
+3. **Example:** Follow a measure where report timing, content quality, or supplemental views materially changed floor strategy and ultimate implementation expectations. [Observed] Follow a measure where report timing/content materially changed floor strategy and final implementation expectations. [Observed]
 4. **Evidence:** Use report timestamps, completeness indicators, and post-enactment quality outcomes to test claims. [Observed]
 5. **Levers:** Evaluate standardized disclosure formats and minimum review windows for major legislative packages. [Hypothesis]
-6. **Takeaway:** Reporting requirements are informational power infrastructure that shape policy quality before votes are cast. [Inferred]
+6. **Takeaway:** Reporting requirements are informational power infrastructure that shape legislative quality and interpretive durability before votes are cast. [Inferred] Reporting requirements are informational power infrastructure that shape policy quality before votes are cast. [Inferred]

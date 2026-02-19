@@ -14,19 +14,21 @@ Related modules: 024, 030, 037
 Last reviewed: 2026-02
 
 Actors:
-	- name: Senate majority and minority floor leadership
-		type: office
+	- name: Senate party leadership
+		type: political_entity
 	- name: Individual U.S. Senators
 		type: political_entity
-	- name: Senate parliamentarian and floor staff
+	- name: Parliamentarian offices
 		type: office
 
 Statutes:
 	- Standing Rules of the Senate
 
+	- Senate Rule XII (voting procedure)
 Cases:
 	- NLRB v. Noel Canning, 573 U.S. 513 (2014)
 
+	- United States v. Ballin, 144 U.S. 1 (1892)
 How to contribute:
 
 - Add citations to `outline.md` under "Suggested sources"

@@ -17,7 +17,7 @@ Actors:
 	- name: Members of the U.S. House of Representatives
 		type: political_entity
 	- name: House party leadership
-		type: office
+		type: political_entity
 	- name: Office of the Clerk, U.S. House of Representatives
 		type: office
 

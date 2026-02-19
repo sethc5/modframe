@@ -10,23 +10,25 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 019, 027, 028
+Related modules: 019, 027, 028, 029, 035
 Last reviewed: 2026-02
 
 Actors:
-	- name: Majority and minority whip organizations
+	- name: Whip organizations
 		type: office
-	- name: Chamber leadership offices
-		type: office
+	- name: Congressional leadership
+		type: political_entity
 	- name: Rank-and-file members in swing blocs
 		type: political_entity
 
 Statutes:
 	- House and Senate party leadership organizational rules
 
+	- House Rule II (duties of the Clerk, vote recording)
 Cases:
 	- United States v. Brewster, 408 U.S. 501 (1972)
 
+	- Gravel v. United States, 408 U.S. 606 (1972)
 How to contribute:
 
 - Add citations to `outline.md` under "Suggested sources"
