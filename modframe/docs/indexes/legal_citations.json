@@ -85,6 +85,13 @@
     ]
   },
   {
+    "citation": "18 U.S.C. \u00a7 3553(a) (Imposition of a sentence)",
+    "kind": "statute",
+    "topics": [
+      "116"
+    ]
+  },
+  {
     "citation": "2 CFR Part 200 (Uniform Administrative Requirements)",
     "kind": "statute",
     "topics": [
@@ -156,10 +163,94 @@
     ]
   },
   {
+    "citation": "28 CFR \u00a7\u00a7 600.1-600.10 (Office of Special Counsel regulations)",
+    "kind": "statute",
+    "topics": [
+      "118"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7 1251 (Original Supreme Court jurisdiction for state disputes)",
+    "kind": "statute",
+    "topics": [
+      "117"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7 1254 (Courts of appeals; certiorari; certified questions)",
+    "kind": "statute",
+    "topics": [
+      "109"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7 1404 (Change of venue)",
+    "kind": "statute",
+    "topics": [
+      "111"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7 2101 (Supreme Court stay authority)",
+    "kind": "statute",
+    "topics": [
+      "126"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7 44 (Appointment, tenure, residence and salary of circuit judges)",
+    "kind": "statute",
+    "topics": [
+      "110"
+    ]
+  },
+  {
     "citation": "28 U.S.C. \u00a7 44 (circuit judge appointments)",
     "kind": "statute",
     "topics": [
       "081"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7 455 (Disqualification of justice, judge, or magistrate judge)",
+    "kind": "statute",
+    "topics": [
+      "115"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7 46 (Assignment of judges; division; panels)",
+    "kind": "statute",
+    "topics": [
+      "110"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7 604 (Administrative Office duties)",
+    "kind": "statute",
+    "topics": [
+      "127"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7\u00a7 1391-1412 (Federal venue statutes)",
+    "kind": "statute",
+    "topics": [
+      "111"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7\u00a7 331-335 (Judicial Conference authority)",
+    "kind": "statute",
+    "topics": [
+      "127"
+    ]
+  },
+  {
+    "citation": "28 U.S.C. \u00a7\u00a7 331-335 (Judicial Conference of the United States)",
+    "kind": "statute",
+    "topics": [
+      "122"
     ]
   },
   {
@@ -226,10 +317,33 @@
     ]
   },
   {
+    "citation": "42 U.S.C. \u00a7 14141 (Pattern or practice of police misconduct)",
+    "kind": "statute",
+    "topics": [
+      "125"
+    ]
+  },
+  {
+    "citation": "42 U.S.C. \u00a7 1983 (Civil action for deprivation of rights)",
+    "kind": "statute",
+    "topics": [
+      "113",
+      "119",
+      "124"
+    ]
+  },
+  {
     "citation": "42 U.S.C. \u00a7 1983 (civil rights actions in election cases)",
     "kind": "statute",
     "topics": [
       "015"
+    ]
+  },
+  {
+    "citation": "42 U.S.C. \u00a7 1988 (Attorney's fees in civil rights cases)",
+    "kind": "statute",
+    "topics": [
+      "113"
     ]
   },
   {
@@ -354,10 +468,31 @@
     ]
   },
   {
+    "citation": "All Writs Act (28 U.S.C. \u00a7 1651)",
+    "kind": "statute",
+    "topics": [
+      "112"
+    ]
+  },
+  {
     "citation": "Allen v. Milligan, 599 U.S. 1 (2023)",
     "kind": "case",
     "topics": [
       "003"
+    ]
+  },
+  {
+    "citation": "Alliance for Hippocratic Medicine v. FDA, 78 F.4th 210 (5th Cir. 2023)",
+    "kind": "case",
+    "topics": [
+      "111"
+    ]
+  },
+  {
+    "citation": "Amchem Products v. Windsor, 521 U.S. 591 (1997)",
+    "kind": "case",
+    "topics": [
+      "120"
     ]
   },
   {
@@ -434,6 +569,20 @@
     ]
   },
   {
+    "citation": "Bankruptcy Reform Act (28 U.S.C. \u00a7 151 et seq.)",
+    "kind": "statute",
+    "topics": [
+      "123"
+    ]
+  },
+  {
+    "citation": "Biden v. Texas, 597 U.S. 785 (2022)",
+    "kind": "case",
+    "topics": [
+      "126"
+    ]
+  },
+  {
     "citation": "Bipartisan Campaign Reform Act of 2002 (P.L. 107-155)",
     "kind": "statute",
     "topics": [
@@ -492,6 +641,13 @@
     "topics": [
       "094",
       "105"
+    ]
+  },
+  {
+    "citation": "Brown v. Board of Education, 347 U.S. 483 (1954)",
+    "kind": "case",
+    "topics": [
+      "113"
     ]
   },
   {
@@ -578,6 +734,21 @@
     ]
   },
   {
+    "citation": "Caperton v. A.T. Massey Coal Co., 556 U.S. 868 (2009)",
+    "kind": "case",
+    "topics": [
+      "115",
+      "121"
+    ]
+  },
+  {
+    "citation": "Cass Sunstein et al., empirical analysis of panel effects (cited in scholarship)",
+    "kind": "case",
+    "topics": [
+      "110"
+    ]
+  },
+  {
     "citation": "Cassidy & Associates lobbying disclosure enforcement (DOJ referral, 2009)",
     "kind": "case",
     "topics": [
@@ -596,6 +767,13 @@
     "kind": "case",
     "topics": [
       "055"
+    ]
+  },
+  {
+    "citation": "Chandler v. Judicial Council, 398 U.S. 74 (1970)",
+    "kind": "case",
+    "topics": [
+      "127"
     ]
   },
   {
@@ -649,6 +827,13 @@
     ]
   },
   {
+    "citation": "Citizens United v. FEC implications for judicial campaign spending",
+    "kind": "statute",
+    "topics": [
+      "121"
+    ]
+  },
+  {
     "citation": "Citizens United v. FEC, 558 U.S. 310 (2010)",
     "kind": "case",
     "topics": [
@@ -665,6 +850,13 @@
     "kind": "statute",
     "topics": [
       "046"
+    ]
+  },
+  {
+    "citation": "Class Action Fairness Act of 2005 (28 U.S.C. \u00a7\u00a7 1332(d), 1453, 1711-1715)",
+    "kind": "statute",
+    "topics": [
+      "120"
     ]
   },
   {
@@ -844,6 +1036,13 @@
     ]
   },
   {
+    "citation": "Dobbs v. Jackson Women's Health Organization, 597 U.S. 215 (2022)",
+    "kind": "case",
+    "topics": [
+      "114"
+    ]
+  },
+  {
     "citation": "Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L. 111-203)",
     "kind": "statute",
     "topics": [
@@ -906,6 +1105,13 @@
     "kind": "statute",
     "topics": [
       "029"
+    ]
+  },
+  {
+    "citation": "Ethics in Government Act, Title VI (expired Independent Counsel provisions)",
+    "kind": "statute",
+    "topics": [
+      "118"
     ]
   },
   {
@@ -1022,6 +1228,13 @@
     ]
   },
   {
+    "citation": "Federal Magistrates Act (28 U.S.C. \u00a7 631 et seq.)",
+    "kind": "statute",
+    "topics": [
+      "123"
+    ]
+  },
+  {
     "citation": "Federal Power Act (16 U.S.C. \u00a7 791a et seq.)",
     "kind": "statute",
     "topics": [
@@ -1041,6 +1254,34 @@
     "topics": [
       "049",
       "055"
+    ]
+  },
+  {
+    "citation": "Federal Rule of Appellate Procedure 29 (Amicus Briefs)",
+    "kind": "statute",
+    "topics": [
+      "114"
+    ]
+  },
+  {
+    "citation": "Federal Rules of Civil Procedure, Rule 23 (Class Actions)",
+    "kind": "statute",
+    "topics": [
+      "120"
+    ]
+  },
+  {
+    "citation": "Federal Rules of Civil Procedure, Rule 65 (Injunctions and Restraining Orders)",
+    "kind": "statute",
+    "topics": [
+      "112"
+    ]
+  },
+  {
+    "citation": "Federal Tort Claims Act (28 U.S.C. \u00a7\u00a7 2671-2680)",
+    "kind": "statute",
+    "topics": [
+      "124"
     ]
   },
   {
@@ -1159,6 +1400,13 @@
     ]
   },
   {
+    "citation": "Gall v. United States, 552 U.S. 38 (2007)",
+    "kind": "case",
+    "topics": [
+      "116"
+    ]
+  },
+  {
     "citation": "Garcetti v. Ceballos, 547 U.S. 410 (2006)",
     "kind": "case",
     "topics": [
@@ -1211,6 +1459,20 @@
     ]
   },
   {
+    "citation": "Hanna v. Plumer, 380 U.S. 460 (1965)",
+    "kind": "case",
+    "topics": [
+      "122"
+    ]
+  },
+  {
+    "citation": "Harlow v. Fitzgerald, 457 U.S. 800 (1982)",
+    "kind": "case",
+    "topics": [
+      "124"
+    ]
+  },
+  {
     "citation": "Hatch Act (5 U.S.C. \u00a7\u00a7 7321\u20137326)",
     "kind": "statute",
     "topics": [
@@ -1232,6 +1494,13 @@
       "066",
       "068",
       "069"
+    ]
+  },
+  {
+    "citation": "Horne v. Flores, 557 U.S. 433 (2009)",
+    "kind": "case",
+    "topics": [
+      "125"
     ]
   },
   {
@@ -1369,6 +1638,13 @@
     ]
   },
   {
+    "citation": "In re United States, 927 F.3d 830 (5th Cir. 2019)",
+    "kind": "case",
+    "topics": [
+      "110"
+    ]
+  },
+  {
     "citation": "INS v. Chadha, 462 U.S. 919 (1983)",
     "kind": "case",
     "topics": [
@@ -1451,6 +1727,13 @@
     ]
   },
   {
+    "citation": "Judicial Conduct and Disability Act (28 U.S.C. \u00a7\u00a7 351-364)",
+    "kind": "statute",
+    "topics": [
+      "115"
+    ]
+  },
+  {
     "citation": "Kennecott Utah Copper Corp. v. DOI, 88 F.3d 1191 (D.C. Cir. 1996)",
     "kind": "case",
     "topics": [
@@ -1469,6 +1752,13 @@
     "kind": "statute",
     "topics": [
       "035"
+    ]
+  },
+  {
+    "citation": "Liteky v. United States, 510 U.S. 540 (1994)",
+    "kind": "case",
+    "topics": [
+      "115"
     ]
   },
   {
@@ -1532,10 +1822,32 @@
     ]
   },
   {
+    "citation": "Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)",
+    "kind": "case",
+    "topics": [
+      "119"
+    ]
+  },
+  {
     "citation": "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)",
     "kind": "case",
     "topics": [
-      "081"
+      "081",
+      "108"
+    ]
+  },
+  {
+    "citation": "Maryland v. King, 569 U.S. 435 (2013)",
+    "kind": "case",
+    "topics": [
+      "109"
+    ]
+  },
+  {
+    "citation": "Massachusetts v. EPA, 549 U.S. 497 (2007)",
+    "kind": "case",
+    "topics": [
+      "117"
     ]
   },
   {
@@ -1583,6 +1895,20 @@
     ]
   },
   {
+    "citation": "Mistretta v. United States, 488 U.S. 361 (1989)",
+    "kind": "case",
+    "topics": [
+      "127"
+    ]
+  },
+  {
+    "citation": "Monell v. Dept. of Social Services, 436 U.S. 658 (1978)",
+    "kind": "case",
+    "topics": [
+      "124"
+    ]
+  },
+  {
     "citation": "Moody v. NetChoice, 603 U.S. ___ (2024)",
     "kind": "case",
     "topics": [
@@ -1593,7 +1919,8 @@
     "citation": "Morrison v. Olson, 487 U.S. 654 (1988)",
     "kind": "case",
     "topics": [
-      "062"
+      "062",
+      "118"
     ]
   },
   {
@@ -1655,6 +1982,13 @@
     ]
   },
   {
+    "citation": "National Labor Relations Board v. Noel Canning, 573 U.S. 513 (2014)",
+    "kind": "case",
+    "topics": [
+      "108"
+    ]
+  },
+  {
     "citation": "National Security Act of 1947 (50 U.S.C. \u00a7 3001 et seq.)",
     "kind": "statute",
     "topics": [
@@ -1710,10 +2044,31 @@
     ]
   },
   {
+    "citation": "Nuclear Option precedents (S. Res. 2013, 2017 filibuster-threshold changes)",
+    "kind": "statute",
+    "topics": [
+      "108"
+    ]
+  },
+  {
+    "citation": "Obergefell v. Hodges, 576 U.S. 644 (2015)",
+    "kind": "case",
+    "topics": [
+      "114"
+    ]
+  },
+  {
     "citation": "Office of Personnel Management v. Richmond, 496 U.S. 414 (1990)",
     "kind": "case",
     "topics": [
       "057"
+    ]
+  },
+  {
+    "citation": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+    "kind": "case",
+    "topics": [
+      "109"
     ]
   },
   {
@@ -1736,6 +2091,13 @@
     "kind": "statute",
     "topics": [
       "059"
+    ]
+  },
+  {
+    "citation": "Parens patriae standing doctrines (various state statutes)",
+    "kind": "statute",
+    "topics": [
+      "117"
     ]
   },
   {
@@ -1773,6 +2135,13 @@
       "052",
       "105",
       "107"
+    ]
+  },
+  {
+    "citation": "Prison Litigation Reform Act (18 U.S.C. \u00a7 3626)",
+    "kind": "statute",
+    "topics": [
+      "125"
     ]
   },
   {
@@ -1841,10 +2210,31 @@
     ]
   },
   {
+    "citation": "Republican Party of Minnesota v. White, 536 U.S. 765 (2002)",
+    "kind": "case",
+    "topics": [
+      "121"
+    ]
+  },
+  {
     "citation": "Rucho v. Common Cause, 588 U.S. 684 (2019)",
     "kind": "case",
     "topics": [
       "003"
+    ]
+  },
+  {
+    "citation": "Rufo v. Inmates of Suffolk County Jail, 502 U.S. 367 (1992)",
+    "kind": "case",
+    "topics": [
+      "125"
+    ]
+  },
+  {
+    "citation": "Rules Enabling Act (28 U.S.C. \u00a7\u00a7 2071-2077)",
+    "kind": "statute",
+    "topics": [
+      "122"
     ]
   },
   {
@@ -1860,6 +2250,13 @@
     "topics": [
       "022",
       "023"
+    ]
+  },
+  {
+    "citation": "Rules of the Supreme Court (Rule 10, Considerations Governing Review on Certiorari)",
+    "kind": "statute",
+    "topics": [
+      "109"
     ]
   },
   {
@@ -1891,6 +2288,13 @@
     ]
   },
   {
+    "citation": "Sentencing Reform Act of 1984 (28 U.S.C. \u00a7 991 et seq.)",
+    "kind": "statute",
+    "topics": [
+      "116"
+    ]
+  },
+  {
     "citation": "Shelby County v. Holder, 570 U.S. 529 (2013)",
     "kind": "case",
     "topics": [
@@ -1910,6 +2314,13 @@
     "kind": "case",
     "topics": [
       "105"
+    ]
+  },
+  {
+    "citation": "Sibbach v. Wilson & Co., 312 U.S. 1 (1941)",
+    "kind": "case",
+    "topics": [
+      "122"
     ]
   },
   {
@@ -1972,10 +2383,45 @@
     ]
   },
   {
+    "citation": "State constitutional provisions governing judicial selection (varies by state)",
+    "kind": "statute",
+    "topics": [
+      "121"
+    ]
+  },
+  {
     "citation": "State lobbying disclosure laws (varying by jurisdiction)",
     "kind": "statute",
     "topics": [
       "082"
+    ]
+  },
+  {
+    "citation": "Stern v. Marshall, 564 U.S. 462 (2011)",
+    "kind": "case",
+    "topics": [
+      "123"
+    ]
+  },
+  {
+    "citation": "Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023)",
+    "kind": "case",
+    "topics": [
+      "113"
+    ]
+  },
+  {
+    "citation": "Supreme Court Rule 37 (Amicus Curiae Briefs)",
+    "kind": "statute",
+    "topics": [
+      "114"
+    ]
+  },
+  {
+    "citation": "Supreme Court Rules 22-23 (Applications for stays)",
+    "kind": "statute",
+    "topics": [
+      "126"
     ]
   },
   {
@@ -2001,6 +2447,20 @@
     ]
   },
   {
+    "citation": "Texas v. United States, 809 F.3d 134 (5th Cir. 2015)",
+    "kind": "case",
+    "topics": [
+      "117"
+    ]
+  },
+  {
+    "citation": "Texas v. United States, No. 6:23-cv-00007 (S.D. Tex.)",
+    "kind": "case",
+    "topics": [
+      "111"
+    ]
+  },
+  {
     "citation": "Time Warner Entertainment Co. v. FCC, 240 F.3d 1126 (D.C. Cir. 2001)",
     "kind": "case",
     "topics": [
@@ -2023,7 +2483,15 @@
     "citation": "TransUnion LLC v. Ramirez, 594 U.S. 413 (2021)",
     "kind": "case",
     "topics": [
-      "100"
+      "100",
+      "119"
+    ]
+  },
+  {
+    "citation": "Trump v. Hawaii, 585 U.S. 667 (2018)",
+    "kind": "case",
+    "topics": [
+      "112"
     ]
   },
   {
@@ -2105,10 +2573,24 @@
     ]
   },
   {
+    "citation": "U.S. Constitution, Article II, Section 2, Clause 2 (Appointments Clause)",
+    "kind": "statute",
+    "topics": [
+      "108"
+    ]
+  },
+  {
     "citation": "U.S. Constitution, Article II, Section 3 (Take Care Clause)",
     "kind": "statute",
     "topics": [
       "060"
+    ]
+  },
+  {
+    "citation": "U.S. Constitution, Article III, Section 2 (Cases and Controversies)",
+    "kind": "statute",
+    "topics": [
+      "119"
     ]
   },
   {
@@ -2147,6 +2629,13 @@
     "kind": "case",
     "topics": [
       "077"
+    ]
+  },
+  {
+    "citation": "United States v. Booker, 543 U.S. 220 (2005)",
+    "kind": "case",
+    "topics": [
+      "116"
     ]
   },
   {
@@ -2232,7 +2721,8 @@
     "citation": "United States v. Nixon, 418 U.S. 683 (1974)",
     "kind": "case",
     "topics": [
-      "052"
+      "052",
+      "118"
     ]
   },
   {
@@ -2258,6 +2748,13 @@
     ]
   },
   {
+    "citation": "Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338 (2011)",
+    "kind": "case",
+    "topics": [
+      "120"
+    ]
+  },
+  {
     "citation": "Walker v. Cheney, 230 F. Supp. 2d 51 (D.D.C. 2002)",
     "kind": "case",
     "topics": [
@@ -2279,6 +2776,13 @@
     ]
   },
   {
+    "citation": "Wellness International Network v. Sharif, 575 U.S. 665 (2015)",
+    "kind": "case",
+    "topics": [
+      "123"
+    ]
+  },
+  {
     "citation": "West Virginia v. EPA, 597 U.S. 697 (2022)",
     "kind": "case",
     "topics": [
@@ -2290,6 +2794,20 @@
     "kind": "statute",
     "topics": [
       "102"
+    ]
+  },
+  {
+    "citation": "Whole Woman's Health v. Jackson, 595 U.S. 30 (2021)",
+    "kind": "case",
+    "topics": [
+      "126"
+    ]
+  },
+  {
+    "citation": "Winter v. Natural Resources Defense Council, 555 U.S. 7 (2008)",
+    "kind": "case",
+    "topics": [
+      "112"
     ]
   },
   {
