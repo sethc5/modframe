@@ -46,21 +46,14 @@
     ]
   },
   {
-    "name": "Agency rulemaking and legal offices",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "049"
-    ]
-  },
-  {
     "name": "Agency rulemaking offices",
     "types": [
       "office"
     ],
     "topics": [
       "044",
+      "048",
+      "049",
       "059",
       "064"
     ]
@@ -403,15 +396,6 @@
     ]
   },
   {
-    "name": "Federal agency rulemaking offices",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "048"
-    ]
-  },
-  {
     "name": "Federal courts (judicial review)",
     "types": [
       "office"
@@ -451,29 +435,14 @@
   {
     "name": "Government Accountability Office",
     "types": [
+      "office",
       "regulatory_body"
     ],
     "topics": [
       "018",
-      "032"
-    ]
-  },
-  {
-    "name": "Government Accountability Office (compliance audit)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "057"
-    ]
-  },
-  {
-    "name": "Government Accountability Office (FVRA monitoring)",
-    "types": [
-      "office"
-    ],
-    "topics": [
+      "032",
       "050",
+      "057",
       "065"
     ]
   },
@@ -799,15 +768,7 @@
       "office"
     ],
     "topics": [
-      "052"
-    ]
-  },
-  {
-    "name": "Office of Legal Counsel (OLC)",
-    "types": [
-      "office"
-    ],
-    "topics": [
+      "052",
       "060"
     ]
   },
@@ -819,15 +780,7 @@
     "topics": [
       "021",
       "025",
-      "047"
-    ]
-  },
-  {
-    "name": "Office of Management and Budget (circular authority)",
-    "types": [
-      "office"
-    ],
-    "topics": [
+      "047",
       "057"
     ]
   },
@@ -973,76 +926,20 @@
     ]
   },
   {
-    "name": "President (appointment authority)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "050"
-    ]
-  },
-  {
-    "name": "President (Article II pardon authority)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "056"
-    ]
-  },
-  {
-    "name": "President (classification authority)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "053"
-    ]
-  },
-  {
-    "name": "President (designation authority)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "065"
-    ]
-  },
-  {
-    "name": "President (directive authority)",
+    "name": "President",
     "types": [
       "office"
     ],
     "topics": [
       "044",
-      "055"
-    ]
-  },
-  {
-    "name": "President (emergency declaration authority)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "051"
-    ]
-  },
-  {
-    "name": "President (privilege invocation authority)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "052"
-    ]
-  },
-  {
-    "name": "President (signing statement authority)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "060"
+      "050",
+      "051",
+      "052",
+      "053",
+      "055",
+      "056",
+      "060",
+      "065"
     ]
   },
   {
@@ -1332,44 +1229,20 @@
       "office"
     ],
     "topics": [
+      "051",
       "052",
       "055",
       "056"
     ]
   },
   {
-    "name": "White House counsel and NSC staff",
+    "name": "White House policy councils",
     "types": [
       "office"
     ],
     "topics": [
-      "051"
-    ]
-  },
-  {
-    "name": "White House policy councils (DPC, NEC, OSTP)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "059"
-    ]
-  },
-  {
-    "name": "White House policy councils (NEC, DPC)",
-    "types": [
-      "office"
-    ],
-    "topics": [
-      "058"
-    ]
-  },
-  {
-    "name": "White House policy councils (NSC, DPC)",
-    "types": [
-      "office"
-    ],
-    "topics": [
+      "058",
+      "059",
       "063"
     ]
   }

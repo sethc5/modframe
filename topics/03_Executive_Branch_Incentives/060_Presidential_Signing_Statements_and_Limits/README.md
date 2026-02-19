@@ -10,13 +10,13 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 044, 051, 055, 056
+Related modules: 044, 051, 052, 055, 056
 Last reviewed: 2026-02
 
 Actors:
-	- name: President (signing statement authority)
+	- name: President
 		type: office
-	- name: Office of Legal Counsel (OLC)
+	- name: Office of Legal Counsel
 		type: office
 	- name: Agency general counsels
 		type: office

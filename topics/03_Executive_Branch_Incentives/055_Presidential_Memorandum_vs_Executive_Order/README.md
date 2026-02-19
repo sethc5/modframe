@@ -14,7 +14,7 @@ Related modules: 044, 049, 051, 060
 Last reviewed: 2026-02
 
 Actors:
-	- name: President (directive authority)
+	- name: President
 		type: office
 	- name: White House counsel
 		type: office

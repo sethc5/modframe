@@ -18,7 +18,7 @@ Actors:
 		type: office
 	- name: Agency budget officers
 		type: office
-	- name: White House policy councils (NEC, DPC)
+	- name: White House policy councils
 		type: office
 
 Statutes:

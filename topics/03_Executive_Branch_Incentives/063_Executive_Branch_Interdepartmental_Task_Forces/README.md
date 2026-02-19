@@ -18,7 +18,7 @@ Actors:
 		type: office
 	- name: Participating agency representatives
 		type: office
-	- name: White House policy councils (NSC, DPC)
+	- name: White House policy councils
 		type: office
 
 Statutes:

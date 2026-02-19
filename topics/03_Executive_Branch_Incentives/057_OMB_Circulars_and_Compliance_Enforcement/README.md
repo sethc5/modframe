@@ -14,11 +14,11 @@ Related modules: 045, 047, 058
 Last reviewed: 2026-02
 
 Actors:
-	- name: Office of Management and Budget (circular authority)
+	- name: Office of Management and Budget
 		type: office
 	- name: Agency chief financial officers
 		type: office
-	- name: Government Accountability Office (compliance audit)
+	- name: Government Accountability Office
 		type: office
 
 Statutes:

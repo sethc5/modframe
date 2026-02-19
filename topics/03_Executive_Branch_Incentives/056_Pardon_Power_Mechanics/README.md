@@ -14,7 +14,7 @@ Related modules: 052, 060
 Last reviewed: 2026-02
 
 Actors:
-	- name: President (Article II pardon authority)
+	- name: President
 		type: office
 	- name: Office of the Pardon Attorney (DOJ)
 		type: office

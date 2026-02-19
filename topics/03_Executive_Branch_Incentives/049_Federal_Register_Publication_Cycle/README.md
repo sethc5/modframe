@@ -16,7 +16,7 @@ Last reviewed: 2026-02
 Actors:
 	- name: Office of the Federal Register
 		type: office
-	- name: Agency rulemaking and legal offices
+	- name: Agency rulemaking offices
 		type: office
 	- name: Government Publishing Office
 		type: office
