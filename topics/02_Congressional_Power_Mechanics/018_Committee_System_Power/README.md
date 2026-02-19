@@ -2,13 +2,31 @@
 
 Purpose: short reference and outline for the "Committee System Power" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
 Outline: see `outline.md`
 
 Contributors: add names and links here
+
+Related modules: 019, 020, 032
+Last reviewed: 2026-02
+
+Actors:
+	- name: Committee chairs (House and Senate)
+		type: political_entity
+	- name: Party leadership (Speaker and leaders)
+		type: political_entity
+	- name: Government Accountability Office
+		type: regulatory_body
+
+Statutes:
+	- House Rule X
+	- House Rule XI
+
+Cases:
+	- INS v. Chadha, 462 U.S. 919 (1983)
 
 How to contribute:
 
