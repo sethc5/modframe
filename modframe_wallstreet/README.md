@@ -28,6 +28,18 @@ Translate the Modframe methodology (mechanism-first, actor/incentive mapping, ci
 5. Corporate Governance Control Systems
 6. Information Asymmetry & Data Power
 7. Crisis Liquidity & Backstop Mechanisms
+8. Private Credit & Shadow Banking
+9. Real Estate & Mortgage Finance Architecture
+10. Insurance Industry Power & Regulation
+11. Consumer Financial Extraction Channels
+12. Tax Code & Wealth Preservation Architecture
+13. Fintech & Digital Finance Power
+14. Commodity Markets & Energy Finance
+15. International Capital Flows & Dollar Architecture
+16. Accounting, Audit & Valuation Power
+17. Legal & Advisory Gatekeeping
+18. Municipal & Public Finance Systems
+19. Private Wealth & Family Office Ecosystem
 
 ## Intended output format
 
