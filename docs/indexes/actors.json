@@ -95,6 +95,15 @@
     ]
   },
   {
+    "name": "Anonymous and pseudonymous online communities",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "099"
+    ]
+  },
+  {
     "name": "Anonymous donors to dark money organizations",
     "types": [
       "political_entity"
@@ -119,6 +128,24 @@
     ],
     "topics": [
       "054"
+    ]
+  },
+  {
+    "name": "Cable news network executives and producers",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "090"
+    ]
+  },
+  {
+    "name": "Cable television advertisers",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "090"
     ]
   },
   {
@@ -297,6 +324,15 @@
     ]
   },
   {
+    "name": "Congressional leadership communications staff",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "107"
+    ]
+  },
+  {
     "name": "Congressional oversight committees",
     "types": [
       "committee",
@@ -390,6 +426,15 @@
     ]
   },
   {
+    "name": "Corporation for Public Broadcasting",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "093"
+    ]
+  },
+  {
     "name": "Council of the Inspectors General on Integrity and Efficiency",
     "types": [
       "office"
@@ -432,6 +477,16 @@
     ],
     "topics": [
       "015"
+    ]
+  },
+  {
+    "name": "Cybersecurity and Infrastructure Security Agency",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "099",
+      "101"
     ]
   },
   {
@@ -498,6 +553,24 @@
     ]
   },
   {
+    "name": "Digital advertising platform operators",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "092"
+    ]
+  },
+  {
+    "name": "Digital distribution platform operators",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "106"
+    ]
+  },
+  {
     "name": "DOJ FARA Registration Unit",
     "types": [
       "office"
@@ -561,6 +634,18 @@
     ]
   },
   {
+    "name": "Federal Communications Commission",
+    "types": [
+      "regulatory_body"
+    ],
+    "topics": [
+      "089",
+      "090",
+      "103",
+      "104"
+    ]
+  },
+  {
     "name": "Federal courts (judicial review)",
     "types": [
       "office"
@@ -579,7 +664,23 @@
       "027",
       "075",
       "076",
-      "088"
+      "088",
+      "092",
+      "096",
+      "100"
+    ]
+  },
+  {
+    "name": "Federal Trade Commission",
+    "types": [
+      "regulatory_body"
+    ],
+    "topics": [
+      "091",
+      "096",
+      "098",
+      "100",
+      "106"
     ]
   },
   {
@@ -719,6 +820,15 @@
     ]
   },
   {
+    "name": "Google News and Apple News platform operators",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "098"
+    ]
+  },
+  {
     "name": "Government Accountability Office",
     "types": [
       "office",
@@ -796,12 +906,30 @@
     ]
   },
   {
+    "name": "House and Senate Intelligence Committees",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "102"
+    ]
+  },
+  {
     "name": "House and Senate Offices of Legislative Counsel",
     "types": [
       "office"
     ],
     "topics": [
       "031"
+    ]
+  },
+  {
+    "name": "House Appropriations Committee",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "093"
     ]
   },
   {
@@ -890,6 +1018,15 @@
     ]
   },
   {
+    "name": "Independent podcast and newsletter publishers",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "106"
+    ]
+  },
+  {
     "name": "Individual U.S. Senators",
     "types": [
       "political_entity"
@@ -945,6 +1082,15 @@
     ]
   },
   {
+    "name": "Inspectors General across federal agencies",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "102"
+    ]
+  },
+  {
     "name": "IRS Exempt Organizations Division",
     "types": [
       "office"
@@ -990,12 +1136,48 @@
     ]
   },
   {
+    "name": "Local government officials and municipal agencies",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "104"
+    ]
+  },
+  {
     "name": "Major bank and financial institution government affairs teams",
     "types": [
       "political_entity"
     ],
     "topics": [
       "072"
+    ]
+  },
+  {
+    "name": "Major broadcast and newspaper conglomerates",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "089"
+    ]
+  },
+  {
+    "name": "Major digital platform companies",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "091"
+    ]
+  },
+  {
+    "name": "Major platform trust and safety teams",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "097"
     ]
   },
   {
@@ -1065,6 +1247,15 @@
     ]
   },
   {
+    "name": "Meta Oversight Board",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "097"
+    ]
+  },
+  {
     "name": "Minority committee staff",
     "types": [
       "office"
@@ -1117,6 +1308,33 @@
     ],
     "topics": [
       "043"
+    ]
+  },
+  {
+    "name": "News publishers and digital media organizations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "098"
+    ]
+  },
+  {
+    "name": "Newspaper and broadcast editorial leadership",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "094"
+    ]
+  },
+  {
+    "name": "Newspaper chain owners and private equity acquirers",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "104"
     ]
   },
   {
@@ -1199,6 +1417,15 @@
     ]
   },
   {
+    "name": "Office of Special Counsel",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "102"
+    ]
+  },
+  {
     "name": "Office of the Clerk, U.S. House of Representatives",
     "types": [
       "office"
@@ -1214,7 +1441,8 @@
       "office"
     ],
     "topics": [
-      "053"
+      "053",
+      "101"
     ]
   },
   {
@@ -1234,6 +1462,15 @@
     ],
     "topics": [
       "056"
+    ]
+  },
+  {
+    "name": "Office of the President (FCC Chair appointment authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "103"
     ]
   },
   {
@@ -1322,12 +1559,39 @@
     ]
   },
   {
+    "name": "Political campaign committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "092"
+    ]
+  },
+  {
+    "name": "Political campaign communications staff",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "095"
+    ]
+  },
+  {
     "name": "Political campaigns and party committees",
     "types": [
       "political_entity"
     ],
     "topics": [
       "010"
+    ]
+  },
+  {
+    "name": "Political data analytics firms",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "100"
     ]
   },
   {
@@ -1394,12 +1658,30 @@
     ]
   },
   {
+    "name": "Public Broadcasting Service and National Public Radio",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "093"
+    ]
+  },
+  {
     "name": "Public commenters (industry, advocacy, citizens)",
     "types": [
       "political_entity"
     ],
     "topics": [
       "064"
+    ]
+  },
+  {
+    "name": "Public relations and political consulting firms",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "095"
     ]
   },
   {
@@ -1449,6 +1731,17 @@
     ]
   },
   {
+    "name": "Senate Commerce Committee",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "089",
+      "091",
+      "103"
+    ]
+  },
+  {
     "name": "Senate Energy and Natural Resources Committee members",
     "types": [
       "office"
@@ -1464,6 +1757,15 @@
     ],
     "topics": [
       "084"
+    ]
+  },
+  {
+    "name": "Senate Judiciary Committee",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "097"
     ]
   },
   {
@@ -1534,12 +1836,49 @@
     ]
   },
   {
+    "name": "Senate Select Committee on Intelligence",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "101"
+    ]
+  },
+  {
+    "name": "Social media platform operators",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "096",
+      "099"
+    ]
+  },
+  {
+    "name": "Society of Professional Journalists",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "094"
+    ]
+  },
+  {
     "name": "Speaker of the House",
     "types": [
       "political_entity"
     ],
     "topics": [
       "019"
+    ]
+  },
+  {
+    "name": "Standing Committee of Correspondents (Congressional Press Galleries)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "105"
     ]
   },
   {
@@ -1700,6 +2039,15 @@
     ]
   },
   {
+    "name": "Television news producers and editorial decision-makers",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "107"
+    ]
+  },
+  {
     "name": "Think tank scholars in government advisory roles",
     "types": [
       "political_entity"
@@ -1770,6 +2118,35 @@
     ],
     "topics": [
       "043"
+    ]
+  },
+  {
+    "name": "White House Communications Office",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "095",
+      "105"
+    ]
+  },
+  {
+    "name": "White House Communications Office and Press Secretary",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "107"
+    ]
+  },
+  {
+    "name": "White House Correspondents' Association",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "094",
+      "105"
     ]
   },
   {
