@@ -34,6 +34,18 @@ SCHEMAS = ROOT / "docs" / "schemas"
 TOPIC_RE = re.compile(r"^\d{3}_")
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+)$", re.MULTILINE)
 CLAIM_LABEL_RE = re.compile(r"\[(Observed|Inferred|Hypothesis)")
+YM_RE = re.compile(r"^\d{4}-(0[1-9]|1[0-2])$")
+
+
+def has_list_block(text: str, key: str) -> bool:
+    lines = text.splitlines()
+    for i, line in enumerate(lines):
+        if line.strip() == f"{key}:":
+            for nxt in lines[i + 1 : i + 8]:
+                if not nxt.strip():
+                    continue
+                return nxt.lstrip().startswith("-")
+    return False
 
 
 def load_schemas() -> tuple[dict, dict]:
@@ -69,6 +81,7 @@ def extract_section(text: str, heading_keyword: str) -> str:
 def check_readme(path: Path, schema: dict) -> list[str]:
     issues = []
     text = path.read_text()
+    status_value = ""
 
     for field in schema["required_fields"]:
         pattern = re.compile(rf"^{re.escape(field)}:\s*(.+)$", re.MULTILINE)
@@ -77,9 +90,32 @@ def check_readme(path: Path, schema: dict) -> list[str]:
             issues.append(f"README.md: missing '{field}' field")
         elif field == "Status":
             value = m.group(1).strip().lower()
+            status_value = value
             if value not in schema["valid_statuses"]:
                 valid = ", ".join(schema["valid_statuses"])
                 issues.append(f"README.md: Status '{value}' not in [{valid}]")
+
+    # Metadata checks for sourced+ states
+    meta_cfg = schema.get("metadata_fields", {})
+    required_for = set(meta_cfg.get("required_for_statuses", []))
+    if status_value in required_for:
+        rel_match = re.search(r"^Related modules:\s*(.+)$", text, re.MULTILINE)
+        if not rel_match:
+            issues.append("README.md: missing 'Related modules' field")
+        else:
+            ids = [x.strip() for x in rel_match.group(1).split(",") if x.strip()]
+            if not ids or not all(re.fullmatch(r"\d{3}", x) for x in ids):
+                issues.append("README.md: invalid 'Related modules' format (expected 001, 013, 017)")
+
+        rev_match = re.search(r"^Last reviewed:\s*(.+)$", text, re.MULTILINE)
+        if not rev_match:
+            issues.append("README.md: missing 'Last reviewed' field")
+        elif not YM_RE.match(rev_match.group(1).strip()):
+            issues.append("README.md: invalid 'Last reviewed' format (expected YYYY-MM)")
+
+        for key in ("Actors", "Statutes", "Cases"):
+            if not has_list_block(text, key):
+                issues.append(f"README.md: missing or invalid '{key}' list block")
 
     return issues
 
