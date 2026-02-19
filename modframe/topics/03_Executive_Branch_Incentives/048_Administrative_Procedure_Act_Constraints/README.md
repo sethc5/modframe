@@ -14,7 +14,7 @@ Related modules: 044, 049, 059, 064
 Last reviewed: 2026-02
 
 Actors:
-	- name: Federal agency rulemaking offices
+	- name: Agency rulemaking offices
 		type: office
 	- name: Office of Information and Regulatory Affairs
 		type: office

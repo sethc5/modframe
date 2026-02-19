@@ -10,11 +10,11 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 045, 051, 053, 060
+Related modules: 045, 051, 053, 056, 060
 Last reviewed: 2026-02
 
 Actors:
-	- name: President (privilege invocation authority)
+	- name: President
 		type: office
 	- name: White House counsel
 		type: office

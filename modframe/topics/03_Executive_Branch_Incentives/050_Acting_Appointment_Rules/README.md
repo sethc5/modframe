@@ -14,9 +14,9 @@ Related modules: 046, 053, 065
 Last reviewed: 2026-02
 
 Actors:
-	- name: President (appointment authority)
+	- name: President
 		type: office
-	- name: Government Accountability Office (FVRA monitoring)
+	- name: Government Accountability Office
 		type: office
 	- name: Senate (advise-and-consent authority)
 		type: political_entity

@@ -10,11 +10,11 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 046, 050, 052
+Related modules: 046, 050, 052, 065
 Last reviewed: 2026-02
 
 Actors:
-	- name: President (classification authority)
+	- name: President
 		type: office
 	- name: Defense Counterintelligence and Security Agency
 		type: office

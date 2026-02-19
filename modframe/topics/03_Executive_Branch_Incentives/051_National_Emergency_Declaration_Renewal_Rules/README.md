@@ -14,9 +14,9 @@ Related modules: 044, 052, 055, 060
 Last reviewed: 2026-02
 
 Actors:
-	- name: President (emergency declaration authority)
+	- name: President
 		type: office
-	- name: White House counsel and NSC staff
+	- name: White House counsel
 		type: office
 	- name: Congressional oversight committees
 		type: political_entity

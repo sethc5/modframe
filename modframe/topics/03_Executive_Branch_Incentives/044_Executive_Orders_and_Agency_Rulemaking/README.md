@@ -10,11 +10,11 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 048, 049, 055, 059
+Related modules: 043, 048, 049, 051, 055, 059, 060, 064
 Last reviewed: 2026-02
 
 Actors:
-	- name: President (directive authority)
+	- name: President
 		type: office
 	- name: Office of Information and Regulatory Affairs
 		type: office
