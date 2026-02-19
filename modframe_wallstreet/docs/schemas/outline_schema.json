@@ -1,0 +1,56 @@
+{
+  "_comment": "Schema for outline.md. Read by scripts/validate_completeness.py. Edit rules here; the validator picks them up automatically.",
+
+  "required_headings": [
+    "Actors and roles",
+    "Process map",
+    "Where power concentrates",
+    "Common failure modes",
+    "What evidence would prove",
+    "Suggested sources",
+    "Episode outline"
+  ],
+
+  "template_placeholders": [
+    "Briefly explain how this mechanism works",
+    "Describe the operational lever clearly",
+    "Primary institutional actors and their incentives",
+    "Oversight actors and their constraints",
+    "Documents, datasets, audits, and public records",
+    "Statutes and regulations",
+    "Oversight reports (GAO/OIG",
+    "Official datasets and disclosures",
+    "Structure (what it is)",
+    "Incentive (why it behaves as it does)",
+    "Example (case study)",
+    "Evidence (what to show)",
+    "Levers (how accountability/reform could work)"
+  ],
+
+  "placeholder_hit_threshold": 3,
+
+  "claim_label_formats": {
+    "_note": "Use exactly these forms. [Observed] alone is preferred when the source appears in Suggested sources. The inline form [Observed — source: SHORT_REF] is optional but must use an em dash and match a Suggested sources entry. [Inferred] and [Hypothesis] must be followed by reasoning text on the same line or immediately following sentence.",
+    "observed": "[Observed]",
+    "observed_inline": "[Observed — source: SHORT_REF]",
+    "inferred": "[Inferred]",
+    "hypothesis": "[Hypothesis]"
+  },
+
+  "min_claim_labels": 5,
+
+  "word_count_targets": {
+    "summary_min_sentences": 3,
+    "summary_max_sentences": 5,
+    "mechanism_max_words": 30,
+    "actors_min_words": 80,
+    "process_min_steps": 3,
+    "sources_min_entries": 3
+  },
+
+  "citation_rules": {
+    "traceability_mode": "strict-inline-or-mapping",
+    "enforce_source_entry_structure": true,
+    "source_entry_regex": "^-\\s+.+\\..+\\..+$"
+  }
+}
