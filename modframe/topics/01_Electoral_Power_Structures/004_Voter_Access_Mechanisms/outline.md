@@ -1,28 +1,16 @@
 # Voter Access Mechanisms
 
-**Summary:** The rules governing who may vote and how they exercise that right are set
-primarily by state governments, producing a nationwide patchwork of registration
-requirements, identification rules, polling place distributions, early voting windows,
-and absentee ballot procedures. [Observed — source: U.S. Const. art. I, § 4; state
-election codes; NCSL voting laws survey] Federal statutes — including the National Voter
-Registration Act (NVRA, 1993), the Help America Vote Act (HAVA, 2002), and the Voting
-Rights Act (VRA, 1965) — set minimum procedural floors but leave the vast majority of
-access decisions to state discretion. [Observed — source: 52 U.S.C. § 20501; 52 U.S.C.
-§ 21081; 52 U.S.C. § 10301] The Supreme Court's 2013 ruling in *Shelby County v.
-Holder* eliminated the VRA's Section 5 preclearance requirement, which had required
-jurisdictions with histories of voting discrimination to obtain federal approval before
-changing voting rules, removing the principal structural mechanism for pre-enforcement
-federal oversight. [Observed — source: Shelby County v. Holder, 570 U.S. 529 (2013)]
-Because voter access rules are set by the same legislative majorities that benefit from
-election outcomes, the mechanism concentrates rulemaking authority in actors with
-structural incentives to design rules that advantage their own coalition.
-[Inferred — the coincidence of rulemaking authority and electoral interest is structural;
-specific intent is difficult to prove in individual cases without direct evidence]
+**Summary:** Voter access rules are primarily set at the state level, creating variation
+in registration, identification, polling-place allocation, early voting, and absentee
+ballot procedures. [Observed] Federal statutes set procedural floors, but most design
+choices remain under state discretion. [Observed] The removal of Section 5 preclearance
+shifted oversight toward post-enactment litigation and administrative enforcement.
+[Observed] Because electoral rulemakers can also be electoral competitors, rule design
+authority is structurally concentrated in actors with direct political stakes. [Inferred]
 
-**Mechanism in one sentence:** State legislatures set the rules for who may register to
-vote, what identification is required, where polling places are located, and how ballots
-are cast — with federal courts as the primary post-enactment check since *Shelby County*
-eliminated pre-enforcement review. [Observed]
+**Mechanism in one sentence:** State legislatures set registration and voting rules, while
+federal oversight now operates mainly through post-enactment litigation and administrative
+review rather than preclearance. [Observed]
 
 ### Actors and roles
 
@@ -175,8 +163,8 @@ eliminated pre-enforcement review. [Observed]
 
 ### Suggested sources
 
-- National Voter Registration Act (NVRA). 52 U.S.C. §§ 20501–20511. U.S. House of
-  Representatives Office of Law Revision Counsel.
+- National Voter Registration Act (NVRA), 52 U.S.C. §§ 20501–20511. U.S. House of
+  Representatives Office of Law Revision Counsel, current through 2025.
   https://uscode.house.gov/view.xhtml?path=/prelim@title52/subtitle2/chapter205&edition=prelim
 
 - *Shelby County v. Holder*, 570 U.S. 529 (2013). Supreme Court of the United States.

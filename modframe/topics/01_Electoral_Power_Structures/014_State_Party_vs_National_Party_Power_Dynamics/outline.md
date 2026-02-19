@@ -1,6 +1,12 @@
 # State Party vs National Party Power Dynamics
 
-**Summary:** U.S. political parties operate as layered organizations in which national committees, state party committees, and local party units share branding and ballot goals but have distinct legal authorities, funding streams, and strategic priorities. [Observed] National parties concentrate presidential-cycle fundraising, messaging coordination, and convention rulemaking, while state parties control candidate recruitment pipelines, ballot access administration interfaces, and many on-the-ground mobilization structures. [Observed] Power shifts across levels depending on election cycle, competitiveness, legal constraints, and donor networks, creating recurring bargaining over resource allocation and agenda-setting. [Inferred] Understanding this dynamic is central to political power analysis because formal party identity can mask decentralized control over nomination mechanics and campaign infrastructure. [Inferred]
+**Summary:** US political parties operate as layered organizations in which national,
+state, and local units share electoral goals but control different legal and operational
+tools. [Observed] National party entities tend to concentrate presidential-cycle finance,
+messaging coordination, and convention rule processes. [Observed] State parties retain
+critical influence over candidate pipelines, local organizing, and state-specific election
+operations. [Observed] Cross-level bargaining over money, data, and support priorities
+determines where practical influence is concentrated in each cycle. [Inferred]
 
 **Mechanism in one sentence:** State and national party organizations bargain over money, rules, and candidate support, and influence follows whichever level controls high-value resources in a given cycle. [Inferred]
 
