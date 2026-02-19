@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- Rules of the House of Representatives, Rule XV
+	- U.S. Const. art. I, § 5, cl. 2 (chamber rulemaking authority)
 
 Cases:
 	- United States v. Ballin, 144 U.S. 1 (1892)
+	- Christoffel v. United States, 338 U.S. 84 (1949)
 
 How to contribute:
 

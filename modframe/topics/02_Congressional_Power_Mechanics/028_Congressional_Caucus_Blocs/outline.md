@@ -10,6 +10,7 @@
 - Party leadership negotiates with blocs to secure floor majorities, balancing caucus demands against broader coalition management. [Observed]
 - Committee chairs and whips incorporate caucus positions into markup and vote-count planning when bloc defection risk is material. [Observed]
 - Outside policy networks and constituency groups can reinforce caucus cohesion through information, endorsements, and political signaling, increasing the credibility of coordinated bargaining positions across multiple votes. [Observed]
+- Media and public commentators amplify bloc identity and framing, affecting perceived leverage and electoral salience of caucus positions in public discourse. [Inferred]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Bloc incentives can prioritize internal brand differentiation over cross-faction policy durability in repeated bargaining cycles. [Inferred]
 - Informal caucus commitments are not always transparent in public legislative records, reducing traceability of influence pathways. [Observed]
 - Over-fragmentation into multiple blocs can produce unstable coalition arithmetic and recurring procedural brinkmanship. [Observed]
+- Leadership may co-opt caucus labels for strategic positioning without delivering substantive policy changes, diluting caucus brand credibility over time. [Inferred]
 
 ### What evidence would prove/disprove key claims
 

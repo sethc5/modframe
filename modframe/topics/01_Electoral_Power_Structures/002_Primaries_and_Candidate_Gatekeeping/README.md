@@ -14,18 +14,20 @@ Related modules: 001, 003, 004
 Last reviewed: 2026-02
 
 Actors:
-  - name: State governments
-    type: institution
-  - name: State and national party committees
-    type: political_entity
-  - name: Incumbent officeholders
-    type: institution
+	- name: State governments
+	type: institution
+	- name: State and national party committees
+	type: political_entity
+	- name: Incumbent officeholders
+	type: institution
 
 Statutes:
-  - 52 U.S.C. § 30101
+	- 52 U.S.C. § 10301 (Voting Rights Act Section 2, primary access)
+	- Cal. Elec. Code § 5100 et seq. (top-two primary system)
 
 Cases:
-  - California Democratic Party v. Jones
+	- California Democratic Party v. Jones, 530 U.S. 567 (2000)
+	- Tashjian v. Republican Party of Connecticut, 479 U.S. 208 (1986)
 
 How to contribute:
 

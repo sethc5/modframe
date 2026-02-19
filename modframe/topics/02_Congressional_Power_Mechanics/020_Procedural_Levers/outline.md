@@ -10,6 +10,7 @@
 - Senate leaders and individual senators use unanimous consent, holds, and cloture dynamics to accelerate or delay action. [Observed]
 - Parliamentarians and clerks advise on rule interpretation, limiting overt rule-breaking while allowing strategic use of precedents. [Observed]
 - Committee chairs and ranking members use markup procedures and hearing control to shape what reaches floor consideration, often determining whether technical concerns are resolved before leadership-level packaging decisions. [Observed]
+- Congressional Budget Office scoring and Joint Committee on Taxation estimates constrain procedural packaging choices by determining what qualifies under reconciliation or budget-point-of-order protections. [Observed]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Procedural complexity obscures accountability by making outcomes appear technical rather than strategic. [Inferred]
 - Reliance on deadline governance and omnibus packaging weakens deliberation and amendment quality control. [Observed]
 - Minority rights and majority governance can become unstable when lever use is escalatory and reciprocal across Congresses. [Observed]
+- Public understanding of procedural actions often lags institutional complexity, weakening electoral feedback loops for strategic lever use. [Observed]
 
 ### What evidence would prove/disprove key claims
 

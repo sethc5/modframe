@@ -10,6 +10,7 @@
 - Committee counsel and leadership policy staff refine language for strategic compatibility with chamber rules, scoring constraints, and coalition demands. [Observed]
 - Members and chiefs of staff prioritize timing, messaging, and legal durability, often trading precision for deadline feasibility in compressed windows. [Observed]
 - Executive and agency technical staff can indirectly influence drafting through implementation feedback, but final chamber text remains congressional. [Observed]
+- CBO and Joint Committee on Taxation scoring staff interact with draft text early, creating iterative feedback loops that constrain or reopen drafting options before formal committee action. [Observed]
 
 ### Process map (bulleted)
 

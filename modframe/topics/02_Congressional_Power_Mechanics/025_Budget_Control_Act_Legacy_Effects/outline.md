@@ -10,6 +10,7 @@
 - Appropriations subcommittees translate top-line limits into account-level allocations, often under constrained flexibility when caps are tight. [Observed]
 - Congressional Budget Office and Office of Management and Budget supply scoring and enforcement determinations that shape what is procedurally viable. [Observed]
 - Defense and domestic program stakeholders compete over limited discretionary space, creating recurring bargaining blocs around parity and exemptions. [Observed]
+- Advocacy coalitions, defense and domestic program constituencies, and fiscal-policy think tanks supply analysis and pressure that shapes public perception and legislative bargaining positions around cap levels. [Inferred]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Short-term cap deals can defer structural budget choices while preserving recurring brinkmanship incentives for future cycles. [Inferred]
 - Across-the-board sequestration design may not align cuts with program performance or strategic priorities. [Observed]
 - Public interpretation of fiscal outcomes can blur statutory-cap effects with macroeconomic and emergency-spending factors, reducing accountability clarity. [Observed]
+- Repeated expiration-and-renewal cycles can erode long-term planning capacity for agencies and stakeholders dependent on stable discretionary funding trajectories. [Observed]
 
 ### What evidence would prove/disprove key claims
 

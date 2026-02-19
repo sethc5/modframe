@@ -10,6 +10,7 @@
 - Committee chairs and bill sponsors shape text upstream because amendment opportunities are constrained once a bill is brought up under suspension. [Observed]
 - Minority members can support or oppose based on policy substance and procedural fairness concerns, but have limited ability to revise text during floor action. [Observed]
 - Parliamentarian and Clerk functions support procedural compliance, recordkeeping, and vote administration without setting policy priorities directly. [Observed]
+- Whip teams monitor suspension outcomes and advise leadership on two-thirds threshold feasibility, incorporating party-discipline signals and policy-risk assessments into scheduling decisions. [Observed]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Speed incentives can favor packaging choices that reduce deliberative visibility on technical or distributional consequences. [Inferred]
 - Measures with narrow majority support may be misrouted into suspension strategy and fail at the supermajority threshold. [Observed]
 - Overuse of expedited pathways can weaken perceived procedural legitimacy among members who prioritize open amendment processes. [Observed]
+- Repeated use of suspension for time-sensitive measures can create precedent expectations that reduce leadership flexibility in future scheduling decisions. [Inferred]
 
 ### What evidence would prove/disprove key claims
 

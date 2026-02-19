@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- Federal Election Campaign Act (52 U.S.C. §§ 30101–30146)
+	- 2 U.S.C. § 1604 (lobbying disclosure/fundraising nexus)
 
 Cases:
 	- Buckley v. Valeo, 424 U.S. 1 (1976)
+	- Randall v. Sorrell, 548 U.S. 230 (2006)
 
 How to contribute:
 

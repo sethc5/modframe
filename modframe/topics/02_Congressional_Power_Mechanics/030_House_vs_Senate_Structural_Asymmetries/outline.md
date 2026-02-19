@@ -10,6 +10,7 @@
 - Senate leaders must navigate unanimous-consent bargaining, holds, and cloture dynamics, creating stronger incentives for cross-faction procedural negotiation. [Observed]
 - Rank-and-file members in each chamber face different leverage environments: amendment constraints in the House versus individualized procedural influence in the Senate. [Observed]
 - Parliamentarians, clerks, and committee systems in both chambers translate formal rules into operational practice, shaping what strategies are procedurally feasible. [Observed]
+- Conference committees and bicameral negotiation teams bridge structural asymmetries by producing compromise texts whose procedural origins reflect each chamber's distinct leverage environment. [Observed]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Chamber asymmetry can produce recurring policy mismatch where one chamber optimizes speed while the other optimizes leverage extraction. [Inferred]
 - High procedural complexity reduces public traceability of where proposals stall, encouraging attribution error about substantive versus process failure. [Observed]
 - Repeated reliance on omnibus or deadline packages can mask chamber-specific accountability for negotiation bottlenecks. [Observed]
+- Reform proposals that address one chamber's pathologies may worsen coordination problems with the other, given asymmetric rule-change procedures and incentive structures. [Hypothesis]
 
 ### What evidence would prove/disprove key claims
 

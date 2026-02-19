@@ -14,19 +14,20 @@ Related modules: 003, 004, 006, 007
 Last reviewed: 2026-02
 
 Actors:
-  - name: Initiative sponsors
-    type: institution
-  - name: Professional signature-gathering firms
-    type: institution
-  - name: State legislature
-    type: institution
+	- name: Initiative sponsors
+	type: institution
+	- name: Professional signature-gathering firms
+	type: institution
+	- name: State legislature
+	type: institution
 
 Statutes:
-  - 52 U.S.C. § 30101
+	- Cal. Const. art. II, § 8 (California initiative provisions)
+	- Colo. Const. art. V, § 1 (Colorado initiative and referendum)
 
 Cases:
-  - Meyer v. Grant
-  - Jones v. Governor of Florida
+	- Meyer v. Grant, 486 U.S. 414 (1988)
+	- Buckley v. American Constitutional Law Foundation, 525 U.S. 182 (1999)
 
 How to contribute:
 

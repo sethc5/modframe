@@ -10,6 +10,7 @@
 - Party leadership and committee chairs seek agenda discipline and caucus cohesion, so they often discourage petition signing to preserve centralized scheduling control. [Observed]
 - House Clerk records signatures and publication status under chamber rules, creating an official transparency mechanism that also raises political visibility costs. [Observed]
 - Rules Committee and floor managers can respond with alternative procedural paths, reducing pressure or preempting petition momentum before final discharge votes. [Observed]
+- Outside advocacy organizations and media amplify petition campaigns by applying constituency pressure to uncommitted signers, shifting the cost-benefit calculus for visible support. [Inferred]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Members may prefer privately supporting a policy while avoiding visible signatures that trigger leadership retaliation risk. [Inferred]
 - Petition campaigns can stall when coalition members disagree on procedural vehicle design even if they share policy goals. [Observed]
 - Successful discharge threats may end in symbolic compromise rather than full consideration of the original proposal text. [Observed]
+- Historical success rates for discharge petitions are low enough that the tool may function primarily as a signaling device rather than a reliable path to floor consideration. [Observed]
 
 ### What evidence would prove/disprove key claims
 

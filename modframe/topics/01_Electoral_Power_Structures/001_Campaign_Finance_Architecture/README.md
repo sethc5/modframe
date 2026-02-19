@@ -10,24 +10,24 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
-Related modules: 001, 002, 003
+Related modules: 002, 003, 013, 017
 Last reviewed: 2026-02
 
 Actors:
-  - name: Candidates and campaigns
-    type: political_entity
-  - name: Political party committees
-    type: political_entity
-  - name: Political Action Committees (PACs)
-    type: political_entity
+	- name: Candidates and campaigns
+	type: political_entity
+	- name: Political party committees
+	type: political_entity
+	- name: Political Action Committees (PACs)
+	type: political_entity
 
 Statutes:
-  - 52 U.S.C. §§ 30101–30145.
+	- 52 U.S.C. §§ 30101–30145 (Federal Election Campaign Act)
+	- 26 U.S.C. § 527 (tax-exempt political organizations)
 
 Cases:
-  - Buckley v. Valeo
-  - Citizens United v. Federal Election Commission
-  - McCutcheon v. Federal Election Commission
+	- Buckley v. Valeo, 424 U.S. 1 (1976)
+	- Citizens United v. FEC, 558 U.S. 310 (2010)
 
 How to contribute:
 

@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- Budget Control Act of 2011 (Pub. L. 112-25)
+	- 2 U.S.C. § 901 (discretionary spending caps)
 
 Cases:
 	- Train v. City of New York, 420 U.S. 35 (1975)
+	- Clinton v. City of New York, 524 U.S. 417 (1998)
 
 How to contribute:
 

@@ -10,6 +10,7 @@
 - Senate Majority and Minority Leaders coordinate unanimous consent strategy, amendment management, and floor sequencing under supermajority constraints. [Observed]
 - Party steering/policy committees influence committee assignments and career pathways, linking member behavior to institutional advancement. [Observed]
 - Congressional campaign committees (DCCC, NRCC, DSCC, NRSC) connect fundraising capacity to leadership influence over vulnerable-seat strategy. [Inferred]
+- Rank-and-file members use position-taking, coalition defection leverage, and public signaling to push back against centralized scheduling when leadership priorities diverge from district or policy priorities. [Observed]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Leadership incentives can overweight short-cycle electoral signaling over long-horizon policy design, producing unstable or symbolic legislating. [Inferred]
 - Concentrated procedural control can weaken committee deliberation quality when major packages are assembled under leadership deadlines. [Observed]
 - Informal bargaining and campaign-resource linkages are only partially visible in official records, limiting external accountability. [Observed]
+- Leadership turnover or factional challenges can destabilize established procedural expectations, creating transition periods where scheduling becomes less predictable and caucus bargaining more fluid. [Observed]
 
 ### What evidence would prove/disprove key claims
 

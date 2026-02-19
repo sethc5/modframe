@@ -10,6 +10,7 @@
 - The Office of Congressional Ethics (House) can generate referrals and preliminary fact development but lacks final sanction authority. [Observed]
 - Members under inquiry, leadership, and party networks influence reputational and procedural environments that affect enforcement pace and outcomes. [Observed]
 - Outside watchdogs, journalists, and DOJ/public-integrity channels can surface evidence, but committee action remains chamber-controlled and often depends on internal prioritization decisions about investigative sequencing. [Observed]
+- Whistleblowers and former staff can surface misconduct evidence but face retaliation risk and limited formal protection channels within the legislative branch ethics framework. [Observed]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Peer-policing can generate caution against severe sanctions, especially in politically sensitive or closely divided periods. [Inferred]
 - Uneven publication of investigative detail can make similar cases appear inconsistent even when internal standards are comparable. [Observed]
 - Delayed adjudication can weaken deterrent effect by disconnecting accountability from the timing of alleged misconduct. [Observed]
+- Institutional memory loss through member turnover can weaken cross-cycle consistency in ethics enforcement standards and procedural interpretation. [Inferred]
 
 ### What evidence would prove/disprove key claims
 

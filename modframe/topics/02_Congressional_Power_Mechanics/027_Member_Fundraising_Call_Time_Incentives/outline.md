@@ -10,6 +10,7 @@
 - Party campaign committees and leadership networks set performance expectations tied to seat protection, majority strategy, and donor pipeline targets. [Observed]
 - Campaign consultants and finance staff design call-time operations, donor segmentation, and follow-up systems that maximize conversion efficiency. [Observed]
 - FEC disclosure rules provide transaction transparency but do not directly reveal member time-allocation decisions or informal pressure dynamics. [Observed]
+- Donor networks and bundlers supply not only funds but also intelligence on competitive dynamics, reinforcing feedback loops between fundraising access and legislative agenda awareness. [Inferred]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Incentives may prioritize high-frequency donor communication over deliberative legislative development and cross-committee policy depth. [Inferred]
 - Public disclosure captures money flows but not the internal opportunity costs imposed by call-time expectations. [Observed]
 - Members in expensive media markets face elevated fundraising burdens that can amplify representation asymmetries across districts or states. [Observed]
+- New members may internalize fundraising norms as central legislative work before fully developing policy or oversight capacity, affecting long-term institutional expertise development. [Inferred]
 
 ### What evidence would prove/disprove key claims
 
