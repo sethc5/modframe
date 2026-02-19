@@ -170,6 +170,13 @@
     ]
   },
   {
+    "citation": "Congressional Budget and Impoundment Control Act of 1974 (Pub. L. 93-344)",
+    "kind": "statute",
+    "topics": [
+      "021"
+    ]
+  },
+  {
     "citation": "Crawford v. Marion County Election Board",
     "kind": "case",
     "topics": [
@@ -255,6 +262,14 @@
     ]
   },
   {
+    "citation": "Rules of the House of Representatives, Rule XV",
+    "kind": "statute",
+    "topics": [
+      "022",
+      "023"
+    ]
+  },
+  {
     "citation": "Shelby County v. Holder",
     "kind": "case",
     "topics": [
@@ -278,10 +293,19 @@
     ]
   },
   {
+    "citation": "Train v. City of New York, 420 U.S. 35 (1975)",
+    "kind": "case",
+    "topics": [
+      "021"
+    ]
+  },
+  {
     "citation": "United States v. Ballin, 144 U.S. 1 (1892)",
     "kind": "case",
     "topics": [
-      "019"
+      "019",
+      "022",
+      "023"
     ]
   }
 ]
