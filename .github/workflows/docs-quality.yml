@@ -26,6 +26,12 @@ jobs:
       - name: Validate module metadata (warn-only rollout)
         run: python scripts/validate_metadata.py --warn-only --status sourced
 
+      - name: Build metadata indexes
+        run: python scripts/build_indexes.py --status sourced
+
+      - name: Ensure indexes are committed
+        run: git diff --exit-code docs/indexes
+
       - name: Lint markdown
         uses: DavidAnson/markdownlint-cli2-action@v18
         with:

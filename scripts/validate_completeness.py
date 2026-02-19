@@ -120,10 +120,11 @@ def check_readme(path: Path, schema: dict) -> list[str]:
     return issues
 
 
-def check_outline(path: Path, schema: dict) -> list[str]:
+def check_outline(path: Path, schema: dict, status: str = "unknown") -> list[str]:
     issues = []
     text = path.read_text()
     targets = schema.get("word_count_targets", {})
+    citation_rules = schema.get("citation_rules", {})
 
     # Required headings
     headings = [m.group(2).strip() for m in HEADING_RE.finditer(text)]
@@ -166,6 +167,17 @@ def check_outline(path: Path, schema: dict) -> list[str]:
                 f"Suggested sources, need \u2265 {min_sources}"
             )
 
+        if citation_rules.get("enforce_source_entry_structure") and status in {"reviewed", "published"}:
+            pattern = citation_rules.get("source_entry_regex")
+            if pattern:
+                source_line_re = re.compile(pattern)
+                bad = [ln for ln in real_sources if not source_line_re.match(ln)]
+                if bad:
+                    issues.append(
+                        "outline.md: one or more Suggested sources entries do not match "
+                        "required format (title. issuer, date. url/id)."
+                    )
+
     # Actors section word count
     min_actor_words = targets.get("actors_min_words", 0)
     if min_actor_words:
@@ -175,6 +187,59 @@ def check_outline(path: Path, schema: dict) -> list[str]:
             issues.append(
                 f"outline.md: Actors and roles section has {word_count} word(s), "
                 f"need \u2265 {min_actor_words}"
+            )
+
+    # Summary sentence count
+    summary_min = targets.get("summary_min_sentences", 0)
+    summary_max = targets.get("summary_max_sentences", 0)
+    m_summary = re.search(
+        r"\*\*Summary:\*\*\s*(.*?)\n\s*\*\*Mechanism in one sentence:\*\*",
+        text,
+        re.DOTALL,
+    )
+    if m_summary and (summary_min or summary_max):
+        summary_text = m_summary.group(1).strip()
+        sentence_count = len([s for s in re.split(r"[.!?]+", summary_text) if s.strip()])
+        if summary_min and sentence_count < summary_min:
+            issues.append(
+                f"outline.md: Summary has {sentence_count} sentence(s), need \u2265 {summary_min}"
+            )
+        if summary_max and sentence_count > summary_max:
+            issues.append(
+                f"outline.md: Summary has {sentence_count} sentence(s), need \u2264 {summary_max}"
+            )
+
+    # Mechanism word cap
+    mechanism_max_words = targets.get("mechanism_max_words", 0)
+    if mechanism_max_words:
+        m_mech = re.search(r"\*\*Mechanism in one sentence:\*\*\s*(.+)", text)
+        if m_mech:
+            mechanism_words = len(m_mech.group(1).strip().split())
+            if mechanism_words > mechanism_max_words:
+                issues.append(
+                    f"outline.md: Mechanism sentence has {mechanism_words} word(s), "
+                    f"need \u2264 {mechanism_max_words}"
+                )
+
+    # Process map minimum steps
+    min_steps = targets.get("process_min_steps", 0)
+    if min_steps:
+        process_text = extract_section(text, "Process map")
+        step_count = len([ln for ln in process_text.split("\n") if ln.strip().startswith("-")])
+        if step_count < min_steps:
+            issues.append(
+                f"outline.md: Process map has {step_count} step(s), need \u2265 {min_steps}"
+            )
+
+    # Claim/source traceability enforcement for mature modules
+    trace_mode = citation_rules.get("traceability_mode", "")
+    if status in {"reviewed", "published"} and trace_mode == "strict-inline-or-mapping":
+        has_inline = bool(re.search(r"\[Observed\s+—\s+source:\s*[^\]]+\]", text))
+        has_mapping = "### Source mapping" in text
+        if not has_inline and not has_mapping:
+            issues.append(
+                "outline.md: reviewed/published modules require claim-source traceability "
+                "(inline [Observed — source: ...] or a '### Source mapping' section)"
             )
 
     return issues
@@ -232,7 +297,7 @@ def main(argv: list[str]) -> int:
             if not outline.exists():
                 issues.append("outline.md: file missing")
             else:
-                issues.extend(check_outline(outline, outline_schema))
+                issues.extend(check_outline(outline, outline_schema, status))
 
             record = {
                 "path": f"{section.name}/{topic.name}",

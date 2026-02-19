@@ -41,6 +41,12 @@ while preserving the current `CONTENT_AGENT.md` loop.
 2. Add auto-suggest links (`related_modules`) based on citations and actor overlap
 3. Add API-ready export (`queue.json` + index bundle)
 
+## Implementation status (2026-02)
+
+- Phase 1: implemented
+- Phase 2: implemented (index builder, prompt/template updates, metadata examples)
+- Phase 3: implemented MVP slice (staleness queue, related-module suggester, API-ready queue/index outputs)
+
 ## Operational model (coder LLM)
 
 The coder LLM continues to be instructed by `docs/CONTENT_AGENT.md`.

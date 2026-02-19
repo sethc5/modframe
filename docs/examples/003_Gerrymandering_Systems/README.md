@@ -10,6 +10,24 @@ Outline: see `outline.md`
 
 Contributors: add names and links here
 
+Related modules: 001, 002, 004, 005
+Last reviewed: 2026-02
+
+Actors:
+	- name: State legislatures
+		type: institution
+	- name: Governors
+		type: institution
+	- name: Independent and bipartisan redistricting commissions
+		type: regulatory_body
+
+Statutes:
+	- 52 U.S.C. § 10301.
+
+Cases:
+	- Rucho v. Common Cause
+	- Allen v. Milligan
+
 How to contribute:
 
 - Add citations to `outline.md` under "Suggested sources"
