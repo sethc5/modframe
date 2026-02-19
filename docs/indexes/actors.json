@@ -1,11 +1,77 @@
 [
   {
+    "name": "Advisory committee members (appointed experts)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "061"
+    ]
+  },
+  {
     "name": "Agency budget and program officials",
     "types": [
       "office"
     ],
     "topics": [
       "034"
+    ]
+  },
+  {
+    "name": "Agency budget officers",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "058"
+    ]
+  },
+  {
+    "name": "Agency chief financial officers",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "047",
+      "057"
+    ]
+  },
+  {
+    "name": "Agency general counsels",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "060"
+    ]
+  },
+  {
+    "name": "Agency rulemaking and legal offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "049"
+    ]
+  },
+  {
+    "name": "Agency rulemaking offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "044",
+      "059",
+      "064"
+    ]
+  },
+  {
+    "name": "Cabinet secretaries and agency heads",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "054"
     ]
   },
   {
@@ -37,6 +103,33 @@
     ]
   },
   {
+    "name": "Career Senior Executive Service members",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "046"
+    ]
+  },
+  {
+    "name": "Commission chairs and members",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "062"
+    ]
+  },
+  {
+    "name": "Commission staff and investigators",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "062"
+    ]
+  },
+  {
     "name": "Committee chairs (House and Senate)",
     "types": [
       "political_entity"
@@ -55,6 +148,15 @@
       "033",
       "036",
       "039"
+    ]
+  },
+  {
+    "name": "Congressional appropriations committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "047"
     ]
   },
   {
@@ -120,10 +222,13 @@
   {
     "name": "Congressional oversight committees",
     "types": [
-      "committee"
+      "committee",
+      "political_entity"
     ],
     "topics": [
-      "032"
+      "032",
+      "045",
+      "051"
     ]
   },
   {
@@ -169,6 +274,15 @@
     ],
     "topics": [
       "011"
+    ]
+  },
+  {
+    "name": "Council of the Inspectors General on Integrity and Efficiency",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "045"
     ]
   },
   {
@@ -226,6 +340,24 @@
     ]
   },
   {
+    "name": "Defense Counterintelligence and Security Agency",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "053"
+    ]
+  },
+  {
+    "name": "Designated Federal Officers",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "061"
+    ]
+  },
+  {
     "name": "Election administrators",
     "types": [
       "institution"
@@ -253,12 +385,39 @@
     ]
   },
   {
+    "name": "Executive Office of the President senior staff",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "043"
+    ]
+  },
+  {
     "name": "Federal agencies under audit",
     "types": [
       "institution"
     ],
     "topics": [
       "032"
+    ]
+  },
+  {
+    "name": "Federal agency rulemaking offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "048"
+    ]
+  },
+  {
+    "name": "Federal courts (judicial review)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "048"
     ]
   },
   {
@@ -300,12 +459,49 @@
     ]
   },
   {
+    "name": "Government Accountability Office (compliance audit)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "057"
+    ]
+  },
+  {
+    "name": "Government Accountability Office (FVRA monitoring)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "050",
+      "065"
+    ]
+  },
+  {
+    "name": "Government Publishing Office",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "049"
+    ]
+  },
+  {
     "name": "Governors",
     "types": [
       "institution"
     ],
     "topics": [
       "003"
+    ]
+  },
+  {
+    "name": "GSA Committee Management Secretariat",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "061"
     ]
   },
   {
@@ -449,6 +645,15 @@
     ]
   },
   {
+    "name": "Inspectors General (presidentially appointed)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "045"
+    ]
+  },
+  {
     "name": "Leadership PACs",
     "types": [
       "institution"
@@ -497,6 +702,15 @@
     ]
   },
   {
+    "name": "Merit Systems Protection Board",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "046"
+    ]
+  },
+  {
     "name": "Minority committee staff",
     "types": [
       "office"
@@ -525,12 +739,39 @@
     ]
   },
   {
+    "name": "National Security Advisor",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "054"
+    ]
+  },
+  {
+    "name": "National Security Council staff",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "043"
+    ]
+  },
+  {
     "name": "Nonconnected PACs",
     "types": [
       "institution"
     ],
     "topics": [
       "017"
+    ]
+  },
+  {
+    "name": "NSC staff (coordination function)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "054"
     ]
   },
   {
@@ -543,13 +784,60 @@
     ]
   },
   {
+    "name": "Office of Information and Regulatory Affairs",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "044",
+      "048"
+    ]
+  },
+  {
+    "name": "Office of Legal Counsel",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "052"
+    ]
+  },
+  {
+    "name": "Office of Legal Counsel (OLC)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "060"
+    ]
+  },
+  {
     "name": "Office of Management and Budget",
     "types": [
       "office"
     ],
     "topics": [
       "021",
-      "025"
+      "025",
+      "047"
+    ]
+  },
+  {
+    "name": "Office of Management and Budget (circular authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "057"
+    ]
+  },
+  {
+    "name": "Office of Personnel Management",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "046"
     ]
   },
   {
@@ -563,6 +851,61 @@
     ]
   },
   {
+    "name": "Office of the Director of National Intelligence",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "053"
+    ]
+  },
+  {
+    "name": "Office of the Federal Register",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "049",
+      "055"
+    ]
+  },
+  {
+    "name": "Office of the Pardon Attorney (DOJ)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "056"
+    ]
+  },
+  {
+    "name": "OIRA (significant rule review)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "064"
+    ]
+  },
+  {
+    "name": "OIRA Administrator",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "059"
+    ]
+  },
+  {
+    "name": "OMB Director and resource management offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "058"
+    ]
+  },
+  {
     "name": "Parliamentarian offices",
     "types": [
       "office"
@@ -573,6 +916,15 @@
       "038",
       "040",
       "041"
+    ]
+  },
+  {
+    "name": "Participating agency representatives",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "063"
     ]
   },
   {
@@ -621,6 +973,88 @@
     ]
   },
   {
+    "name": "President (appointment authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "050"
+    ]
+  },
+  {
+    "name": "President (Article II pardon authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "056"
+    ]
+  },
+  {
+    "name": "President (classification authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "053"
+    ]
+  },
+  {
+    "name": "President (designation authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "065"
+    ]
+  },
+  {
+    "name": "President (directive authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "044",
+      "055"
+    ]
+  },
+  {
+    "name": "President (emergency declaration authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "051"
+    ]
+  },
+  {
+    "name": "President (privilege invocation authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "052"
+    ]
+  },
+  {
+    "name": "President (signing statement authority)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "060"
+    ]
+  },
+  {
+    "name": "President and congressional leadership (commission creation)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "062"
+    ]
+  },
+  {
     "name": "Presidential campaigns",
     "types": [
       "political_entity"
@@ -640,12 +1074,31 @@
     ]
   },
   {
+    "name": "Public commenters (industry, advocacy, citizens)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "064"
+    ]
+  },
+  {
     "name": "Rank-and-file members in swing blocs",
     "types": [
       "political_entity"
     ],
     "topics": [
       "042"
+    ]
+  },
+  {
+    "name": "Senate (advise-and-consent authority)",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "050",
+      "065"
     ]
   },
   {
@@ -828,6 +1281,15 @@
     ]
   },
   {
+    "name": "Task force chairs (senior White House or agency officials)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "063"
+    ]
+  },
+  {
     "name": "U.S. Department of the Treasury",
     "types": [
       "office"
@@ -853,6 +1315,62 @@
     "topics": [
       "028",
       "042"
+    ]
+  },
+  {
+    "name": "White House Chief of Staff",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "043"
+    ]
+  },
+  {
+    "name": "White House counsel",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "052",
+      "055",
+      "056"
+    ]
+  },
+  {
+    "name": "White House counsel and NSC staff",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "051"
+    ]
+  },
+  {
+    "name": "White House policy councils (DPC, NEC, OSTP)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "059"
+    ]
+  },
+  {
+    "name": "White House policy councils (NEC, DPC)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "058"
+    ]
+  },
+  {
+    "name": "White House policy councils (NSC, DPC)",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "063"
     ]
   }
 ]
