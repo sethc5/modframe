@@ -2,13 +2,30 @@
 
 Purpose: short reference and outline for the "Senate Unanimous Consent Processes" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
 Outline: see `outline.md`
 
 Contributors: add names and links here
+
+Related modules: 024, 030, 037
+Last reviewed: 2026-02
+
+Actors:
+	- name: Senate majority and minority floor leadership
+		type: office
+	- name: Individual U.S. Senators
+		type: political_entity
+	- name: Senate parliamentarian and floor staff
+		type: office
+
+Statutes:
+	- Standing Rules of the Senate
+
+Cases:
+	- NLRB v. Noel Canning, 573 U.S. 513 (2014)
 
 How to contribute:
 

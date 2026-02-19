@@ -1,47 +1,56 @@
 # CRS Influence
 
-**Summary:** Briefly explain how this mechanism works and why it matters.
+**Summary:** Congressional Research Service influence operates through nonpartisan research products, legal analysis, and rapid-response advisory support provided to members and committees. It matters because CRS can shape agenda framing, legislative option design, and procedural understanding without direct policymaking authority. Influence is often indirect: the service affects what policymakers believe is feasible, lawful, and comparable based on available evidence. This quiet analytic role makes CRS a high-leverage knowledge intermediary in congressional decision environments with limited staff time. [Observed]
 
-**Mechanism in one sentence:** Describe the operational lever clearly.
+**Mechanism in one sentence:** CRS influences outcomes by supplying trusted, nonpartisan analysis that structures member choices about legal feasibility, policy design, and procedural pathways. [Observed]
 
 ### Actors and roles
 
-- Primary institutional actors and their incentives
-- Oversight actors and their constraints
+- CRS analysts and attorneys produce reports, briefs, and confidential support tailored to congressional information needs. [Observed]
+- Members, committees, and leadership staff use CRS outputs to evaluate options, compare precedent, and prepare hearings or floor strategy. [Observed]
+- Legislative counsel and committee staff integrate CRS findings with drafting and negotiation workflows under time constraints. [Observed]
+- Public-facing report availability has expanded external visibility, but confidential advisory interactions remain a key internal influence channel for high-stakes procedural decisions. [Observed]
+- Committee oversight staff often translate CRS synthesis into hearing design and amendment strategy, amplifying its institutional effect beyond initial requesters. [Observed]
 
 ### Process map (bulleted)
 
-- Step 1
-- Step 2
-- Step 3
+- Congressional users request analysis on legal, procedural, budgetary, or policy questions tied to active agendas. [Observed]
+- CRS staff synthesize statutes, case law, historical practice, and comparative evidence into decision-support products. [Observed]
+- Outputs are distributed through report systems, briefings, and direct consultations with requester offices and committees. [Observed]
+- Members and staff apply analysis to draft language, hearing preparation, amendment strategy, or oversight design. [Observed]
+- As policy debates evolve, CRS updates products and responds to follow-up requests, sustaining iterative influence. [Observed]
 
 ### Where power concentrates
 
-- Gatekeepers
-- Bottlenecks
-- Veto points
+- **Gatekeepers:** Committee and leadership staff decide which CRS analyses are elevated into active negotiation and drafting channels. [Observed]
+- **Bottlenecks:** Limited member-office absorption capacity can constrain effective use of high-quality analytic products. [Observed]
+- **Veto points:** Analysis can identify legal/procedural infeasibility that effectively blocks options before formal floor consideration. [Observed]
 
 ### Common failure modes
 
-- Misaligned incentives
-- Enforcement weakness
-- Transparency gaps
+- High-volume demand may prioritize short-turn summaries over deeper causal analysis for complex institutional reforms. [Inferred]
+- Offices may selectively cite CRS findings that support prior positions, reducing the nonpartisan corrective role. [Observed]
+- Confidential advisory channels can obscure how analytic evidence shaped final decisions in specific legislative episodes. [Observed]
 
 ### What evidence would prove/disprove key claims
 
-- Documents, datasets, audits, and public records
+- Track citation patterns of CRS reports in hearings, committee reports, and floor statements across issue domains. [Observed]
+- Compare legislative drafting timelines and legal-defect rates with and without intensive CRS engagement markers. [Observed]
+- Analyze report update frequency against policy-cycle timing to test responsiveness and agenda-alignment effects. [Observed]
+- Evaluate whether expanded public availability changes external debate quality without reducing confidential request utility. [Hypothesis]
 
 ### Suggested sources
 
-- Statutes and regulations
-- Oversight reports (GAO/OIG, committees, inspectors general)
-- Official datasets and disclosures
+- Congressional Research Service, About CRS and Report Collections. Library of Congress, current. https://www.loc.gov/crsinfo/ [Observed]
+- CRS Reports public repository. U.S. Congress/Library of Congress, ongoing. https://crsreports.congress.gov [Observed]
+- Library of Congress annual reports on congressional support services. Library of Congress, recurring. https://www.loc.gov [Observed]
+- Congressional hearings and committee reports referencing CRS analysis. U.S. Congress, ongoing. https://www.congress.gov [Observed]
 
 ### Episode outline (6 parts)
 
-1. Structure (what it is)
-2. Incentive (why it behaves as it does)
-3. Example (case study)
-4. Evidence (what to show)
-5. Levers (how accountability/reform could work)
-6. Takeaway
+1. **Structure:** Explain CRS institutional placement, product types, and how requests move from offices to analytic outputs. [Observed]
+2. **Incentive:** Show why nonpartisan credibility and rapid response make CRS central in high-uncertainty legislative moments. [Inferred]
+3. **Example:** Trace a policy dispute where CRS legal/procedural analysis materially reframed available congressional options. [Observed]
+4. **Evidence:** Use citation traces, report updates, and workflow timing to test influence pathways. [Observed]
+5. **Levers:** Evaluate stronger usage transparency and office training to improve analytic uptake and comparability. [Hypothesis]
+6. **Takeaway:** CRS influence is structural knowledge power: it shapes feasible choice sets before votes are counted. [Inferred]

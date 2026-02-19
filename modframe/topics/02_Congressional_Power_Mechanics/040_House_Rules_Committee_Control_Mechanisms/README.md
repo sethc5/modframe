@@ -2,13 +2,30 @@
 
 Purpose: short reference and outline for the "House Rules Committee Control Mechanisms" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
 Outline: see `outline.md`
 
 Contributors: add names and links here
+
+Related modules: 020, 037, 038
+Last reviewed: 2026-02
+
+Actors:
+	- name: House Rules Committee
+		type: committee
+	- name: House leadership floor team
+		type: office
+	- name: House parliamentarian support offices
+		type: office
+
+Statutes:
+	- Rules of the House of Representatives, Rule XIII
+
+Cases:
+	- United States v. Ballin, 144 U.S. 1 (1892)
 
 How to contribute:
 
