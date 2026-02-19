@@ -1,5 +1,14 @@
 [
   {
+    "name": "501(c)(4) social welfare organizations engaged in political activity",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "080"
+    ]
+  },
+  {
     "name": "Advisory committee members (appointed experts)",
     "types": [
       "office"
@@ -37,6 +46,15 @@
     ]
   },
   {
+    "name": "Agency Designated Ethics Officials",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "087"
+    ]
+  },
+  {
     "name": "Agency general counsels",
     "types": [
       "office"
@@ -56,6 +74,42 @@
       "049",
       "059",
       "064"
+    ]
+  },
+  {
+    "name": "ALEC and state-level model-legislation organizations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "082"
+    ]
+  },
+  {
+    "name": "American Petroleum Institute and fossil fuel trade associations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "085"
+    ]
+  },
+  {
+    "name": "Anonymous donors to dark money organizations",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "080"
+    ]
+  },
+  {
+    "name": "Bundler fundraisers and finance chairs",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "076"
     ]
   },
   {
@@ -102,6 +156,16 @@
     ],
     "topics": [
       "046"
+    ]
+  },
+  {
+    "name": "Clerk of the House and Secretary of the Senate",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "066",
+      "088"
     ]
   },
   {
@@ -175,10 +239,12 @@
   {
     "name": "Congressional campaign committees",
     "types": [
+      "institution",
       "political_entity"
     ],
     "topics": [
-      "019"
+      "019",
+      "075"
     ]
   },
   {
@@ -188,6 +254,24 @@
     ],
     "topics": [
       "028"
+    ]
+  },
+  {
+    "name": "Congressional committee chairs targeted by trade lobbying",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "079"
+    ]
+  },
+  {
+    "name": "Congressional committee leadership",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "069"
     ]
   },
   {
@@ -270,6 +354,42 @@
     ]
   },
   {
+    "name": "Corporate and foundation funders",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "074"
+    ]
+  },
+  {
+    "name": "Corporate clients seeking sub-threshold influence",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "077"
+    ]
+  },
+  {
+    "name": "Corporate government affairs clients",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "068"
+    ]
+  },
+  {
+    "name": "Corporate PAC treasurers and boards",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "075"
+    ]
+  },
+  {
     "name": "Council of the Inspectors General on Integrity and Efficiency",
     "types": [
       "office"
@@ -333,6 +453,24 @@
     ]
   },
   {
+    "name": "Defense and civilian appropriations subcommittee members",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "086"
+    ]
+  },
+  {
+    "name": "Defense and IT prime contractors (Lockheed Martin, Raytheon, Booz Allen Hamilton)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "086"
+    ]
+  },
+  {
     "name": "Defense Counterintelligence and Security Agency",
     "types": [
       "office"
@@ -342,12 +480,30 @@
     ]
   },
   {
+    "name": "Defense prime contractor executives",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "071"
+    ]
+  },
+  {
     "name": "Designated Federal Officers",
     "types": [
       "office"
     ],
     "topics": [
       "061"
+    ]
+  },
+  {
+    "name": "DOJ FARA Registration Unit",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "073"
     ]
   },
   {
@@ -387,6 +543,15 @@
     ]
   },
   {
+    "name": "FARA-registered agents and lobbying firms",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "073"
+    ]
+  },
+  {
     "name": "Federal agencies under audit",
     "types": [
       "institution"
@@ -407,10 +572,14 @@
   {
     "name": "Federal Election Commission",
     "types": [
+      "office",
       "regulatory_body"
     ],
     "topics": [
-      "027"
+      "027",
+      "075",
+      "076",
+      "088"
     ]
   },
   {
@@ -421,6 +590,123 @@
     "topics": [
       "037",
       "038"
+    ]
+  },
+  {
+    "name": "Foreign government principals and state-owned enterprises",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "073"
+    ]
+  },
+  {
+    "name": "Former congressional leadership staff",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "068"
+    ]
+  },
+  {
+    "name": "Former contracting officers and program managers",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "086"
+    ]
+  },
+  {
+    "name": "Former EPA, FERC, and DOE officials",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "085"
+    ]
+  },
+  {
+    "name": "Former FDA officials in industry roles",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "084"
+    ]
+  },
+  {
+    "name": "Former FTC, DOJ Antitrust, and congressional tech staff",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "083"
+    ]
+  },
+  {
+    "name": "Former members of Congress",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "067"
+    ]
+  },
+  {
+    "name": "Former political appointees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "070"
+    ]
+  },
+  {
+    "name": "Former SEC, CFTC, and Federal Reserve officials",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "072"
+    ]
+  },
+  {
+    "name": "Former senior congressional staff",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "069"
+    ]
+  },
+  {
+    "name": "Former senior DOD officials",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "071"
+    ]
+  },
+  {
+    "name": "Former senior executive branch officials",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "067"
+    ]
+  },
+  {
+    "name": "Former senior officials providing advisory services",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "077"
     ]
   },
   {
@@ -462,6 +748,15 @@
     ],
     "topics": [
       "003"
+    ]
+  },
+  {
+    "name": "Grassroots lobbying firms and astroturf organizers",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "078"
     ]
   },
   {
@@ -605,6 +900,33 @@
     ]
   },
   {
+    "name": "Industry employers of former officials",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "070"
+    ]
+  },
+  {
+    "name": "Industry-funded advocacy coalitions",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "078"
+    ]
+  },
+  {
+    "name": "Industry-funded state-level lobbyists",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "082"
+    ]
+  },
+  {
     "name": "Initiative sponsors",
     "types": [
       "institution"
@@ -623,6 +945,33 @@
     ]
   },
   {
+    "name": "IRS Exempt Organizations Division",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "080"
+    ]
+  },
+  {
+    "name": "Judicial advocacy organizations (Federalist Society, ACS)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "081"
+    ]
+  },
+  {
+    "name": "K Street lobbying firms",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "069"
+    ]
+  },
+  {
     "name": "Leadership PACs",
     "types": [
       "institution"
@@ -638,6 +987,42 @@
     ],
     "topics": [
       "035"
+    ]
+  },
+  {
+    "name": "Major bank and financial institution government affairs teams",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "072"
+    ]
+  },
+  {
+    "name": "Major policy think tanks (Brookings, Heritage, AEI, CATO, CAP)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "074"
+    ]
+  },
+  {
+    "name": "Major technology platform government affairs teams (Google, Amazon, Meta, Apple, Microsoft)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "083"
+    ]
+  },
+  {
+    "name": "Major trade associations (Chamber of Commerce, NAM, API)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "079"
     ]
   },
   {
@@ -686,6 +1071,15 @@
     ],
     "topics": [
       "039"
+    ]
+  },
+  {
+    "name": "Multi-service lobbying and law firms",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "068"
     ]
   },
   {
@@ -750,6 +1144,17 @@
     ],
     "topics": [
       "029"
+    ]
+  },
+  {
+    "name": "Office of Government Ethics",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "067",
+      "070",
+      "087"
     ]
   },
   {
@@ -890,6 +1295,15 @@
     ]
   },
   {
+    "name": "PhRMA, BIO, and pharmaceutical trade associations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "084"
+    ]
+  },
+  {
     "name": "Platform committee members and subcommittee chairs",
     "types": [
       "political_entity"
@@ -952,6 +1366,15 @@
     ]
   },
   {
+    "name": "Presidential and congressional campaign finance operations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "076"
+    ]
+  },
+  {
     "name": "Presidential campaigns",
     "types": [
       "political_entity"
@@ -989,6 +1412,15 @@
     ]
   },
   {
+    "name": "Registered federal lobbyists",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "066"
+    ]
+  },
+  {
     "name": "Senate (advise-and-consent authority)",
     "types": [
       "political_entity"
@@ -996,6 +1428,51 @@
     "topics": [
       "050",
       "065"
+    ]
+  },
+  {
+    "name": "Senate and House Armed Services Committee members",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "071"
+    ]
+  },
+  {
+    "name": "Senate Banking and House Financial Services Committee members",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "072"
+    ]
+  },
+  {
+    "name": "Senate Energy and Natural Resources Committee members",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "085"
+    ]
+  },
+  {
+    "name": "Senate Finance and House Energy and Commerce Committee members",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "084"
+    ]
+  },
+  {
+    "name": "Senate Judiciary Committee leadership",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "081"
     ]
   },
   {
@@ -1138,6 +1615,15 @@
     ]
   },
   {
+    "name": "State legislators targeted by preemption lobbying",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "082"
+    ]
+  },
+  {
     "name": "State legislature",
     "types": [
       "institution"
@@ -1178,12 +1664,75 @@
     ]
   },
   {
+    "name": "Strategic advisory firms and unregistered consultants",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "077"
+    ]
+  },
+  {
+    "name": "Targeted constituents and manufactured petition signers",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "078"
+    ]
+  },
+  {
     "name": "Task force chairs (senior White House or agency officials)",
     "types": [
       "office"
     ],
     "topics": [
       "063"
+    ]
+  },
+  {
+    "name": "Technology trade associations (CCIA, ITI, TechNet)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "083"
+    ]
+  },
+  {
+    "name": "Think tank scholars in government advisory roles",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "074"
+    ]
+  },
+  {
+    "name": "Trade association member companies",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "079"
+    ]
+  },
+  {
+    "name": "Transparency organizations (OpenSecrets, Issue One, Sunlight Foundation)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "088"
+    ]
+  },
+  {
+    "name": "U.S. Attorney for the District of Columbia",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "066"
     ]
   },
   {
@@ -1233,6 +1782,24 @@
       "052",
       "055",
       "056"
+    ]
+  },
+  {
+    "name": "White House Counsel's Office",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "087"
+    ]
+  },
+  {
+    "name": "White House Counsel's Office judicial selection team",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "081"
     ]
   },
   {

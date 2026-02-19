@@ -7,6 +7,13 @@
     ]
   },
   {
+    "citation": "10 U.S.C. \u00a7 1045 (DOD post-employment advisory)",
+    "kind": "statute",
+    "topics": [
+      "071"
+    ]
+  },
+  {
     "citation": "11 C.F.R. \u00a7 109.21 (coordination with PACs)",
     "kind": "statute",
     "topics": [
@@ -46,6 +53,35 @@
     "kind": "statute",
     "topics": [
       "012"
+    ]
+  },
+  {
+    "citation": "18 U.S.C. \u00a7 207 (post-employment restrictions)",
+    "kind": "statute",
+    "topics": [
+      "067",
+      "077"
+    ]
+  },
+  {
+    "citation": "18 U.S.C. \u00a7 207(a)\u2013(d) (executive branch post-employment restrictions)",
+    "kind": "statute",
+    "topics": [
+      "070"
+    ]
+  },
+  {
+    "citation": "18 U.S.C. \u00a7 207(e) (congressional staff post-employment restrictions)",
+    "kind": "statute",
+    "topics": [
+      "069"
+    ]
+  },
+  {
+    "citation": "18 U.S.C. \u00a7 208 (financial conflict-of-interest restrictions and waivers)",
+    "kind": "statute",
+    "topics": [
+      "087"
     ]
   },
   {
@@ -120,6 +156,13 @@
     ]
   },
   {
+    "citation": "28 U.S.C. \u00a7 44 (circuit judge appointments)",
+    "kind": "statute",
+    "topics": [
+      "081"
+    ]
+  },
+  {
     "citation": "3 U.S.C. \u00a7 105 (White House Office authorization)",
     "kind": "statute",
     "topics": [
@@ -166,6 +209,20 @@
     "kind": "statute",
     "topics": [
       "032"
+    ]
+  },
+  {
+    "citation": "41 U.S.C. \u00a7 2104 (Procurement Integrity Act)",
+    "kind": "statute",
+    "topics": [
+      "086"
+    ]
+  },
+  {
+    "citation": "41 U.S.C. \u00a7 2104 (procurement integrity restrictions)",
+    "kind": "statute",
+    "topics": [
+      "071"
     ]
   },
   {
@@ -304,6 +361,13 @@
     ]
   },
   {
+    "citation": "Americans for Prosperity Foundation v. Bonta, 594 U.S. 595 (2021)",
+    "kind": "case",
+    "topics": [
+      "080"
+    ]
+  },
+  {
     "citation": "Antideficiency Act (31 U.S.C. \u00a7\u00a7 1341\u20131342, 1511\u20131519)",
     "kind": "statute",
     "topics": [
@@ -316,6 +380,13 @@
     "topics": [
       "050",
       "065"
+    ]
+  },
+  {
+    "citation": "Arizona v. United States, 567 U.S. 387 (2012)",
+    "kind": "case",
+    "topics": [
+      "082"
     ]
   },
   {
@@ -349,10 +420,31 @@
     ]
   },
   {
+    "citation": "Bipartisan Campaign Reform Act of 2002 (P.L. 107-155)",
+    "kind": "statute",
+    "topics": [
+      "075"
+    ]
+  },
+  {
+    "citation": "Blankfein/Goldman Sachs Senate investigation (PSI, 2011)",
+    "kind": "case",
+    "topics": [
+      "072"
+    ]
+  },
+  {
     "citation": "Bluman v. FEC, 800 F. Supp. 2d 281 (D.D.C. 2011)",
     "kind": "case",
     "topics": [
       "009"
+    ]
+  },
+  {
+    "citation": "Boeing/Druyun procurement fraud case (U.S. v. Druyun, E.D. Va. 2004)",
+    "kind": "case",
+    "topics": [
+      "071"
     ]
   },
   {
@@ -372,6 +464,13 @@
     ]
   },
   {
+    "citation": "Branch Ministries v. Rossotti, 211 F.3d 137 (D.C. Cir. 2000)",
+    "kind": "case",
+    "topics": [
+      "074"
+    ]
+  },
+  {
     "citation": "Buckley v. American Constitutional Law Foundation, 525 U.S. 182 (1999)",
     "kind": "case",
     "topics": [
@@ -383,7 +482,8 @@
     "kind": "case",
     "topics": [
       "001",
-      "027"
+      "027",
+      "088"
     ]
   },
   {
@@ -408,6 +508,13 @@
       "008",
       "015",
       "016"
+    ]
+  },
+  {
+    "citation": "Business Roundtable v. SEC, 647 F.3d 1144 (D.C. Cir. 2011)",
+    "kind": "case",
+    "topics": [
+      "072"
     ]
   },
   {
@@ -439,6 +546,20 @@
     ]
   },
   {
+    "citation": "Cassidy & Associates lobbying disclosure enforcement (DOJ referral, 2009)",
+    "kind": "case",
+    "topics": [
+      "068"
+    ]
+  },
+  {
+    "citation": "Chamber of Commerce v. FEC, 69 F.3d 600 (D.C. Cir. 1995)",
+    "kind": "case",
+    "topics": [
+      "079"
+    ]
+  },
+  {
     "citation": "Chamber of Commerce v. Reich, 74 F.3d 1322 (D.C. Cir. 1996)",
     "kind": "case",
     "topics": [
@@ -451,6 +572,13 @@
     "topics": [
       "048",
       "057"
+    ]
+  },
+  {
+    "citation": "Chevron v. NRDC, 467 U.S. 837 (1984)",
+    "kind": "case",
+    "topics": [
+      "085"
     ]
   },
   {
@@ -475,11 +603,21 @@
     ]
   },
   {
+    "citation": "Cipollone v. Liggett Group, 505 U.S. 504 (1992)",
+    "kind": "case",
+    "topics": [
+      "082"
+    ]
+  },
+  {
     "citation": "Citizens United v. FEC, 558 U.S. 310 (2010)",
     "kind": "case",
     "topics": [
       "001",
-      "013"
+      "013",
+      "075",
+      "080",
+      "088"
     ]
   },
   {
@@ -487,6 +625,13 @@
     "kind": "statute",
     "topics": [
       "046"
+    ]
+  },
+  {
+    "citation": "Clean Air Act (42 U.S.C. \u00a7 7401 et seq.)",
+    "kind": "statute",
+    "topics": [
+      "085"
     ]
   },
   {
@@ -531,6 +676,13 @@
     ]
   },
   {
+    "citation": "Communications Decency Act \u00a7 230 (47 U.S.C. \u00a7 230)",
+    "kind": "statute",
+    "topics": [
+      "083"
+    ]
+  },
+  {
     "citation": "Congressional Budget Act of 1974, \u00a7 305 (conference procedure)",
     "kind": "statute",
     "topics": [
@@ -563,6 +715,14 @@
     "kind": "case",
     "topics": [
       "012"
+    ]
+  },
+  {
+    "citation": "Crandon v. United States, 494 U.S. 152 (1990)",
+    "kind": "case",
+    "topics": [
+      "070",
+      "087"
     ]
   },
   {
@@ -604,10 +764,24 @@
     ]
   },
   {
+    "citation": "Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L. 111-203)",
+    "kind": "statute",
+    "topics": [
+      "072"
+    ]
+  },
+  {
     "citation": "Dudum v. Arntz, 640 F.3d 1098 (9th Cir. 2011)",
     "kind": "case",
     "topics": [
       "006"
+    ]
+  },
+  {
+    "citation": "Eastern Railroad Presidents Conference v. Noerr Motor Freight, 365 U.S. 127 (1961)",
+    "kind": "case",
+    "topics": [
+      "078"
     ]
   },
   {
@@ -629,6 +803,15 @@
     "kind": "statute",
     "topics": [
       "062"
+    ]
+  },
+  {
+    "citation": "Ethics in Government Act of 1978 (P.L. 95-521)",
+    "kind": "statute",
+    "topics": [
+      "067",
+      "070",
+      "087"
     ]
   },
   {
@@ -695,6 +878,13 @@
     ]
   },
   {
+    "citation": "Federal Acquisition Regulation (48 C.F.R. ch. 1)",
+    "kind": "statute",
+    "topics": [
+      "086"
+    ]
+  },
+  {
     "citation": "Federal Advisory Committee Act (5 U.S.C. App. 2)",
     "kind": "statute",
     "topics": [
@@ -706,7 +896,38 @@
     "citation": "Federal Election Campaign Act (52 U.S.C. \u00a7\u00a7 30101\u201330146)",
     "kind": "statute",
     "topics": [
-      "027"
+      "027",
+      "075",
+      "076",
+      "088"
+    ]
+  },
+  {
+    "citation": "Federal Election Campaign Act (independent expenditure provisions, 52 U.S.C. \u00a7 30104)",
+    "kind": "statute",
+    "topics": [
+      "080"
+    ]
+  },
+  {
+    "citation": "Federal Food, Drug, and Cosmetic Act (21 U.S.C. \u00a7 301 et seq.)",
+    "kind": "statute",
+    "topics": [
+      "084"
+    ]
+  },
+  {
+    "citation": "Federal Power Act (16 U.S.C. \u00a7 791a et seq.)",
+    "kind": "statute",
+    "topics": [
+      "085"
+    ]
+  },
+  {
+    "citation": "Federal preemption doctrine (Supremacy Clause, Art. VI, cl. 2)",
+    "kind": "statute",
+    "topics": [
+      "082"
     ]
   },
   {
@@ -744,6 +965,13 @@
     ]
   },
   {
+    "citation": "Foreign Agents Registration Act of 1938 (22 U.S.C. \u00a7\u00a7 611\u2013621)",
+    "kind": "statute",
+    "topics": [
+      "073"
+    ]
+  },
+  {
     "citation": "Franklin v. Massachusetts, 505 U.S. 788 (1992)",
     "kind": "case",
     "topics": [
@@ -755,6 +983,20 @@
     "kind": "statute",
     "topics": [
       "052"
+    ]
+  },
+  {
+    "citation": "FTC v. Actavis, 570 U.S. 136 (2013)",
+    "kind": "case",
+    "topics": [
+      "084"
+    ]
+  },
+  {
+    "citation": "FTC v. Facebook (Meta), Case No. 1:20-cv-03590 (D.D.C. 2020)",
+    "kind": "case",
+    "topics": [
+      "083"
     ]
   },
   {
@@ -793,6 +1035,22 @@
     "kind": "statute",
     "topics": [
       "046"
+    ]
+  },
+  {
+    "citation": "Honest Leadership and Open Government Act of 2007 (bundler disclosure, P.L. 110-81)",
+    "kind": "statute",
+    "topics": [
+      "076"
+    ]
+  },
+  {
+    "citation": "Honest Leadership and Open Government Act of 2007 (P.L. 110-81)",
+    "kind": "statute",
+    "topics": [
+      "066",
+      "068",
+      "069"
     ]
   },
   {
@@ -949,10 +1207,45 @@
     ]
   },
   {
+    "citation": "Internal Revenue Code \u00a7 4911 (grassroots lobbying by nonprofits)",
+    "kind": "statute",
+    "topics": [
+      "078"
+    ]
+  },
+  {
+    "citation": "Internal Revenue Code \u00a7 501(c)(3) (tax-exempt educational organizations)",
+    "kind": "statute",
+    "topics": [
+      "074"
+    ]
+  },
+  {
+    "citation": "Internal Revenue Code \u00a7 501(c)(4) (social welfare organization exemption)",
+    "kind": "statute",
+    "topics": [
+      "080"
+    ]
+  },
+  {
+    "citation": "Internal Revenue Code \u00a7 501(c)(6) (business league tax exemption)",
+    "kind": "statute",
+    "topics": [
+      "079"
+    ]
+  },
+  {
     "citation": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131707)",
     "kind": "statute",
     "topics": [
       "051"
+    ]
+  },
+  {
+    "citation": "Jack Abramoff plea (U.S. v. Abramoff, Cr. No. 06-001, D.D.C. 2006)",
+    "kind": "case",
+    "topics": [
+      "067"
     ]
   },
   {
@@ -963,10 +1256,55 @@
     ]
   },
   {
+    "citation": "Kingdomware Technologies v. United States, 579 U.S. 162 (2016)",
+    "kind": "case",
+    "topics": [
+      "086"
+    ]
+  },
+  {
     "citation": "Legislative Reorganization Act of 1970 (P.L. 91-510)",
     "kind": "statute",
     "topics": [
       "035"
+    ]
+  },
+  {
+    "citation": "Lobbying Disclosure Act of 1995 (2 U.S.C. \u00a7\u00a7 1601\u20131614)",
+    "kind": "statute",
+    "topics": [
+      "066",
+      "068",
+      "079",
+      "088"
+    ]
+  },
+  {
+    "citation": "Lobbying Disclosure Act of 1995 (grassroots exclusion, 2 U.S.C. \u00a7 1602)",
+    "kind": "statute",
+    "topics": [
+      "078"
+    ]
+  },
+  {
+    "citation": "Lobbying Disclosure Act of 1995 (LDA exemption provisions, 2 U.S.C. \u00a7 1603)",
+    "kind": "statute",
+    "topics": [
+      "073"
+    ]
+  },
+  {
+    "citation": "Lobbying Disclosure Act of 1995 (registration thresholds, 2 U.S.C. \u00a7 1603)",
+    "kind": "statute",
+    "topics": [
+      "077"
+    ]
+  },
+  {
+    "citation": "Lobbying restrictions under 26 U.S.C. \u00a7 4911",
+    "kind": "statute",
+    "topics": [
+      "074"
     ]
   },
   {
@@ -985,10 +1323,25 @@
     ]
   },
   {
+    "citation": "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)",
+    "kind": "case",
+    "topics": [
+      "081"
+    ]
+  },
+  {
     "citation": "McConnell v. FEC, 540 U.S. 93 (2003)",
     "kind": "case",
     "topics": [
-      "014"
+      "014",
+      "076"
+    ]
+  },
+  {
+    "citation": "McCutcheon v. FEC, 572 U.S. 185 (2014)",
+    "kind": "case",
+    "topics": [
+      "076"
     ]
   },
   {
@@ -1050,6 +1403,20 @@
     ]
   },
   {
+    "citation": "National Association of Manufacturers v. SEC, 800 F.3d 518 (D.C. Cir. 2015)",
+    "kind": "case",
+    "topics": [
+      "079"
+    ]
+  },
+  {
+    "citation": "National Association of Manufacturers v. Taylor, 582 F.3d 1 (D.C. Cir. 2009)",
+    "kind": "case",
+    "topics": [
+      "066"
+    ]
+  },
+  {
     "citation": "National Emergencies Act (50 U.S.C. \u00a7\u00a7 1601\u20131651)",
     "kind": "statute",
     "topics": [
@@ -1070,7 +1437,8 @@
     "topics": [
       "020",
       "024",
-      "041"
+      "041",
+      "081"
     ]
   },
   {
@@ -1124,6 +1492,13 @@
     ]
   },
   {
+    "citation": "Prescription Drug User Fee Act (PDUFA, P.L. 102-571)",
+    "kind": "statute",
+    "topics": [
+      "084"
+    ]
+  },
+  {
     "citation": "Presidential Records Act (44 U.S.C. \u00a7\u00a7 2201\u20132209)",
     "kind": "statute",
     "topics": [
@@ -1149,6 +1524,13 @@
     "kind": "case",
     "topics": [
       "027"
+    ]
+  },
+  {
+    "citation": "Regan v. Taxation with Representation, 461 U.S. 540 (1983)",
+    "kind": "case",
+    "topics": [
+      "074"
     ]
   },
   {
@@ -1196,6 +1578,13 @@
     ]
   },
   {
+    "citation": "Securities Exchange Act of 1934 (15 U.S.C. \u00a7 78a et seq.)",
+    "kind": "statute",
+    "topics": [
+      "072"
+    ]
+  },
+  {
     "citation": "Senate Rule XII (voting procedure)",
     "kind": "statute",
     "topics": [
@@ -1210,6 +1599,13 @@
     ]
   },
   {
+    "citation": "Sherman Antitrust Act (15 U.S.C. \u00a7\u00a7 1\u20137)",
+    "kind": "statute",
+    "topics": [
+      "083"
+    ]
+  },
+  {
     "citation": "Sierra Club v. Costle, 657 F.2d 298 (D.C. Cir. 1981)",
     "kind": "case",
     "topics": [
@@ -1217,11 +1613,19 @@
     ]
   },
   {
+    "citation": "Sorrell v. IMS Health, 564 U.S. 552 (2011)",
+    "kind": "case",
+    "topics": [
+      "084"
+    ]
+  },
+  {
     "citation": "SpeechNow.org v. FEC, 599 F.3d 686 (D.C. Cir. 2010)",
     "kind": "case",
     "topics": [
       "013",
-      "017"
+      "017",
+      "075"
     ]
   },
   {
@@ -1251,6 +1655,13 @@
     "kind": "statute",
     "topics": [
       "024"
+    ]
+  },
+  {
+    "citation": "State lobbying disclosure laws (varying by jurisdiction)",
+    "kind": "statute",
+    "topics": [
+      "082"
     ]
   },
   {
@@ -1330,6 +1741,13 @@
     ]
   },
   {
+    "citation": "U.S. Constitution, Art. II \u00a7 2, cl. 2 (Appointments Clause)",
+    "kind": "statute",
+    "topics": [
+      "081"
+    ]
+  },
+  {
     "citation": "U.S. Constitution, Article I, Section 7 (Presentment Clause)",
     "kind": "statute",
     "topics": [
@@ -1351,6 +1769,20 @@
     ]
   },
   {
+    "citation": "United Mine Workers v. Pennington, 381 U.S. 657 (1965)",
+    "kind": "case",
+    "topics": [
+      "078"
+    ]
+  },
+  {
+    "citation": "United States v. Abramoff, Cr. No. 06-001 (D.D.C. 2006)",
+    "kind": "case",
+    "topics": [
+      "069"
+    ]
+  },
+  {
     "citation": "United States v. Ballin, 144 U.S. 1 (1892)",
     "kind": "case",
     "topics": [
@@ -1368,6 +1800,13 @@
     ]
   },
   {
+    "citation": "United States v. Barrack, 1:21-cr-00371 (E.D.N.Y. 2021)",
+    "kind": "case",
+    "topics": [
+      "077"
+    ]
+  },
+  {
     "citation": "United States v. Brewster, 408 U.S. 501 (1972)",
     "kind": "case",
     "topics": [
@@ -1377,10 +1816,88 @@
     ]
   },
   {
+    "citation": "United States v. Craig, 1:07-cr-00046 (D.D.C. 2007)",
+    "kind": "case",
+    "topics": [
+      "077"
+    ]
+  },
+  {
+    "citation": "United States v. Druyun, Cr. No. 04-150 (E.D. Va. 2004)",
+    "kind": "case",
+    "topics": [
+      "086"
+    ]
+  },
+  {
+    "citation": "United States v. Flynn, 1:17-cr-00232 (D.D.C. 2017)",
+    "kind": "case",
+    "topics": [
+      "073"
+    ]
+  },
+  {
+    "citation": "United States v. Google, Case No. 1:20-cv-03010 (D.D.C. 2020)",
+    "kind": "case",
+    "topics": [
+      "083"
+    ]
+  },
+  {
+    "citation": "United States v. Harriss, 347 U.S. 612 (1954)",
+    "kind": "case",
+    "topics": [
+      "066"
+    ]
+  },
+  {
+    "citation": "United States v. Manafort, 1:17-cr-00201 (D.D.C. 2017)",
+    "kind": "case",
+    "topics": [
+      "073"
+    ]
+  },
+  {
+    "citation": "United States v. Mississippi Valley Generating Co., 364 U.S. 520 (1961)",
+    "kind": "case",
+    "topics": [
+      "087"
+    ]
+  },
+  {
+    "citation": "United States v. Ney, Cr. No. 06-0272 (D.D.C. 2006)",
+    "kind": "case",
+    "topics": [
+      "069"
+    ]
+  },
+  {
     "citation": "United States v. Nixon, 418 U.S. 683 (1974)",
     "kind": "case",
     "topics": [
       "052"
+    ]
+  },
+  {
+    "citation": "United States v. Nofziger, 878 F.2d 442 (D.C. Cir. 1989)",
+    "kind": "case",
+    "topics": [
+      "067",
+      "070"
+    ]
+  },
+  {
+    "citation": "United States v. Ring, 706 F.3d 460 (D.C. Cir. 2013)",
+    "kind": "case",
+    "topics": [
+      "068"
+    ]
+  },
+  {
+    "citation": "United States v. Siljander, 10-20030 (E.D. Mich. 2010)",
+    "kind": "case",
+    "topics": [
+      "071"
     ]
   },
   {
@@ -1402,6 +1919,13 @@
     "kind": "case",
     "topics": [
       "053"
+    ]
+  },
+  {
+    "citation": "West Virginia v. EPA, 597 U.S. 697 (2022)",
+    "kind": "case",
+    "topics": [
+      "085"
     ]
   },
   {
