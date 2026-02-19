@@ -198,6 +198,24 @@ Status: sourced
 
 Valid values: `empty`, `scaffolded`, `draft`, `sourced`, `reviewed`, `published`
 
+### 6.5 Populate machine-readable metadata in README.md
+
+Before setting or keeping `Status: sourced`, ensure README contains:
+
+- `Related modules:` comma-separated 3-digit topic IDs
+- `Last reviewed:` `YYYY-MM`
+- `Actors:` list of actor objects (`name`, `type`)
+- `Statutes:` list of statute/regulation identifiers
+- `Cases:` list of case citations
+
+Run:
+
+```
+python3 scripts/validate_metadata.py --status sourced --warn-only
+```
+
+Fix issues before moving on.
+
 ### 7. Stop — human review required
 
 Modules at `sourced` need a second human contributor to run the neutrality pass
@@ -234,6 +252,7 @@ Run `python3 scripts/validate_completeness.py --status sourced` to check your wo
 | Check completeness | `python3 scripts/validate_completeness.py` |
 | Initial draft | `docs/prompts/draft_module.md` |
 | Add/verify citations | `docs/prompts/citation_pass.md` |
+| Validate README metadata | `python3 scripts/validate_metadata.py` |
 | Neutrality review (human) | `docs/prompts/neutrality_pass.md` |
 | Final polish (human) | `docs/prompts/final_polish.md` |
 | Lifecycle rules | `docs/GOVERNANCE.md` |

@@ -32,5 +32,37 @@
     "regulation",
     "appointments",
     "foreign-influence"
-  ]
+  ],
+
+  "metadata_fields": {
+    "_comment": "Machine-readable metadata for graph/index builds. Parsed by scripts/validate_metadata.py.",
+    "required_for_statuses": ["sourced", "reviewed", "published"],
+    "fields": {
+      "related_modules": {
+        "readme_key": "Related modules",
+        "format": "comma-separated 3-digit topic IDs",
+        "example": "001, 013, 017"
+      },
+      "last_reviewed": {
+        "readme_key": "Last reviewed",
+        "format": "YYYY-MM",
+        "example": "2026-02"
+      },
+      "actors": {
+        "readme_key": "Actors",
+        "format": "YAML-like list items under key",
+        "example": "- name: Federal Election Commission\n  type: regulatory_body"
+      },
+      "statutes": {
+        "readme_key": "Statutes",
+        "format": "YAML-like list items under key",
+        "example": "- 52 U.S.C. § 30118"
+      },
+      "cases": {
+        "readme_key": "Cases",
+        "format": "YAML-like list items under key",
+        "example": "- Citizens United v. FEC, 558 U.S. 310 (2010)"
+      }
+    }
+  }
 }
