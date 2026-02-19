@@ -2,7 +2,7 @@
 
 Purpose: short reference and outline for the "State Party vs National Party Power Dynamics" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
