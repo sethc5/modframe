@@ -46,6 +46,15 @@
     ]
   },
   {
+    "name": "Congressional leadership offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "021"
+    ]
+  },
+  {
     "name": "Connected PACs (corporate, union, trade-association affiliated)",
     "types": [
       "institution"
@@ -181,6 +190,42 @@
     ]
   },
   {
+    "name": "House and Senate Appropriations Committees",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "021"
+    ]
+  },
+  {
+    "name": "House committee chairs and bill sponsors",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "023"
+    ]
+  },
+  {
+    "name": "House majority leadership",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "023"
+    ]
+  },
+  {
+    "name": "House party leadership",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "022"
+    ]
+  },
+  {
     "name": "House Rules Committee",
     "types": [
       "political_entity"
@@ -235,6 +280,15 @@
     ]
   },
   {
+    "name": "Members of the U.S. House of Representatives",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "022"
+    ]
+  },
+  {
     "name": "National party committees (DNC/RNC and congressional campaign committees)",
     "types": [
       "political_entity"
@@ -260,6 +314,25 @@
     ],
     "topics": [
       "017"
+    ]
+  },
+  {
+    "name": "Office of Management and Budget",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "021"
+    ]
+  },
+  {
+    "name": "Office of the Clerk, U.S. House of Representatives",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "022",
+      "023"
     ]
   },
   {
