@@ -9,6 +9,33 @@
     ]
   },
   {
+    "name": "Active and senior circuit judges",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "110"
+    ]
+  },
+  {
+    "name": "Administrative Office of the U.S. Courts",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "122"
+    ]
+  },
+  {
+    "name": "Administrative Office of U.S. Courts",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "127"
+    ]
+  },
+  {
     "name": "Advisory committee members (appointed experts)",
     "types": [
       "office"
@@ -113,6 +140,33 @@
     ]
   },
   {
+    "name": "Article III district judges",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "123"
+    ]
+  },
+  {
+    "name": "Attorney General of the United States",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "118"
+    ]
+  },
+  {
+    "name": "Bankruptcy judges",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "123"
+    ]
+  },
+  {
     "name": "Bundler fundraisers and finance chairs",
     "types": [
       "political_entity"
@@ -183,6 +237,51 @@
     ],
     "topics": [
       "046"
+    ]
+  },
+  {
+    "name": "Chief Justice of the United States",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "122"
+    ]
+  },
+  {
+    "name": "Circuit chief judges",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "110"
+    ]
+  },
+  {
+    "name": "Circuit judicial councils",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "115"
+    ]
+  },
+  {
+    "name": "Circuit justices",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "126"
+    ]
+  },
+  {
+    "name": "Civil-rights plaintiffs and advocacy organizations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "124"
     ]
   },
   {
@@ -363,6 +462,15 @@
     ]
   },
   {
+    "name": "Conservative legal advocacy organizations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "113"
+    ]
+  },
+  {
     "name": "Consultants, media vendors, and former campaign staff",
     "types": [
       "political_entity"
@@ -471,6 +579,15 @@
     ]
   },
   {
+    "name": "Court-appointed compliance monitors",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "125"
+    ]
+  },
+  {
     "name": "Courts (state trial/appellate, federal district/circuit, Supreme Court)",
     "types": [
       "court"
@@ -535,12 +652,39 @@
     ]
   },
   {
+    "name": "Defense litigation firms",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "120"
+    ]
+  },
+  {
     "name": "Defense prime contractor executives",
     "types": [
       "political_entity"
     ],
     "topics": [
       "071"
+    ]
+  },
+  {
+    "name": "Democratic Attorneys General Association",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "117"
+    ]
+  },
+  {
+    "name": "Department of Justice",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "119"
     ]
   },
   {
@@ -568,6 +712,15 @@
     ],
     "topics": [
       "106"
+    ]
+  },
+  {
+    "name": "DOJ Civil Rights Division",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "125"
     ]
   },
   {
@@ -634,6 +787,15 @@
     ]
   },
   {
+    "name": "Federal and state law enforcement officers",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "124"
+    ]
+  },
+  {
     "name": "Federal Communications Commission",
     "types": [
       "regulatory_body"
@@ -646,12 +808,43 @@
     ]
   },
   {
+    "name": "Federal courts (all levels)",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "119",
+      "124"
+    ]
+  },
+  {
     "name": "Federal courts (judicial review)",
     "types": [
       "office"
     ],
     "topics": [
       "048"
+    ]
+  },
+  {
+    "name": "Federal district court clerks' offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "111"
+    ]
+  },
+  {
+    "name": "Federal district judges",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "112",
+      "116",
+      "120",
+      "125"
     ]
   },
   {
@@ -671,6 +864,24 @@
     ]
   },
   {
+    "name": "Federal Judicial Center",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "122"
+    ]
+  },
+  {
+    "name": "Federal magistrate judges",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "123"
+    ]
+  },
+  {
     "name": "Federal Trade Commission",
     "types": [
       "regulatory_body"
@@ -681,6 +892,24 @@
       "098",
       "100",
       "106"
+    ]
+  },
+  {
+    "name": "Federalist Society",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "108"
+    ]
+  },
+  {
+    "name": "Fix the Court (watchdog organization)",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "115"
     ]
   },
   {
@@ -1109,6 +1338,35 @@
     ]
   },
   {
+    "name": "Judicial campaign donors and outside-spending groups",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "121"
+    ]
+  },
+  {
+    "name": "Judicial Conference Committee on Codes of Conduct",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "115"
+    ]
+  },
+  {
+    "name": "Judicial Conference of the United States",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "110",
+      "111",
+      "127"
+    ]
+  },
+  {
     "name": "K Street lobbying firms",
     "types": [
       "institution"
@@ -1124,6 +1382,15 @@
     ],
     "topics": [
       "017"
+    ]
+  },
+  {
+    "name": "Legal advocacy organizations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "114"
     ]
   },
   {
@@ -1474,6 +1741,18 @@
     ]
   },
   {
+    "name": "Office of the Solicitor General",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "109",
+      "112",
+      "113",
+      "126"
+    ]
+  },
+  {
     "name": "OIRA (significant rule review)",
     "types": [
       "office"
@@ -1538,6 +1817,15 @@
     ],
     "topics": [
       "084"
+    ]
+  },
+  {
+    "name": "Plaintiffs' class action counsel",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "120"
     ]
   },
   {
@@ -1649,12 +1937,30 @@
     ]
   },
   {
+    "name": "Professional associations and industry groups",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "114"
+    ]
+  },
+  {
     "name": "Professional signature-gathering firms",
     "types": [
       "institution"
     ],
     "topics": [
       "005"
+    ]
+  },
+  {
+    "name": "Progressive public-interest law firms",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "113"
     ]
   },
   {
@@ -1685,6 +1991,15 @@
     ]
   },
   {
+    "name": "Public-interest litigation organizations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "119"
+    ]
+  },
+  {
     "name": "Rank-and-file members in swing blocs",
     "types": [
       "political_entity"
@@ -1700,6 +2015,15 @@
     ],
     "topics": [
       "066"
+    ]
+  },
+  {
+    "name": "Republican Attorneys General Association",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "117"
     ]
   },
   {
@@ -1765,7 +2089,10 @@
       "committee"
     ],
     "topics": [
-      "097"
+      "097",
+      "108",
+      "118",
+      "127"
     ]
   },
   {
@@ -1873,6 +2200,15 @@
     ]
   },
   {
+    "name": "Special Counsel appointees",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "118"
+    ]
+  },
+  {
     "name": "Standing Committee of Correspondents (Congressional Press Galleries)",
     "types": [
       "institution"
@@ -1906,6 +2242,15 @@
     ],
     "topics": [
       "002"
+    ]
+  },
+  {
+    "name": "State attorneys general",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "117"
     ]
   },
   {
@@ -1951,6 +2296,15 @@
     ],
     "topics": [
       "002"
+    ]
+  },
+  {
+    "name": "State judicial nominating commissions",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "121"
     ]
   },
   {
@@ -2003,12 +2357,51 @@
     ]
   },
   {
+    "name": "State supreme courts and appellate courts",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "121"
+    ]
+  },
+  {
     "name": "Strategic advisory firms and unregistered consultants",
     "types": [
       "institution"
     ],
     "topics": [
       "077"
+    ]
+  },
+  {
+    "name": "Strategic litigation counsel",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "111"
+    ]
+  },
+  {
+    "name": "Supreme Court litigation boutiques",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "109"
+    ]
+  },
+  {
+    "name": "Supreme Court of the United States",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "109",
+      "112",
+      "114",
+      "126"
     ]
   },
   {
@@ -2084,12 +2477,30 @@
     ]
   },
   {
+    "name": "U.S. Attorneys' Offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "116"
+    ]
+  },
+  {
     "name": "U.S. Department of the Treasury",
     "types": [
       "office"
     ],
     "topics": [
       "026"
+    ]
+  },
+  {
+    "name": "U.S. Sentencing Commission",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "116"
     ]
   },
   {
@@ -2167,7 +2578,8 @@
       "office"
     ],
     "topics": [
-      "087"
+      "087",
+      "108"
     ]
   },
   {
