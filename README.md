@@ -1,29 +1,58 @@
-# Modframe — Structural Activation Model
+# Modframe — Structural Map of Federal Power
 
-A free-to-use, nonpartisan library of modular explainers describing the *mechanics* of political power in Washington, DC (and adjacent systems).
+A structural and mechanical map of how Washington DC federal government power actually works.
 
-The intent is to map major levers of power (formal and informal), describe their incentive structures, and provide reusable modules that help the public, journalists, educators, and analysts see how outcomes are produced—so awareness can precede scrutiny, pressure, and reform when systems operate unjustly.
+**14 sections. 230 modules. 147 built.**
 
-## What this repository contains
+## What this maps
 
-- `topics/` — the skeletal map: one folder per section, containing topic modules
-- `interactive_example.ipynb` — a lightweight notebook used for examples and smoke checks
-- `docs/` — contribution standards, module template, governance, and style constraints
+| Section | Topic | Modules | Status |
+|---------|-------|---------|--------|
+| 01 | Electoral Power Structures | 17 | Built |
+| 02 | Congressional Power Mechanics | 25 | Built |
+| 03 | Executive Branch Incentives | 23 | Built |
+| 04 | Revolving Door and Influence | 23 | Built |
+| 05 | Media Ecosystem and Information Architecture | 19 | Built |
+| 06 | Judicial Power Structure | 20 | Built |
+| 07 | State-Level Power Laboratories | 20 | Built |
+| 08 | Money and Industry Influence | 17 | Scaffold |
+| 09 | Crisis Governance | 15 | Scaffold |
+| 10 | Structural Incentives Behind Polarization | 6 | Scaffold |
+| 11 | Accountability and Transparency Gaps | 15 | Scaffold |
+| 12 | Foreign Influence and Global Intersections | 10 | Scaffold |
+| 13 | Meta-Incentive Structures | 10 | Scaffold |
+| 14 | Emerging and Overlooked Structures | 10 | Scaffold |
+
+See `docs/SECTION_AND_MODULE_MAP.md` for the full module listing and future expansion roadmap (~380 financial system module ideas, 45 domain-applied sections).
+
+## What each module contains
+
+Each built module includes:
+- **Summary** — what the mechanism is and why it matters
+- **Mechanism in one sentence** — the operational lever
+- **Actors and roles** — who exercises power, tagged by type
+- **Process map** — step-by-step how it works
+- **Where power concentrates** — structural bottlenecks
+- **Common failure modes** — how accountability breaks down
+- **Evidence tests** — `[Observed]`, `[Inferred]`, `[Hypothesis]` with citations
+- **Suggested sources** — statutes, cases, datasets, agency records
+- **Episode outline** — 6-part structure for media activation
+
+## Repository structure
+
+- `topics/` — one folder per section, one subfolder per module
+- `docs/` — contribution standards, module template, content agent guide, prompts, schemas
+- `scripts/` — validators, index builders, queue generator
 
 ## How to use this
 
-- Browse `topics/` by section number.
-- Each topic module should contain:
-  - `README.md` (what this module is)
-  - `outline.md` (structured explainer outline + source targets)
-  - optional `figures/` for visuals
+Browse `topics/` by section number. Each module folder contains `README.md` (metadata) and `outline.md` (the full explainer).
 
 ## Principles
 
-- **Neutral / institutional voice**: explain structures and incentives, not personalities.
-- **Citation-forward**: claims should be traceable to primary sources where possible.
-- **Composable modules**: topics should stand alone and also plug into “activation” coverage of current events.
-- **Cross-ideological usability**: make the mechanics legible to people across the aisle.
+- **Structural, not partisan** — explain mechanics, incentives, and constraints
+- **Citation-forward** — every factual claim tagged and traceable
+- **Composable** — modules stand alone and combine for event coverage
 
 ## License
 
@@ -34,9 +63,10 @@ See `LICENSE`.
 
 Start with `docs/CONTRIBUTING.md` and `docs/MODULE_TEMPLATE.md`.
 
-## Local quality checks
+## Quality checks
 
-Run these before opening a PR:
-
-- `python scripts/validate_topic_names.py`
-- `npx markdownlint-cli2 "**/*.md"`
+```bash
+python3 scripts/validate_metadata.py
+python3 scripts/validate_completeness.py --warn-only
+python3 scripts/build_indexes.py
+```

@@ -443,9 +443,227 @@ Not yet scaffolded — listed here as future scope.
 | 41 | Federal Procurement and Contracting Ecosystem |
 | 42 | Intergovernmental Fiscal Transfers |
 | 43 | Antitrust Enforcement Architecture |
-| 44 | Banking and Financial Regulation Extension |
-| 45 | Pension and Retirement System Governance |
-| 46 | Trade and Tariff Authority |
+| 44 | Pension and Retirement System Governance |
+| 45 | Trade and Tariff Authority |
+
+---
+
+## Future Expansion: Financial System Power (absorbed from modframe_wallstreet)
+
+Deep-dive into financial system mechanics — how Wall Street, banking, insurance,
+and capital markets concentrate and exercise power. These 19 section-level topics
+with ~380 module ideas were developed as a standalone project and are now absorbed
+into modframe's expansion roadmap. Each section below lists its candidate modules.
+
+### Market Structure and Plumbing (~24 modules)
+
+Exchange ownership, order routing, payment for order flow, dark pools, maker-taker fees,
+HFT infrastructure, clearinghouse structure, CCP concentration, settlement cycles,
+securities lending, NMS plan governance, consolidated tape, equity fragmentation,
+options market structure, fixed-income platforms, Treasury primary dealer networks,
+repo market plumbing, derivatives clearing, cross-border market access, ETF creation/redemption,
+retail brokerage revenue, OTC derivatives reporting, listing standards, stock buybacks.
+
+### Banking Power Channels (~20 modules)
+
+Bank holding company structure, SIFI/too-big-to-fail designation, discount window,
+FDIC resolution/living wills, OCC chartering/preemption, CRA compliance, Basel capital
+requirements, stress testing (CCAR/DFAST), bank merger review, bank lobbying, fintech
+charters, state vs federal regulation, BSA/AML compliance, deposit insurance pricing,
+Volcker Rule, interest rate risk, correspondent banking, credit rating agencies,
+syndicated/leveraged lending, large bank supervision cycles.
+
+### Asset Management and Passive Concentration (~20 modules)
+
+Mutual fund governance, ETF/index provider power, index construction methodology,
+Big Three voting power (BlackRock/Vanguard/State Street), proxy advisory influence
+(ISS/Glass Lewis), investment adviser regulation, fiduciary standards (Reg BI),
+pension fund governance, sovereign wealth funds, PE fund structure/fees, hedge fund
+regulation, 13F disclosure, ESG ratings, securities lending revenue, target-date fund
+defaults, fund distribution economics, SMAs, money market fund regulation, VC fund
+structure, commodity pools.
+
+### Regulatory Architecture and Capture Risks (~24 modules)
+
+SEC organizational structure, CFTC jurisdiction gaps, FINRA self-regulatory model,
+dual banking arbitrage, FSOC authority, OFR data role, CFPB mandate/independence,
+Fed regulatory authority, OCC/state turf dynamics, SEC enforcement priorities,
+CFTC whistleblower program, regulator revolving door, notice-and-comment rulemaking,
+congressional oversight jurisdiction, no-action letters, cost-benefit analysis,
+judicial deference doctrines, inter-agency coordination, international coordination
+(IOSCO/FSB/Basel), blue sky laws/preemption, regulatory sandboxes, GAO/IG oversight,
+SEC/CFTC funding constraints, enforcement deterrence models.
+
+### Corporate Governance Control Systems (~20 modules)
+
+Board election mechanics/proxy access, shareholder proposals (Rule 14a-8), executive
+compensation/say-on-pay, dual-class shares, activist campaigns, poison pills,
+M&A approval pathways, SPAC structure, corporate disclosure (10-K/10-Q/8-K),
+insider trading enforcement, related-party transactions, political spending disclosure,
+Delaware corporate law dominance, derivative litigation, Dodd-Frank whistleblower,
+audit committee independence, listing governance standards, director interlocks,
+majority vs plurality voting, corporate lobbying disclosure.
+
+### Information Asymmetry and Data Power (~20 modules)
+
+EDGAR filing/disclosure timing, MNPI/Regulation FD, credit rating conflicts,
+Bloomberg/financial data oligopoly, alternative data industry, benchmark rate setting
+(SOFR/LIBOR), sell-side research conflicts, financial advertising compliance,
+SEC comment letters, dark pool information leakage, HFT data feeds, TRACE bond
+reporting, derivatives position reporting, bank call reports, HMDA mortgage data,
+consumer credit reporting, insurance data opacity, private market valuation,
+algorithmic trading disclosure, cybersecurity incident disclosure.
+
+### Crisis Liquidity and Backstop Mechanisms (~20 modules)
+
+Fed emergency lending (Section 13(3)), Treasury Exchange Stabilization Fund,
+FDIC systemic risk exception, discount window stigma, Fed repo facilities (ON RRP/SRF),
+central bank swap lines, money market fund liquidity facilities, primary dealer credit
+facility, term auction facility, TARP structure/legacy, orderly liquidation authority
+(Dodd-Frank Title II), bail-in/TLAC, GSE conservatorship (Fannie/Freddie), deposit
+insurance fund, circuit breakers, SEC market emergency powers, CFTC emergency powers,
+cross-border crisis coordination, pandemic-era facilities, moral hazard feedback loops.
+
+### Private Credit and Shadow Banking (~20 modules)
+
+BDC structure, CLO mechanics/tranching, direct lending/bank disintermediation,
+private securitization, NBFI systemic risk monitoring, private debt fund fees/lock-ups,
+warehouse lending, middle-market lending opacity, LBO debt financing, credit fund
+valuation/mark-to-model, NAV lending, continuation vehicles/GP-led secondaries,
+insurance company capital as funding source, distressed debt/loan-to-own, covenant-lite
+lending, shadow ratings, margin/securities-based lending, non-bank mortgage concentration,
+NBFI interconnectedness/contagion, Fed NBFI monitoring gaps.
+
+### Real Estate and Mortgage Finance Architecture (~20 modules)
+
+GSE structure (Fannie/Freddie), FHFA conservatorship, MBS issuance/TBA market,
+mortgage servicing transfer, private-label RMBS, CMBS/special servicer power,
+REIT tax structure, CRE lending concentration, FHLB system, FHA/VA programs,
+originator compensation/steering, appraisal industry, title insurance concentration,
+flood insurance/climate risk, housing finance data (HMDA/NMDB), mortgage warehouse
+lending, LIHTC syndication, Ginnie Mae guaranty, real estate fund redemption risk,
+institutional single-family rental/financialization.
+
+### Insurance Industry Power and Regulation (~20 modules)
+
+State-based regulation/NAIC coordination, insurance investment authority, PE ownership
+of insurers, life insurance/annuity complexity, reinsurance structure, ILS/catastrophe
+bonds, captive/self-insurance, guaranty fund system, P&C rate filing, insurance
+holding company supervision, surplus lines market, long-term care funding crisis,
+actuarial model opacity, Federal Insurance Office, insurance receivership/resolution,
+crop insurance subsidies, workers' comp/self-insurance, insurtech/MGA delegation,
+distribution channel economics, systemic risk designation.
+
+### Consumer Financial Extraction Channels (~20 modules)
+
+Credit card interchange/merchant cost shifting, overdraft/NSF fee models, payday
+lending regulation, auto lending markup, federal student loan servicing, private
+student loan traps, BNPL regulation gaps, debt collection industry, consumer
+arbitration/class-action waivers, credit score governance (FICO/VantageScore),
+medical debt reporting, mortgage closing cost opacity, prepaid/payroll card fees,
+remittance pricing, rental payment reporting/tenant screening, banking deserts,
+deposit advance/early wage access, financial literacy industry sponsorship, elder
+financial exploitation, Military Lending Act protections.
+
+### Tax Code and Wealth Preservation Architecture (~20 modules)
+
+Carried interest treatment, step-up in basis at death, QSBS exclusion (Section 1202),
+opportunity zone structure, like-kind exchange (Section 1031), dynasty trusts/GST tax,
+GRATs/estate freeze, CRTs/DAF tax benefits, offshore trusts/FATCA/FBAR, IRS
+enforcement constraints/audit rate disparities, pass-through SALT workarounds,
+corporate transfer pricing, tax loss harvesting/wash sale rules, qualified opportunity
+fund compliance, private foundation governance, stock option tax treatment, tax-exempt
+bond market, conservation easement disputes, cryptocurrency tax reporting, IRS
+whistleblower program.
+
+### Fintech and Digital Finance Power (~20 modules)
+
+Payment processor gatekeeping/deplatforming, stablecoin reserves/redemption risk,
+crypto exchange regulation/custody, DeFi governance/smart contract risk, neobank
+charters/bank partnerships, embedded finance/BaaS, algorithmic lending/fair lending,
+open banking/Section 1033, CBDC design/privacy trade-offs, digital asset securities
+classification (Howey), tokenized securities, fraud detection AI/algorithmic bias,
+robo-adviser fiduciary standards, P2P lending risk, digital identity/financial inclusion,
+cross-border payment innovation, cloud concentration risk, regtech/suptech, data
+broker activity, Big Tech financial services entry.
+
+### Commodity Markets and Energy Finance (~20 modules)
+
+Commodity futures/speculative position limits, physical trading house power
+(Vitol/Trafigura/Glencore), energy derivatives/natural gas basis, commodity index
+financialization, oil market structure/OPEC linkages, metals market manipulation/LME,
+agricultural speculation/food price volatility, carbon credit markets, electricity
+market design/FTRs, commodity ETP mechanics (contango/backwardation), critical mineral
+supply chain finance, emissions trading, natural gas export terminal finance, commodity
+trade finance/letters of credit, renewable energy certificates, commodity pool regulation,
+physical delivery infrastructure control, cross-market manipulation detection, weather
+derivatives, shipping/freight rate derivatives.
+
+### International Capital Flows and Dollar Architecture (~20 modules)
+
+Dollar reserve currency/exorbitant privilege, SWIFT/financial sanctions, correspondent
+banking/dollar clearing chokepoints, Eurodollar market/offshore dollar creation,
+sovereign debt restructuring/CACs, capital controls, global financial safety net
+(IMF/swap lines/RFAs), cross-border banking supervision, offshore financial centers/tax
+havens, CFIUS/FDI screening, trade finance/export credit subsidies, BITs/ISDS,
+G-SIB designation, AML international standards (FATF), correspondent banking de-risking,
+cross-border securities settlement, sanctions compliance/secondary sanctions, EM dollar
+debt/rollover risk, global stablecoin geopolitics, Belt and Road lending/debt-trap finance.
+
+### Accounting, Audit, and Valuation Power (~20 modules)
+
+Big Four market concentration, PCAOB oversight/inspection, FASB standard-setting/industry
+lobbying, fair value accounting/mark-to-model, SPE accounting/off-balance-sheet risk,
+goodwill impairment/acquisition accounting, revenue recognition/earnings management,
+audit committee requirements, non-GAAP measures/disclosure manipulation, audit firm
+consulting conflicts, IFRS-GAAP convergence, actuarial assumptions, lease accounting
+reform, SOX Section 404 internal controls, valuation industry/appraisal independence,
+auditor rotation/tenure effects, sustainability disclosure (ISSB), crypto-asset accounting,
+tax provision/effective rate engineering, restatement patterns.
+
+### Legal and Advisory Gatekeeping (~20 modules)
+
+Elite law firm capital markets concentration, investment banking M&A fees, fairness
+opinion conflicts, financial lobbying/revolving door, think tank funding/policy influence,
+bankruptcy legal market/DIP financing, securities class action economics, attorney-client
+privilege/corporate investigation shielding, ERISA litigation, white-collar defense/DPAs,
+compliance officer liability, expert witness industry, international arbitration,
+board advisory/governance consulting, proxy solicitation/vote mechanics, structured
+finance legal opinions, trade association lobbying (SIFMA/ABA/ICI), regulatory comment
+campaigns, whistleblower attorney economics, financial journalism/analyst access.
+
+### Municipal and Public Finance Systems (~20 modules)
+
+Municipal bond market/tax-exempt subsidy, municipal advisor regulation, public finance
+underwriting, bond rating impact on borrowing costs, government investment pool risks,
+water/sewer revenue bonds, municipal derivatives/swap termination (Jefferson County),
+TIF/developer subsidies, pension obligation bonds, Chapter 9 bankruptcy, Build America
+Bond legacy, conduit revenue bonds, state revolving funds, industrial development bonds,
+municipal bond insurance, pay-for-success/social impact bonds, GASB standards, public
+authority/special district debt transparency, municipal electronic trading, climate risk
+disclosure/municipal credit.
+
+### Private Wealth and Family Office Ecosystem (~20 modules)
+
+Family office regulatory exemption, UHNW advisory conflicts, private trust companies,
+art/collectibles as financial assets, philanthropic vehicles (foundations/DAFs/LLCs),
+wealth transfer/dynastic accumulation, multi-family office consolidation, family office
+direct/co-investment, concierge/private banking, tax residency shopping/state migration,
+impact investing frameworks, sports franchise ownership as tax shelter, luxury real estate
+as capital preservation, family governance/succession, Archegos-style family office risk,
+charitable lead trust/wealth recycling, PPLI tax deferral, family office cybersecurity,
+exclusive investment access/minimum tickets, wealth industry data opacity.
+
+### Political-Financial Bridge Mechanisms (absorbed from modframe_wallstreet_dc)
+
+Cross-system modules mapping where public power and market power interact:
+
+- Rulemaking and market adaptation loops
+- Oversight asymmetry and compliance arbitrage
+- Lobbying, disclosure, and agenda influence channels
+- Crisis backstop design and moral-hazard transmission
+- Procurement, contracting, and public-private dependency networks
+- Information control (data, ratings, benchmarks, platform access)
 
 ---
 
@@ -457,4 +675,6 @@ Not yet scaffolded — listed here as future scope.
 | Built modules (01-07) | 147 |
 | Scaffold modules (08-14) | 83 |
 | Total current modules | 230 |
-| Future domain sections | 32 |
+| Future domain sections | 45 |
+| Future financial system sections | 19 |
+| Future financial system module ideas | ~380 |
