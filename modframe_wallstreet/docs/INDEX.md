@@ -18,4 +18,5 @@
 - `MAINTAINERS.md` — maintainers + responsibilities
 - `CONTENT_AGENT.md` — content agent guide
 - `MVP_BRANCH_PLAN.md` — metadata-aware module factory plan
+- `SECTION_AND_MODULE_MAP.md` — full unabridged list of sections and candidate modules (unnumbered)
 - `../LICENSE` — canonical CC BY 4.0 license text

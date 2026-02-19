@@ -50,12 +50,33 @@ Each module should include:
 3. Court opinions, enforcement actions, inspector reports
 4. High-quality investigative/academic secondary sources
 
+## What this repository contains
+
+- `topics/` — the skeletal map: one folder per section, containing topic modules
+- `docs/` — contribution standards, module template, governance, style constraints, and the full section/module map
+- `scripts/` — validators, queue generator, index builder, and other tooling
+
+## How to use this
+
+- Browse `topics/` by section.
+- Each topic module should contain:
+  - `README.md` (what this module is)
+  - `outline.md` (structured explainer outline + source targets)
+  - optional `figures/` for visuals
+- See `docs/SECTION_AND_MODULE_MAP.md` for the full unabridged list of candidate modules.
+
+## Local quality checks
+
+Run these before opening a PR:
+
+- `python scripts/validate_topic_names.py`
+- `npx markdownlint-cli2 "**/*.md"`
+
 ## Next setup steps
 
-- Add docs/, topics/, scripts/, and schema structure aligned to Modframe MVP
-- Define first 10 Wall Street modules with IDs and folder scaffolds
-- Port core validators and queue workflow
-- Add one golden example module before scaling
+- Finalize module list, assign IDs, and create topic folder scaffolds
+- Build one golden example module before scaling
+- Port CI workflow
 
 ## Naming note
 
