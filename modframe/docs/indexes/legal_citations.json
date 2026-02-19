@@ -1,5 +1,12 @@
 [
   {
+    "citation": "1 CFR Part 19 (codification of presidential documents)",
+    "kind": "statute",
+    "topics": [
+      "055"
+    ]
+  },
+  {
     "citation": "11 C.F.R. \u00a7 109.21",
     "kind": "statute",
     "topics": [
@@ -22,6 +29,13 @@
     ]
   },
   {
+    "citation": "2 CFR Part 200 (Uniform Administrative Requirements)",
+    "kind": "statute",
+    "topics": [
+      "057"
+    ]
+  },
+  {
     "citation": "2 U.S.C. \u00a7 166 (Library of Congress support functions)",
     "kind": "statute",
     "topics": [
@@ -41,6 +55,20 @@
     "topics": [
       "031",
       "036"
+    ]
+  },
+  {
+    "citation": "28 CFR Part 1 (DOJ clemency regulations)",
+    "kind": "statute",
+    "topics": [
+      "056"
+    ]
+  },
+  {
+    "citation": "3 U.S.C. \u00a7 105 (White House Office authorization)",
+    "kind": "statute",
+    "topics": [
+      "043"
     ]
   },
   {
@@ -136,10 +164,41 @@
     ]
   },
   {
+    "citation": "Administrative Procedure Act (5 U.S.C. \u00a7 553)",
+    "kind": "statute",
+    "topics": [
+      "044",
+      "049",
+      "064"
+    ]
+  },
+  {
+    "citation": "Administrative Procedure Act (5 U.S.C. \u00a7\u00a7 551\u2013559, 701\u2013706)",
+    "kind": "statute",
+    "topics": [
+      "048"
+    ]
+  },
+  {
     "citation": "Allen v. Milligan",
     "kind": "case",
     "topics": [
       "003"
+    ]
+  },
+  {
+    "citation": "Antideficiency Act (31 U.S.C. \u00a7\u00a7 1341\u20131342, 1511\u20131519)",
+    "kind": "statute",
+    "topics": [
+      "047"
+    ]
+  },
+  {
+    "citation": "Appointments Clause (U.S. Constitution, Art. II, \u00a7 2, cl. 2)",
+    "kind": "statute",
+    "topics": [
+      "050",
+      "065"
     ]
   },
   {
@@ -152,11 +211,19 @@
     ]
   },
   {
+    "citation": "Association of American Physicians & Surgeons v. Clinton, 997 F.2d 898 (D.C. Cir. 1993)",
+    "kind": "case",
+    "topics": [
+      "061"
+    ]
+  },
+  {
     "citation": "Bowsher v. Synar, 478 U.S. 714 (1986)",
     "kind": "case",
     "topics": [
       "032",
-      "034"
+      "034",
+      "062"
     ]
   },
   {
@@ -185,6 +252,13 @@
       "012",
       "014",
       "027"
+    ]
+  },
+  {
+    "citation": "Budget and Accounting Act of 1921 (31 U.S.C. \u00a7 1105)",
+    "kind": "statute",
+    "topics": [
+      "058"
     ]
   },
   {
@@ -217,10 +291,32 @@
     ]
   },
   {
+    "citation": "Chamber of Commerce v. Reich, 74 F.3d 1322 (D.C. Cir. 1996)",
+    "kind": "case",
+    "topics": [
+      "055"
+    ]
+  },
+  {
+    "citation": "Chevron U.S.A., Inc. v. NRDC, 467 U.S. 837 (1984)",
+    "kind": "case",
+    "topics": [
+      "048",
+      "057"
+    ]
+  },
+  {
     "citation": "Chiafalo v. Washington",
     "kind": "case",
     "topics": [
       "007"
+    ]
+  },
+  {
+    "citation": "Chief Financial Officers Act of 1990 (31 U.S.C. \u00a7 901)",
+    "kind": "statute",
+    "topics": [
+      "057"
     ]
   },
   {
@@ -231,12 +327,28 @@
     ]
   },
   {
+    "citation": "Civil Service Reform Act of 1978 (5 U.S.C. \u00a7\u00a7 1101 et seq.)",
+    "kind": "statute",
+    "topics": [
+      "046"
+    ]
+  },
+  {
+    "citation": "Cleveland Board of Education v. Loudermill, 470 U.S. 532 (1985)",
+    "kind": "case",
+    "topics": [
+      "046"
+    ]
+  },
+  {
     "citation": "Clinton v. City of New York, 524 U.S. 417 (1998)",
     "kind": "case",
     "topics": [
       "031",
       "033",
-      "036"
+      "036",
+      "058",
+      "060"
     ]
   },
   {
@@ -261,10 +373,61 @@
     ]
   },
   {
+    "citation": "Congressional Review Act (5 U.S.C. \u00a7\u00a7 801\u2013808)",
+    "kind": "statute",
+    "topics": [
+      "044"
+    ]
+  },
+  {
     "citation": "Crawford v. Marion County Election Board",
     "kind": "case",
     "topics": [
       "004"
+    ]
+  },
+  {
+    "citation": "Dalton v. Specter, 511 U.S. 462 (1994)",
+    "kind": "case",
+    "topics": [
+      "043",
+      "054",
+      "063"
+    ]
+  },
+  {
+    "citation": "Department of Homeland Security v. MacLean, 574 U.S. 383 (2015)",
+    "kind": "case",
+    "topics": [
+      "045"
+    ]
+  },
+  {
+    "citation": "Department of the Navy v. Egan, 484 U.S. 518 (1988)",
+    "kind": "case",
+    "topics": [
+      "053"
+    ]
+  },
+  {
+    "citation": "Economy Act (31 U.S.C. \u00a7 1535, interagency agreements)",
+    "kind": "statute",
+    "topics": [
+      "063"
+    ]
+  },
+  {
+    "citation": "Elrod v. Burns, 427 U.S. 347 (1976)",
+    "kind": "case",
+    "topics": [
+      "046"
+    ]
+  },
+  {
+    "citation": "Enabling statutes for specific commissions (various)",
+    "kind": "statute",
+    "topics": [
+      "062"
     ]
   },
   {
@@ -275,10 +438,69 @@
     ]
   },
   {
+    "citation": "Ex parte Garland, 71 U.S. 333 (1866)",
+    "kind": "case",
+    "topics": [
+      "056"
+    ]
+  },
+  {
+    "citation": "Executive Order 12866 (Regulatory Planning and Review)",
+    "kind": "statute",
+    "topics": [
+      "059"
+    ]
+  },
+  {
+    "citation": "Executive Order 12968 (Access to Classified Information)",
+    "kind": "statute",
+    "topics": [
+      "053"
+    ]
+  },
+  {
+    "citation": "Executive Order 13526 (Classified National Security Information)",
+    "kind": "statute",
+    "topics": [
+      "053"
+    ]
+  },
+  {
+    "citation": "Executive orders establishing task forces (various)",
+    "kind": "statute",
+    "topics": [
+      "063"
+    ]
+  },
+  {
+    "citation": "Federal Advisory Committee Act (5 U.S.C. App. 2)",
+    "kind": "statute",
+    "topics": [
+      "061",
+      "062"
+    ]
+  },
+  {
     "citation": "Federal Election Campaign Act (52 U.S.C. \u00a7\u00a7 30101\u201330146)",
     "kind": "statute",
     "topics": [
       "027"
+    ]
+  },
+  {
+    "citation": "Federal Register Act (44 U.S.C. \u00a7\u00a7 1501\u20131511)",
+    "kind": "statute",
+    "topics": [
+      "049",
+      "055"
+    ]
+  },
+  {
+    "citation": "Federal Vacancies Reform Act of 1998 (5 U.S.C. \u00a7\u00a7 3345\u20133349d)",
+    "kind": "statute",
+    "topics": [
+      "050",
+      "065"
     ]
   },
   {
@@ -292,10 +514,38 @@
     ]
   },
   {
+    "citation": "Franklin v. Massachusetts, 505 U.S. 788 (1992)",
+    "kind": "case",
+    "topics": [
+      "043"
+    ]
+  },
+  {
+    "citation": "Freedom of Information Act Exemption 5 (5 U.S.C. \u00a7 552(b)(5))",
+    "kind": "statute",
+    "topics": [
+      "052"
+    ]
+  },
+  {
+    "citation": "Goldwater-Nichols Act of 1986 (10 U.S.C. \u00a7 153)",
+    "kind": "statute",
+    "topics": [
+      "054"
+    ]
+  },
+  {
     "citation": "Government Accountability Office Act of 2008 (P.L. 110-323)",
     "kind": "statute",
     "topics": [
       "032"
+    ]
+  },
+  {
+    "citation": "Government in the Sunshine Act (5 U.S.C. \u00a7 552b)",
+    "kind": "statute",
+    "topics": [
+      "061"
     ]
   },
   {
@@ -304,6 +554,13 @@
     "topics": [
       "035",
       "042"
+    ]
+  },
+  {
+    "citation": "Hatch Act (5 U.S.C. \u00a7\u00a7 7321\u20137326)",
+    "kind": "statute",
+    "topics": [
+      "046"
     ]
   },
   {
@@ -413,19 +670,49 @@
     ]
   },
   {
+    "citation": "Impoundment Control Act of 1974 (2 U.S.C. \u00a7\u00a7 681\u2013688)",
+    "kind": "statute",
+    "topics": [
+      "047"
+    ]
+  },
+  {
+    "citation": "In re Aiken County, 725 F.3d 255 (D.C. Cir. 2013)",
+    "kind": "case",
+    "topics": [
+      "047"
+    ]
+  },
+  {
     "citation": "INS v. Chadha, 462 U.S. 919 (1983)",
     "kind": "case",
     "topics": [
       "018",
       "031",
-      "038"
+      "038",
+      "060"
     ]
   },
   {
     "citation": "Inspector General Act of 1978 (5 U.S.C. App.)",
     "kind": "statute",
     "topics": [
-      "032"
+      "032",
+      "045"
+    ]
+  },
+  {
+    "citation": "Inspector General Empowerment Act of 2016",
+    "kind": "statute",
+    "topics": [
+      "045"
+    ]
+  },
+  {
+    "citation": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131707)",
+    "kind": "statute",
+    "topics": [
+      "051"
     ]
   },
   {
@@ -436,10 +723,32 @@
     ]
   },
   {
+    "citation": "Kennecott Utah Copper Corp. v. DOI, 88 F.3d 1191 (D.C. Cir. 1996)",
+    "kind": "case",
+    "topics": [
+      "049"
+    ]
+  },
+  {
     "citation": "Legislative Reorganization Act of 1970 (P.L. 91-510)",
     "kind": "statute",
     "topics": [
       "035"
+    ]
+  },
+  {
+    "citation": "Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024)",
+    "kind": "case",
+    "topics": [
+      "048"
+    ]
+  },
+  {
+    "citation": "Lucia v. SEC, 585 U.S. 237 (2018)",
+    "kind": "case",
+    "topics": [
+      "050",
+      "065"
     ]
   },
   {
@@ -457,12 +766,100 @@
     ]
   },
   {
+    "citation": "Michigan v. EPA, 576 U.S. 743 (2015)",
+    "kind": "case",
+    "topics": [
+      "059"
+    ]
+  },
+  {
+    "citation": "Morrison v. Olson, 487 U.S. 654 (1988)",
+    "kind": "case",
+    "topics": [
+      "062"
+    ]
+  },
+  {
+    "citation": "Morton v. Ruiz, 415 U.S. 199 (1974)",
+    "kind": "case",
+    "topics": [
+      "049"
+    ]
+  },
+  {
+    "citation": "Motor Vehicle Mfrs. Ass'n v. State Farm, 463 U.S. 29 (1983)",
+    "kind": "case",
+    "topics": [
+      "044",
+      "059",
+      "064"
+    ]
+  },
+  {
+    "citation": "NASA v. Nelson, 562 U.S. 134 (2011)",
+    "kind": "case",
+    "topics": [
+      "045"
+    ]
+  },
+  {
+    "citation": "National Emergencies Act (50 U.S.C. \u00a7\u00a7 1601\u20131651)",
+    "kind": "statute",
+    "topics": [
+      "051"
+    ]
+  },
+  {
+    "citation": "National Security Act of 1947 (50 U.S.C. \u00a7 3021)",
+    "kind": "statute",
+    "topics": [
+      "043",
+      "054"
+    ]
+  },
+  {
     "citation": "NLRB v. Noel Canning, 573 U.S. 513 (2014)",
     "kind": "case",
     "topics": [
       "020",
       "024",
       "041"
+    ]
+  },
+  {
+    "citation": "NLRB v. SW General, Inc., 580 U.S. 288 (2017)",
+    "kind": "case",
+    "topics": [
+      "050",
+      "065"
+    ]
+  },
+  {
+    "citation": "Office of Personnel Management v. Richmond, 496 U.S. 414 (1990)",
+    "kind": "case",
+    "topics": [
+      "057"
+    ]
+  },
+  {
+    "citation": "OMB Circular A-11 (budget preparation and execution)",
+    "kind": "statute",
+    "topics": [
+      "058"
+    ]
+  },
+  {
+    "citation": "Paperwork Reduction Act (44 U.S.C. \u00a7\u00a7 3501\u20133521)",
+    "kind": "statute",
+    "topics": [
+      "059"
+    ]
+  },
+  {
+    "citation": "Perez v. Mortgage Bankers Ass'n, 575 U.S. 92 (2015)",
+    "kind": "case",
+    "topics": [
+      "064"
     ]
   },
   {
@@ -480,10 +877,32 @@
     ]
   },
   {
+    "citation": "Presidential Records Act (44 U.S.C. \u00a7\u00a7 2201\u20132209)",
+    "kind": "statute",
+    "topics": [
+      "052"
+    ]
+  },
+  {
+    "citation": "Public Citizen v. DOJ, 491 U.S. 440 (1989)",
+    "kind": "case",
+    "topics": [
+      "061"
+    ]
+  },
+  {
     "citation": "Purcell v. Gonzalez, 549 U.S. 1 (2006)",
     "kind": "case",
     "topics": [
       "015"
+    ]
+  },
+  {
+    "citation": "Regulatory Flexibility Act (5 U.S.C. \u00a7\u00a7 601\u2013612)",
+    "kind": "statute",
+    "topics": [
+      "048",
+      "064"
     ]
   },
   {
@@ -516,6 +935,20 @@
     ]
   },
   {
+    "citation": "Sale v. Haitian Centers Council, 509 U.S. 155 (1993)",
+    "kind": "case",
+    "topics": [
+      "054"
+    ]
+  },
+  {
+    "citation": "Schick v. Reed, 419 U.S. 256 (1974)",
+    "kind": "case",
+    "topics": [
+      "056"
+    ]
+  },
+  {
     "citation": "Senate Rule XII (voting procedure)",
     "kind": "statute",
     "topics": [
@@ -527,6 +960,13 @@
     "kind": "case",
     "topics": [
       "004"
+    ]
+  },
+  {
+    "citation": "Sierra Club v. Costle, 657 F.2d 298 (D.C. Cir. 1981)",
+    "kind": "case",
+    "topics": [
+      "063"
     ]
   },
   {
@@ -566,7 +1006,44 @@
       "021",
       "025",
       "034",
-      "039"
+      "039",
+      "047",
+      "058"
+    ]
+  },
+  {
+    "citation": "Trump v. Mazars USA, LLP, 591 U.S. 848 (2020)",
+    "kind": "case",
+    "topics": [
+      "052"
+    ]
+  },
+  {
+    "citation": "Trump v. Sierra Club, 588 U.S. ___ (2019)",
+    "kind": "case",
+    "topics": [
+      "051"
+    ]
+  },
+  {
+    "citation": "U.S. Constitution, Article I, Section 7 (Presentment Clause)",
+    "kind": "statute",
+    "topics": [
+      "060"
+    ]
+  },
+  {
+    "citation": "U.S. Constitution, Article II, Section 2, Clause 1",
+    "kind": "statute",
+    "topics": [
+      "056"
+    ]
+  },
+  {
+    "citation": "U.S. Constitution, Article II, Section 3 (Take Care Clause)",
+    "kind": "statute",
+    "topics": [
+      "060"
     ]
   },
   {
@@ -594,10 +1071,33 @@
     ]
   },
   {
+    "citation": "United States v. Nixon, 418 U.S. 683 (1974)",
+    "kind": "case",
+    "topics": [
+      "052"
+    ]
+  },
+  {
     "citation": "Walker v. Cheney, 230 F. Supp. 2d 51 (D.D.C. 2002)",
     "kind": "case",
     "topics": [
       "032"
+    ]
+  },
+  {
+    "citation": "Webster v. Doe, 486 U.S. 592 (1988)",
+    "kind": "case",
+    "topics": [
+      "053"
+    ]
+  },
+  {
+    "citation": "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952)",
+    "kind": "case",
+    "topics": [
+      "044",
+      "051",
+      "055"
     ]
   }
 ]

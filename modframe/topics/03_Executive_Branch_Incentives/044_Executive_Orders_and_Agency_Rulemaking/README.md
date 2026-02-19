@@ -2,13 +2,32 @@
 
 Purpose: short reference and outline for the "Executive Orders and Agency Rulemaking" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
 Outline: see `outline.md`
 
 Contributors: add names and links here
+
+Related modules: 048, 049, 055, 059
+Last reviewed: 2026-02
+
+Actors:
+	- name: President (directive authority)
+		type: office
+	- name: Office of Information and Regulatory Affairs
+		type: office
+	- name: Agency rulemaking offices
+		type: office
+
+Statutes:
+	- Administrative Procedure Act (5 U.S.C. § 553)
+	- Congressional Review Act (5 U.S.C. §§ 801–808)
+
+Cases:
+	- Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952)
+	- Motor Vehicle Mfrs. Ass'n v. State Farm, 463 U.S. 29 (1983)
 
 How to contribute:
 
