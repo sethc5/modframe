@@ -14,20 +14,20 @@ Related modules: 013, 014, 016, 017
 Last reviewed: 2026-02
 
 Actors:
-  - name: Campaigns and party committees
-    type: political_entity
-  - name: State election officials and attorneys general
-    type: institution
-  - name: Courts (state trial/appellate, federal district/circuit, Supreme Court)
-    type: court
+	- name: Campaigns and party committees
+	type: political_entity
+	- name: State election officials and attorneys general
+	type: institution
+	- name: Courts (state trial/appellate, federal district/circuit, Supreme Court)
+	type: court
 
 Statutes:
-  - 52 U.S.C. § 30101
+	- 52 U.S.C. § 10301 (Voting Rights Act Section 2, litigation basis)
+	- 42 U.S.C. § 1983 (civil rights actions in election cases)
 
 Cases:
-  - Purcell v. Gonzalez, 549 U.S. 1 (2006)
-  - Republican National Committee v. Democratic National Committee
-  - Bush v. Gore, 531 U.S. 98 (2000)
+	- Purcell v. Gonzalez, 549 U.S. 1 (2006)
+	- Bush v. Gore, 531 U.S. 98 (2000)
 
 How to contribute:
 

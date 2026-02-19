@@ -14,19 +14,20 @@ Related modules: 011, 012, 014, 015
 Last reviewed: 2026-02
 
 Actors:
-  - name: Candidate committees and party committees
-    type: political_entity
-  - name: Independent expenditure-only committees (super PACs)
-    type: political_entity
-  - name: Consultants, media vendors, and former campaign staff
-    type: political_entity
+	- name: Candidate committees and party committees
+	type: political_entity
+	- name: Independent expenditure-only committees (super PACs)
+	type: political_entity
+	- name: Consultants, media vendors, and former campaign staff
+	type: political_entity
 
 Statutes:
-  - 52 U.S.C. §§ 30101–30126.
-  - 11 C.F.R. § 109.21.
+	- 52 U.S.C. §§ 30101–30126 (FECA independent expenditure rules)
+	- 11 C.F.R. § 109.21 (FEC coordination standard)
 
 Cases:
-  - SpeechNow.org v. FEC
+	- SpeechNow.org v. FEC, 599 F.3d 686 (D.C. Cir. 2010)
+	- Citizens United v. FEC, 558 U.S. 310 (2010)
 
 How to contribute:
 

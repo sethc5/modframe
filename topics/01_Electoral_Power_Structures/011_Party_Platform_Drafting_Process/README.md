@@ -14,18 +14,20 @@ Related modules: 009, 010, 012, 013
 Last reviewed: 2026-02
 
 Actors:
-  - name: National party committees (DNC/RNC)
-    type: political_entity
-  - name: Platform committee members and subcommittee chairs
-    type: political_entity
-  - name: Convention delegates
-    type: institution
+	- name: National party committees (DNC/RNC)
+	type: political_entity
+	- name: Platform committee members and subcommittee chairs
+	type: political_entity
+	- name: Convention delegates
+	type: institution
 
 Statutes:
-  - 52 U.S.C. § 30101
+	- 52 U.S.C. § 30101(14) (FEC definition of national party)
+	- 11 C.F.R. § 9008.3 (convention financing and platform activities)
 
 Cases:
-  - Buckley v. Valeo, 424 U.S. 1 (1976)
+	- Eu v. San Francisco County Democratic Central Committee, 489 U.S. 214 (1989)
+	- Democratic Party of U.S. v. Wisconsin ex rel. La Follette, 450 U.S. 107 (1981)
 
 How to contribute:
 

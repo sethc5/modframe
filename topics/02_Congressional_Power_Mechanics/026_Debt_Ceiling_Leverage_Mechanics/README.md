@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- 31 U.S.C. § 3101
+	- U.S. Const. amend. XIV, § 4 (public-debt clause)
 
 Cases:
 	- Perry v. United States, 294 U.S. 330 (1935)
+	- Ashwander v. TVA, 297 U.S. 288 (1936)
 
 How to contribute:
 

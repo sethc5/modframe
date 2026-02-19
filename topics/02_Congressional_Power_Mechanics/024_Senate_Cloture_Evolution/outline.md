@@ -10,6 +10,7 @@
 - Individual senators can delay action through objection and debate tools, using cloture thresholds as a bargaining anchor for amendments or concessions. [Observed]
 - The presiding officer and parliamentarian shape rule interpretation through precedent applications that can alter procedural expectations without formal rule-text amendments. [Observed]
 - Committee leaders and executive-branch nominees are downstream participants whose timelines are directly affected by cloture queue congestion. [Observed]
+- Issue-advocacy groups and media outlets amplify cloture dynamics by framing obstruction narratives, influencing electoral cost-benefit calculations for senators considering procedural cooperation. [Inferred]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Procedural escalation can normalize cloture as default rather than exceptional, increasing transaction costs for routine governance. [Observed]
 - Time consumed by repeated cloture cycles may reduce oversight and legislative drafting bandwidth for complex policy domains. [Inferred]
 - Public narratives may over-attribute outcomes to filibuster ideology while underreporting queue-management and strategic scheduling effects. [Observed]
+- Abolition or modification of the filibuster under changed precedent can produce rapid norm shifts that are difficult to reverse once established. [Observed]
 
 ### What evidence would prove/disprove key claims
 

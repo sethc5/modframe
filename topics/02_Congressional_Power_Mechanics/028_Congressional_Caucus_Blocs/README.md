@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- House Rules and Manual guidance on Congressional Member Organizations
+	- 2 U.S.C. § 29d (Congressional Member Organization funding rules)
 
 Cases:
 	- Powell v. McCormack, 395 U.S. 486 (1969)
+	- Bond v. Floyd, 385 U.S. 116 (1966)
 
 How to contribute:
 

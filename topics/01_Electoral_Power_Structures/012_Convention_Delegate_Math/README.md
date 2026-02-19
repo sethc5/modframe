@@ -14,18 +14,20 @@ Related modules: 010, 011, 013, 014
 Last reviewed: 2026-02
 
 Actors:
-  - name: National party committees (DNC/RNC)
-    type: political_entity
-  - name: State party organizations
-    type: political_entity
-  - name: Presidential campaigns
-    type: political_entity
+	- name: National party committees (DNC/RNC)
+	type: political_entity
+	- name: State party organizations
+	type: political_entity
+	- name: Presidential campaigns
+	type: political_entity
 
 Statutes:
-  - 52 U.S.C. § 30101
+	- 52 U.S.C. § 30101(14) (party definition and convention framework)
+	- 11 C.F.R. § 9008.7 (convention expenditure requirements)
 
 Cases:
-  - Buckley v. Valeo, 424 U.S. 1 (1976)
+	- Democratic Party of U.S. v. Wisconsin ex rel. La Follette, 450 U.S. 107 (1981)
+	- Cousins v. Wigoda, 419 U.S. 477 (1975)
 
 How to contribute:
 

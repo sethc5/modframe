@@ -10,6 +10,7 @@
 - Committees and member offices request work, frame oversight questions, and decide whether findings trigger hearings, legislation, or funding conditions. [Observed]
 - Federal agencies supply records and responses, with incentives to contest scope or timing where findings threaten operational discretion. [Observed]
 - Inspectors general, OMB, and external watchdogs can amplify or triangulate GAO findings, increasing downstream implementation pressure across appropriations and authorizing cycles. [Observed]
+- Congressional leadership and appropriations actors can amplify or sideline GAO recommendations through hearing focus, report-language directives, and funding conditions in subsequent cycles. [Observed]
 
 ### Process map (bulleted)
 

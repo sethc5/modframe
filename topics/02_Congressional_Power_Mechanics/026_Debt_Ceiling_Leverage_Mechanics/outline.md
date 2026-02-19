@@ -10,6 +10,7 @@
 - Treasury manages cash balances and extraordinary measures to extend financing capacity while signaling timeline constraints to Congress and markets. [Observed]
 - Congressional Budget Office and Treasury analysts provide projections that shape perceptions of urgency and feasible negotiation windows. [Observed]
 - Federal Reserve, primary dealers, and market participants respond to default-risk uncertainty through pricing and liquidity behavior, influencing political pressure. [Observed]
+- Rating agencies and international finance institutions amplify sovereign-risk narratives that intersect with domestic political pressure, adding external accountability signals to congressional negotiation. [Observed]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Negotiators may rationally delay compromise to maximize leverage, despite rising systemic risk as the projected exhaustion date approaches. [Inferred]
 - Public debate can conflate debt-limit action with future spending authorization, obscuring the mechanics of financing enacted obligations. [Observed]
 - Deadline uncertainty in projections and market signaling can produce nonlinear stress responses that are hard to reverse quickly. [Observed]
+- Post-resolution spending trajectories may not match pre-resolution rhetoric, weakening the credibility of concessions extracted under deadline pressure. [Inferred]
 
 ### What evidence would prove/disprove key claims
 

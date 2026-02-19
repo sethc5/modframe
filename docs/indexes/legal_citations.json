@@ -7,25 +7,45 @@
     ]
   },
   {
-    "citation": "11 C.F.R. \u00a7 109.21",
+    "citation": "11 C.F.R. \u00a7 109.21 (coordination with PACs)",
     "kind": "statute",
     "topics": [
-      "009",
       "017"
     ]
   },
   {
-    "citation": "11 C.F.R. \u00a7 109.21.",
+    "citation": "11 C.F.R. \u00a7 109.21 (coordination with vendors)",
+    "kind": "statute",
+    "topics": [
+      "009"
+    ]
+  },
+  {
+    "citation": "11 C.F.R. \u00a7 109.21 (FEC coordination standard)",
     "kind": "statute",
     "topics": [
       "013"
     ]
   },
   {
-    "citation": "11 C.F.R. \u00a7 109.32",
+    "citation": "11 C.F.R. \u00a7 109.32 (coordinated party expenditures)",
     "kind": "statute",
     "topics": [
       "014"
+    ]
+  },
+  {
+    "citation": "11 C.F.R. \u00a7 9008.3 (convention financing and platform activities)",
+    "kind": "statute",
+    "topics": [
+      "011"
+    ]
+  },
+  {
+    "citation": "11 C.F.R. \u00a7 9008.7 (convention expenditure requirements)",
+    "kind": "statute",
+    "topics": [
+      "012"
     ]
   },
   {
@@ -33,6 +53,13 @@
     "kind": "statute",
     "topics": [
       "057"
+    ]
+  },
+  {
+    "citation": "2 U.S.C. \u00a7 1604 (lobbying disclosure/fundraising nexus)",
+    "kind": "statute",
+    "topics": [
+      "027"
     ]
   },
   {
@@ -58,6 +85,34 @@
     ]
   },
   {
+    "citation": "2 U.S.C. \u00a7 29d (Congressional Member Organization funding rules)",
+    "kind": "statute",
+    "topics": [
+      "028"
+    ]
+  },
+  {
+    "citation": "2 U.S.C. \u00a7 2c (single-member congressional districts)",
+    "kind": "statute",
+    "topics": [
+      "003"
+    ]
+  },
+  {
+    "citation": "2 U.S.C. \u00a7 901 (discretionary spending caps)",
+    "kind": "statute",
+    "topics": [
+      "025"
+    ]
+  },
+  {
+    "citation": "26 U.S.C. \u00a7 527 (tax-exempt political organizations)",
+    "kind": "statute",
+    "topics": [
+      "001"
+    ]
+  },
+  {
     "citation": "28 CFR Part 1 (DOJ clemency regulations)",
     "kind": "statute",
     "topics": [
@@ -72,17 +127,31 @@
     ]
   },
   {
-    "citation": "3 U.S.C. \u00a7 5",
+    "citation": "3 U.S.C. \u00a7 5 (safe-harbor deadline for state certification)",
     "kind": "statute",
     "topics": [
       "008"
     ]
   },
   {
-    "citation": "3 U.S.C. \u00a7 6",
+    "citation": "3 U.S.C. \u00a7 6 (governor's certificate of ascertainment)",
     "kind": "statute",
     "topics": [
       "008"
+    ]
+  },
+  {
+    "citation": "3 U.S.C. \u00a7\u00a7 1\u201321 (Electoral Count Reform Act of 2022)",
+    "kind": "statute",
+    "topics": [
+      "007"
+    ]
+  },
+  {
+    "citation": "31 U.S.C. \u00a7 1105 (President's budget submission)",
+    "kind": "statute",
+    "topics": [
+      "021"
     ]
   },
   {
@@ -100,67 +169,101 @@
     ]
   },
   {
-    "citation": "52 U.S.C. \u00a7 10301.",
+    "citation": "42 U.S.C. \u00a7 1983 (civil rights actions in election cases)",
+    "kind": "statute",
+    "topics": [
+      "015"
+    ]
+  },
+  {
+    "citation": "52 U.S.C. \u00a7 10301 (Voting Rights Act Section 2)",
     "kind": "statute",
     "topics": [
       "003"
     ]
   },
   {
-    "citation": "52 U.S.C. \u00a7 30101",
+    "citation": "52 U.S.C. \u00a7 10301 (Voting Rights Act Section 2, litigation basis)",
     "kind": "statute",
     "topics": [
-      "002",
-      "005",
-      "006",
-      "007",
-      "010",
-      "011",
-      "012",
-      "015",
-      "016"
+      "015"
     ]
   },
   {
-    "citation": "52 U.S.C. \u00a7\u00a7 20501\u201320511.",
+    "citation": "52 U.S.C. \u00a7 10301 (Voting Rights Act Section 2, primary access)",
     "kind": "statute",
     "topics": [
-      "004"
+      "002"
     ]
   },
   {
-    "citation": "52 U.S.C. \u00a7\u00a7 30101",
+    "citation": "52 U.S.C. \u00a7 20507 (NVRA voter-file maintenance and access)",
     "kind": "statute",
     "topics": [
-      "017"
+      "010"
     ]
   },
   {
-    "citation": "52 U.S.C. \u00a7\u00a7 30101\u201330126.",
+    "citation": "52 U.S.C. \u00a7 30101(14) (FEC definition of national party)",
     "kind": "statute",
     "topics": [
-      "013"
+      "011"
     ]
   },
   {
-    "citation": "52 U.S.C. \u00a7\u00a7 30101\u201330145.",
+    "citation": "52 U.S.C. \u00a7 30101(14) (party definition and convention framework)",
     "kind": "statute",
     "topics": [
-      "001"
+      "012"
     ]
   },
   {
-    "citation": "52 U.S.C. \u00a7\u00a7 30104",
+    "citation": "52 U.S.C. \u00a7 30104 (FEC disclosure and reporting requirements)",
     "kind": "statute",
     "topics": [
       "009"
     ]
   },
   {
-    "citation": "52 U.S.C. \u00a7\u00a7 30116",
+    "citation": "52 U.S.C. \u00a7 30116 (contribution limits, state/national party)",
     "kind": "statute",
     "topics": [
       "014"
+    ]
+  },
+  {
+    "citation": "52 U.S.C. \u00a7\u00a7 10301\u201310308 (Voting Rights Act of 1965)",
+    "kind": "statute",
+    "topics": [
+      "004"
+    ]
+  },
+  {
+    "citation": "52 U.S.C. \u00a7\u00a7 20501\u201320511 (National Voter Registration Act)",
+    "kind": "statute",
+    "topics": [
+      "004"
+    ]
+  },
+  {
+    "citation": "52 U.S.C. \u00a7\u00a7 30101\u201330116 (FECA PAC registration and limits)",
+    "kind": "statute",
+    "topics": [
+      "017"
+    ]
+  },
+  {
+    "citation": "52 U.S.C. \u00a7\u00a7 30101\u201330126 (FECA independent expenditure rules)",
+    "kind": "statute",
+    "topics": [
+      "013"
+    ]
+  },
+  {
+    "citation": "52 U.S.C. \u00a7\u00a7 30101\u201330145 (Federal Election Campaign Act)",
+    "kind": "statute",
+    "topics": [
+      "001"
     ]
   },
   {
@@ -180,7 +283,21 @@
     ]
   },
   {
-    "citation": "Allen v. Milligan",
+    "citation": "AFL-CIO v. FEC, 333 F.3d 168 (D.C. Cir. 2003)",
+    "kind": "case",
+    "topics": [
+      "010"
+    ]
+  },
+  {
+    "citation": "Alaska Stat. \u00a7 15.15.350 (Alaska ranked-choice voting)",
+    "kind": "statute",
+    "topics": [
+      "006"
+    ]
+  },
+  {
+    "citation": "Allen v. Milligan, 599 U.S. 1 (2023)",
     "kind": "case",
     "topics": [
       "003"
@@ -211,10 +328,38 @@
     ]
   },
   {
+    "citation": "Ashwander v. TVA, 297 U.S. 288 (1936)",
+    "kind": "case",
+    "topics": [
+      "026"
+    ]
+  },
+  {
     "citation": "Association of American Physicians & Surgeons v. Clinton, 997 F.2d 898 (D.C. Cir. 1993)",
     "kind": "case",
     "topics": [
       "061"
+    ]
+  },
+  {
+    "citation": "Baber v. Dunlap, 349 F. Supp. 3d 68 (D. Me. 2018)",
+    "kind": "case",
+    "topics": [
+      "006"
+    ]
+  },
+  {
+    "citation": "Bluman v. FEC, 800 F. Supp. 2d 281 (D.D.C. 2011)",
+    "kind": "case",
+    "topics": [
+      "009"
+    ]
+  },
+  {
+    "citation": "Bond v. Floyd, 385 U.S. 116 (1966)",
+    "kind": "case",
+    "topics": [
+      "028"
     ]
   },
   {
@@ -227,30 +372,17 @@
     ]
   },
   {
-    "citation": "Brnovich v. Democratic National Committee",
+    "citation": "Buckley v. American Constitutional Law Foundation, 525 U.S. 182 (1999)",
     "kind": "case",
     "topics": [
-      "004"
-    ]
-  },
-  {
-    "citation": "Buckley v. Valeo",
-    "kind": "case",
-    "topics": [
-      "001"
+      "005"
     ]
   },
   {
     "citation": "Buckley v. Valeo, 424 U.S. 1 (1976)",
     "kind": "case",
     "topics": [
-      "006",
-      "008",
-      "009",
-      "010",
-      "011",
-      "012",
-      "014",
+      "001",
       "027"
     ]
   },
@@ -269,22 +401,38 @@
     ]
   },
   {
-    "citation": "Bush v. Gore",
-    "kind": "case",
-    "topics": [
-      "007"
-    ]
-  },
-  {
     "citation": "Bush v. Gore, 531 U.S. 98 (2000)",
     "kind": "case",
     "topics": [
+      "007",
+      "008",
       "015",
       "016"
     ]
   },
   {
-    "citation": "California Democratic Party v. Jones",
+    "citation": "Cal. Civ. Code \u00a7\u00a7 1798.100\u20131798.199 (CCPA data-broker provisions)",
+    "kind": "statute",
+    "topics": [
+      "010"
+    ]
+  },
+  {
+    "citation": "Cal. Const. art. II, \u00a7 8 (California initiative provisions)",
+    "kind": "statute",
+    "topics": [
+      "005"
+    ]
+  },
+  {
+    "citation": "Cal. Elec. Code \u00a7 5100 et seq. (top-two primary system)",
+    "kind": "statute",
+    "topics": [
+      "002"
+    ]
+  },
+  {
+    "citation": "California Democratic Party v. Jones, 530 U.S. 567 (2000)",
     "kind": "case",
     "topics": [
       "002"
@@ -306,7 +454,7 @@
     ]
   },
   {
-    "citation": "Chiafalo v. Washington",
+    "citation": "Chiafalo v. Washington, 591 U.S. 578 (2020)",
     "kind": "case",
     "topics": [
       "007"
@@ -320,10 +468,18 @@
     ]
   },
   {
-    "citation": "Citizens United v. Federal Election Commission",
+    "citation": "Christoffel v. United States, 338 U.S. 84 (1949)",
     "kind": "case",
     "topics": [
-      "001"
+      "022"
+    ]
+  },
+  {
+    "citation": "Citizens United v. FEC, 558 U.S. 310 (2010)",
+    "kind": "case",
+    "topics": [
+      "001",
+      "013"
     ]
   },
   {
@@ -344,11 +500,34 @@
     "citation": "Clinton v. City of New York, 524 U.S. 417 (1998)",
     "kind": "case",
     "topics": [
+      "021",
+      "025",
       "031",
       "033",
       "036",
       "058",
       "060"
+    ]
+  },
+  {
+    "citation": "Coleman v. Franken, 767 N.W.2d 453 (Minn. 2009)",
+    "kind": "case",
+    "topics": [
+      "016"
+    ]
+  },
+  {
+    "citation": "Colo. Const. art. V, \u00a7 1 (Colorado initiative and referendum)",
+    "kind": "statute",
+    "topics": [
+      "005"
+    ]
+  },
+  {
+    "citation": "Colorado Republican Federal Campaign Committee v. FEC, 518 U.S. 604 (1996)",
+    "kind": "case",
+    "topics": [
+      "014"
     ]
   },
   {
@@ -380,7 +559,14 @@
     ]
   },
   {
-    "citation": "Crawford v. Marion County Election Board",
+    "citation": "Cousins v. Wigoda, 419 U.S. 477 (1975)",
+    "kind": "case",
+    "topics": [
+      "012"
+    ]
+  },
+  {
+    "citation": "Crawford v. Marion County Election Board, 553 U.S. 181 (2008)",
     "kind": "case",
     "topics": [
       "004"
@@ -396,6 +582,14 @@
     ]
   },
   {
+    "citation": "Democratic Party of U.S. v. Wisconsin ex rel. La Follette, 450 U.S. 107 (1981)",
+    "kind": "case",
+    "topics": [
+      "011",
+      "012"
+    ]
+  },
+  {
     "citation": "Department of Homeland Security v. MacLean, 574 U.S. 383 (2015)",
     "kind": "case",
     "topics": [
@@ -407,6 +601,13 @@
     "kind": "case",
     "topics": [
       "053"
+    ]
+  },
+  {
+    "citation": "Dudum v. Arntz, 640 F.3d 1098 (9th Cir. 2011)",
+    "kind": "case",
+    "topics": [
+      "006"
     ]
   },
   {
@@ -435,6 +636,13 @@
     "kind": "statute",
     "topics": [
       "029"
+    ]
+  },
+  {
+    "citation": "Eu v. San Francisco County Democratic Central Committee, 489 U.S. 214 (1989)",
+    "kind": "case",
+    "topics": [
+      "011"
     ]
   },
   {
@@ -473,6 +681,20 @@
     ]
   },
   {
+    "citation": "FEC v. Beaumont, 539 U.S. 146 (2003)",
+    "kind": "case",
+    "topics": [
+      "009"
+    ]
+  },
+  {
+    "citation": "FEC v. Wisconsin Right to Life, Inc., 551 U.S. 449 (2007)",
+    "kind": "case",
+    "topics": [
+      "017"
+    ]
+  },
+  {
     "citation": "Federal Advisory Committee Act (5 U.S.C. App. 2)",
     "kind": "statute",
     "topics": [
@@ -507,10 +729,18 @@
     "citation": "Field v. Clark, 143 U.S. 649 (1892)",
     "kind": "case",
     "topics": [
+      "023",
       "033",
       "037",
       "039",
       "040"
+    ]
+  },
+  {
+    "citation": "Fla. Stat. \u00a7 102.166 (Florida recount procedures)",
+    "kind": "statute",
+    "topics": [
+      "016"
     ]
   },
   {
@@ -552,6 +782,8 @@
     "citation": "Gravel v. United States, 408 U.S. 606 (1972)",
     "kind": "case",
     "topics": [
+      "019",
+      "029",
       "035",
       "042"
     ]
@@ -635,6 +867,13 @@
     ]
   },
   {
+    "citation": "House Rule XI (ethics committee jurisdiction and procedures)",
+    "kind": "statute",
+    "topics": [
+      "029"
+    ]
+  },
+  {
     "citation": "House Rule XIII",
     "kind": "statute",
     "topics": [
@@ -688,6 +927,7 @@
     "kind": "case",
     "topics": [
       "018",
+      "030",
       "031",
       "038",
       "060"
@@ -713,13 +953,6 @@
     "kind": "statute",
     "topics": [
       "051"
-    ]
-  },
-  {
-    "citation": "Jones v. Governor of Florida",
-    "kind": "case",
-    "topics": [
-      "005"
     ]
   },
   {
@@ -752,14 +985,21 @@
     ]
   },
   {
-    "citation": "McCutcheon v. Federal Election Commission",
+    "citation": "McConnell v. FEC, 540 U.S. 93 (2003)",
     "kind": "case",
     "topics": [
-      "001"
+      "014"
     ]
   },
   {
-    "citation": "Meyer v. Grant",
+    "citation": "Me. Rev. Stat. tit. 21-A, \u00a7 723-A (Maine ranked-choice voting)",
+    "kind": "statute",
+    "topics": [
+      "006"
+    ]
+  },
+  {
+    "citation": "Meyer v. Grant, 486 U.S. 414 (1988)",
     "kind": "case",
     "topics": [
       "005"
@@ -770,6 +1010,13 @@
     "kind": "case",
     "topics": [
       "059"
+    ]
+  },
+  {
+    "citation": "Minn. Stat. \u00a7 204C.35 (Minnesota automatic recount provisions)",
+    "kind": "statute",
+    "topics": [
+      "016"
     ]
   },
   {
@@ -898,6 +1145,13 @@
     ]
   },
   {
+    "citation": "Randall v. Sorrell, 548 U.S. 230 (2006)",
+    "kind": "case",
+    "topics": [
+      "027"
+    ]
+  },
+  {
     "citation": "Regulatory Flexibility Act (5 U.S.C. \u00a7\u00a7 601\u2013612)",
     "kind": "statute",
     "topics": [
@@ -906,14 +1160,7 @@
     ]
   },
   {
-    "citation": "Republican National Committee v. Democratic National Committee",
-    "kind": "case",
-    "topics": [
-      "015"
-    ]
-  },
-  {
-    "citation": "Rucho v. Common Cause",
+    "citation": "Rucho v. Common Cause, 588 U.S. 684 (2019)",
     "kind": "case",
     "topics": [
       "003"
@@ -956,7 +1203,7 @@
     ]
   },
   {
-    "citation": "Shelby County v. Holder",
+    "citation": "Shelby County v. Holder, 570 U.S. 529 (2013)",
     "kind": "case",
     "topics": [
       "004"
@@ -970,11 +1217,18 @@
     ]
   },
   {
-    "citation": "SpeechNow.org v. FEC",
+    "citation": "SpeechNow.org v. FEC, 599 F.3d 686 (D.C. Cir. 2010)",
     "kind": "case",
     "topics": [
       "013",
       "017"
+    ]
+  },
+  {
+    "citation": "Spokeo, Inc. v. Robins, 578 U.S. 330 (2016)",
+    "kind": "case",
+    "topics": [
+      "010"
     ]
   },
   {
@@ -997,6 +1251,20 @@
     "kind": "statute",
     "topics": [
       "024"
+    ]
+  },
+  {
+    "citation": "Tashjian v. Republican Party of Connecticut, 479 U.S. 208 (1986)",
+    "kind": "case",
+    "topics": [
+      "002"
+    ]
+  },
+  {
+    "citation": "Texas v. Pennsylvania, 592 U.S. ___ (2020)",
+    "kind": "case",
+    "topics": [
+      "008"
     ]
   },
   {
@@ -1026,6 +1294,42 @@
     ]
   },
   {
+    "citation": "U.S. Const. amend. XIV, \u00a7 4 (public-debt clause)",
+    "kind": "statute",
+    "topics": [
+      "026"
+    ]
+  },
+  {
+    "citation": "U.S. Const. art. I, \u00a7 3 (Senate composition and powers)",
+    "kind": "statute",
+    "topics": [
+      "030"
+    ]
+  },
+  {
+    "citation": "U.S. Const. art. I, \u00a7 5, cl. 2 (chamber rulemaking authority)",
+    "kind": "statute",
+    "topics": [
+      "022",
+      "023"
+    ]
+  },
+  {
+    "citation": "U.S. Const. art. I, \u00a7 5, cl. 2 (Senate rulemaking authority)",
+    "kind": "statute",
+    "topics": [
+      "024"
+    ]
+  },
+  {
+    "citation": "U.S. Const. art. II, \u00a7 1, cl. 2 (state appointment of electors)",
+    "kind": "statute",
+    "topics": [
+      "007"
+    ]
+  },
+  {
     "citation": "U.S. Constitution, Article I, Section 7 (Presentment Clause)",
     "kind": "statute",
     "topics": [
@@ -1051,8 +1355,10 @@
     "kind": "case",
     "topics": [
       "019",
+      "020",
       "022",
       "023",
+      "024",
       "030",
       "036",
       "037",
@@ -1082,6 +1388,13 @@
     "kind": "case",
     "topics": [
       "032"
+    ]
+  },
+  {
+    "citation": "Watkins v. United States, 354 U.S. 178 (1957)",
+    "kind": "case",
+    "topics": [
+      "018"
     ]
   },
   {

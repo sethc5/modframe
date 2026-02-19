@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- Ethics in Government Act of 1978 (Pub. L. 95-521)
+	- House Rule XI (ethics committee jurisdiction and procedures)
 
 Cases:
 	- United States v. Brewster, 408 U.S. 501 (1972)
+	- Gravel v. United States, 408 U.S. 606 (1972)
 
 How to contribute:
 

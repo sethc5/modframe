@@ -10,6 +10,7 @@
 - Chamber leadership and floor managers determine sequencing, package strategy, and amendment conditions, particularly when time constraints make regular-order passage unlikely. [Observed]
 - OMB, agency budget offices, and executive negotiators influence baseline assumptions and implementation feasibility, especially in shutdown-risk periods. [Observed]
 - GAO and inspectors general evaluate execution, waste, and compliance, but their feedback usually arrives after key allocation choices are already locked. [Observed]
+- Congressional Research Service and advocacy organizations supply analysis and pressure that shape subcommittee priorities, though their influence is indirect relative to formal allocators. [Inferred]
 
 ### Process map (bulleted)
 
@@ -30,6 +31,7 @@
 - Deadline governance encourages short-horizon bargaining that prioritizes passage over detailed program evaluation. [Inferred]
 - Large omnibus packages dilute line-item scrutiny and can obscure tradeoffs across unrelated policy domains. [Observed]
 - Oversight findings often lag appropriations decisions, weakening near-term feedback loops between performance evidence and funding allocations. [Observed]
+- Continuing resolutions and government shutdowns can become normalized negotiating tools, reducing institutional pressure to complete regular-order appropriations. [Observed]
 
 ### What evidence would prove/disprove key claims
 

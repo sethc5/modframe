@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- Article I, U.S. Constitution
+	- U.S. Const. art. I, § 3 (Senate composition and powers)
 
 Cases:
 	- United States v. Ballin, 144 U.S. 1 (1892)
+	- INS v. Chadha, 462 U.S. 919 (1983)
 
 How to contribute:
 

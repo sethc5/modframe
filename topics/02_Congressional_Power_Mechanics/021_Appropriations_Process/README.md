@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- Congressional Budget and Impoundment Control Act of 1974 (Pub. L. 93-344)
+	- 31 U.S.C. § 1105 (President's budget submission)
 
 Cases:
 	- Train v. City of New York, 420 U.S. 35 (1975)
+	- Clinton v. City of New York, 524 U.S. 417 (1998)
 
 How to contribute:
 

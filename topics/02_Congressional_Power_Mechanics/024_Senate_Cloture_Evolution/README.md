@@ -23,9 +23,11 @@ Actors:
 
 Statutes:
 	- Standing Rules of the Senate, Rule XXII
+	- U.S. Const. art. I, § 5, cl. 2 (Senate rulemaking authority)
 
 Cases:
 	- NLRB v. Noel Canning, 573 U.S. 513 (2014)
+	- United States v. Ballin, 144 U.S. 1 (1892)
 
 How to contribute:
 
