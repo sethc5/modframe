@@ -113,6 +113,15 @@
     ]
   },
   {
+    "name": "American Legislative Exchange Council",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "130"
+    ]
+  },
+  {
     "name": "American Petroleum Institute and fossil fuel trade associations",
     "types": [
       "institution"
@@ -164,6 +173,15 @@
     ],
     "topics": [
       "123"
+    ]
+  },
+  {
+    "name": "Brennan Center for Justice",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "136"
     ]
   },
   {
@@ -237,6 +255,15 @@
     ],
     "topics": [
       "046"
+    ]
+  },
+  {
+    "name": "Centers for Medicare and Medicaid Services",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "143"
     ]
   },
   {
@@ -543,6 +570,16 @@
     ]
   },
   {
+    "name": "Council of State Governments",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "130",
+      "145"
+    ]
+  },
+  {
     "name": "Council of the Inspectors General on Integrity and Efficiency",
     "types": [
       "office"
@@ -558,6 +595,15 @@
     ],
     "topics": [
       "014"
+    ]
+  },
+  {
+    "name": "County election boards",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "139"
     ]
   },
   {
@@ -675,7 +721,8 @@
       "political_entity"
     ],
     "topics": [
-      "117"
+      "117",
+      "129"
     ]
   },
   {
@@ -733,12 +780,30 @@
     ]
   },
   {
+    "name": "Elected district attorneys",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "140"
+    ]
+  },
+  {
     "name": "Election administrators",
     "types": [
       "institution"
     ],
     "topics": [
       "006"
+    ]
+  },
+  {
+    "name": "Election Assistance Commission",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "139"
     ]
   },
   {
@@ -861,6 +926,15 @@
       "092",
       "096",
       "100"
+    ]
+  },
+  {
+    "name": "Federal grant-making agencies",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "133"
     ]
   },
   {
@@ -1046,6 +1120,15 @@
     ],
     "topics": [
       "034"
+    ]
+  },
+  {
+    "name": "Good Jobs First",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "138"
     ]
   },
   {
@@ -1256,6 +1339,15 @@
     ]
   },
   {
+    "name": "Independent redistricting commissions",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "136"
+    ]
+  },
+  {
     "name": "Individual U.S. Senators",
     "types": [
       "political_entity"
@@ -1293,12 +1385,30 @@
     ]
   },
   {
+    "name": "Initiative and Referendum Institute",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "132"
+    ]
+  },
+  {
     "name": "Initiative sponsors",
     "types": [
       "institution"
     ],
     "topics": [
       "005"
+    ]
+  },
+  {
+    "name": "Initiative sponsors and campaign committees",
+    "types": [
+      "political_entity"
+    ],
+    "topics": [
+      "137"
     ]
   },
   {
@@ -1317,6 +1427,15 @@
     ],
     "topics": [
       "102"
+    ]
+  },
+  {
+    "name": "Interstate compact commissions",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "145"
     ]
   },
   {
@@ -1367,6 +1486,24 @@
     ]
   },
   {
+    "name": "Judicial Crisis Network",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "135"
+    ]
+  },
+  {
+    "name": "Judicial nominating commissions",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "135"
+    ]
+  },
+  {
     "name": "K Street lobbying firms",
     "types": [
       "institution"
@@ -1409,6 +1546,15 @@
     ],
     "topics": [
       "104"
+    ]
+  },
+  {
+    "name": "Local school boards",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "142"
     ]
   },
   {
@@ -1475,6 +1621,15 @@
     ]
   },
   {
+    "name": "Managed-care organizations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "143"
+    ]
+  },
+  {
     "name": "Members of Congress",
     "types": [
       "political_entity"
@@ -1538,6 +1693,61 @@
     ],
     "topics": [
       "068"
+    ]
+  },
+  {
+    "name": "Municipal governments",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "131"
+    ]
+  },
+  {
+    "name": "National Association of Regulatory Utility Commissioners",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "141"
+    ]
+  },
+  {
+    "name": "National Association of State Retirement Administrators",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "147"
+    ]
+  },
+  {
+    "name": "National Conference of State Legislatures",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "133",
+      "146"
+    ]
+  },
+  {
+    "name": "National Guard units",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "128"
+    ]
+  },
+  {
+    "name": "National League of Cities",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "131"
     ]
   },
   {
@@ -1982,12 +2192,30 @@
     ]
   },
   {
+    "name": "Public defender offices",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "140"
+    ]
+  },
+  {
     "name": "Public relations and political consulting firms",
     "types": [
       "institution"
     ],
     "topics": [
       "095"
+    ]
+  },
+  {
+    "name": "Public-employee unions",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "147"
     ]
   },
   {
@@ -2018,12 +2246,31 @@
     ]
   },
   {
+    "name": "Regulated electric and gas utilities",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "141"
+    ]
+  },
+  {
     "name": "Republican Attorneys General Association",
     "types": [
       "political_entity"
     ],
     "topics": [
-      "117"
+      "117",
+      "129"
+    ]
+  },
+  {
+    "name": "Secretaries of state",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "139"
     ]
   },
   {
@@ -2172,6 +2419,15 @@
     ]
   },
   {
+    "name": "Site-selection consultants",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "138"
+    ]
+  },
+  {
     "name": "Social media platform operators",
     "types": [
       "institution"
@@ -2218,6 +2474,15 @@
     ]
   },
   {
+    "name": "State adjutant generals",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "144"
+    ]
+  },
+  {
     "name": "State and local election officials",
     "types": [
       "institution"
@@ -2250,7 +2515,26 @@
       "office"
     ],
     "topics": [
-      "117"
+      "117",
+      "129"
+    ]
+  },
+  {
+    "name": "State boards of education",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "142"
+    ]
+  },
+  {
+    "name": "State budget offices",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "134"
     ]
   },
   {
@@ -2263,12 +2547,39 @@
     ]
   },
   {
+    "name": "State courts",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "137"
+    ]
+  },
+  {
+    "name": "State economic-development agencies",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "138"
+    ]
+  },
+  {
     "name": "State election administrators",
     "types": [
       "institution"
     ],
     "topics": [
       "010"
+    ]
+  },
+  {
+    "name": "State election officials",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "137"
     ]
   },
   {
@@ -2299,12 +2610,50 @@
     ]
   },
   {
+    "name": "State governors",
+    "types": [
+      "office"
+    ],
+    "topics": [
+      "128",
+      "134",
+      "144"
+    ]
+  },
+  {
+    "name": "State Innovation Exchange",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "130"
+    ]
+  },
+  {
     "name": "State judicial nominating commissions",
     "types": [
       "institution"
     ],
     "topics": [
       "121"
+    ]
+  },
+  {
+    "name": "State legislative appropriations committees",
+    "types": [
+      "committee"
+    ],
+    "topics": [
+      "134"
+    ]
+  },
+  {
+    "name": "State legislative staff agencies",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "146"
     ]
   },
   {
@@ -2335,7 +2684,23 @@
       "003",
       "004",
       "007",
-      "016"
+      "016",
+      "128",
+      "131",
+      "132",
+      "136",
+      "142",
+      "145",
+      "146"
+    ]
+  },
+  {
+    "name": "State Medicaid agencies",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "143"
     ]
   },
   {
@@ -2354,6 +2719,60 @@
     ],
     "topics": [
       "012"
+    ]
+  },
+  {
+    "name": "State pension-fund boards of trustees",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "147"
+    ]
+  },
+  {
+    "name": "State police agencies",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "144"
+    ]
+  },
+  {
+    "name": "State policy research organizations",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "133"
+    ]
+  },
+  {
+    "name": "State public utility commissions",
+    "types": [
+      "regulatory_body"
+    ],
+    "topics": [
+      "141"
+    ]
+  },
+  {
+    "name": "State supreme court justices",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "135"
+    ]
+  },
+  {
+    "name": "State supreme courts",
+    "types": [
+      "court"
+    ],
+    "topics": [
+      "132"
     ]
   },
   {
@@ -2501,6 +2920,15 @@
     ],
     "topics": [
       "116"
+    ]
+  },
+  {
+    "name": "Vera Institute of Justice",
+    "types": [
+      "institution"
+    ],
+    "topics": [
+      "140"
     ]
   },
   {
