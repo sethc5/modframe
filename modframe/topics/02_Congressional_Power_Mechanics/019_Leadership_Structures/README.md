@@ -2,13 +2,31 @@
 
 Purpose: short reference and outline for the "Leadership Structures" module.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability
 
 Outline: see `outline.md`
 
 Contributors: add names and links here
+
+Related modules: 018, 020, 033
+Last reviewed: 2026-02
+
+Actors:
+	- name: Speaker of the House
+		type: political_entity
+	- name: Senate Majority and Minority Leaders
+		type: political_entity
+	- name: Congressional campaign committees
+		type: political_entity
+
+Statutes:
+	- House Rule X
+	- Standing Rules of the Senate (Rule XXII)
+
+Cases:
+	- United States v. Ballin, 144 U.S. 1 (1892)
 
 How to contribute:
 
