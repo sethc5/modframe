@@ -2,19 +2,19 @@
 
 A structural and mechanical map of how Washington DC federal government power actually works.
 
-**14 sections. 230 modules. 147 built.**
+**14 sections. 230 modules. 17 deep, 130 first-draft, 83 scaffold.**
 
 ## What this maps
 
 | Section | Topic | Modules | Status |
 |---------|-------|---------|--------|
-| 01 | Electoral Power Structures | 17 | Built |
-| 02 | Congressional Power Mechanics | 25 | Built |
-| 03 | Executive Branch Incentives | 23 | Built |
-| 04 | Revolving Door and Influence | 23 | Built |
-| 05 | Media Ecosystem and Information Architecture | 19 | Built |
-| 06 | Judicial Power Structure | 20 | Built |
-| 07 | State-Level Power Laboratories | 20 | Built |
+| 01 | Electoral Power Structures | 17 | Deep (150–302 lines, inline citations) |
+| 02 | Congressional Power Mechanics | 25 | First draft |
+| 03 | Executive Branch Incentives | 23 | First draft |
+| 04 | Revolving Door and Influence | 23 | First draft |
+| 05 | Media Ecosystem and Information Architecture | 19 | First draft |
+| 06 | Judicial Power Structure | 20 | First draft |
+| 07 | State-Level Power Laboratories | 20 | First draft |
 | 08 | Money and Industry Influence | 17 | Scaffold |
 | 09 | Crisis Governance | 15 | Scaffold |
 | 10 | Structural Incentives Behind Polarization | 6 | Scaffold |
@@ -22,6 +22,11 @@ A structural and mechanical map of how Washington DC federal government power ac
 | 12 | Foreign Influence and Global Intersections | 10 | Scaffold |
 | 13 | Meta-Incentive Structures | 10 | Scaffold |
 | 14 | Emerging and Overlooked Structures | 10 | Scaffold |
+
+**Quality tiers:**
+- **Deep** — full actor analysis with inline statute citations, multi-paragraph process maps, specific court cases, datasets. Gold standard.
+- **First draft** — all headings filled with real content and claim labels, but compressed actors, generic sources, ~58 lines. Needs deepening.
+- **Scaffold** — empty template placeholders. Needs full build.
 
 See `docs/SECTION_AND_MODULE_MAP.md` for the full module listing and future expansion roadmap (~380 financial system module ideas, 45 domain-applied sections).
 

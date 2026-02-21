@@ -4,7 +4,11 @@
 
 A structural and mechanical map of how Washington DC federal government power actually works — where it concentrates, what incentives drive behavior, and what structural features enable or prevent accountability.
 
-14 core sections, 230 modules. 147 built with deep content, citations, and actor analysis. 83 scaffold modules awaiting build.
+14 core sections, 230 modules.
+
+- **17 deep modules** (Section 01) — 150–302 lines with inline statute citations, detailed actor analysis, specific court cases and datasets
+- **130 first-draft modules** (Sections 02–07) — all headings filled with real content and claim labels (~58 lines each), awaiting deepening to Section 01 quality
+- **83 scaffold modules** (Sections 08–14) — empty templates awaiting full build
 
 ## Operating posture
 
