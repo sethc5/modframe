@@ -120,6 +120,32 @@ def check_readme(path: Path, schema: dict) -> list[str]:
     return issues
 
 
+# Regex substitutions applied before sentence splitting so that abbreviations
+# like U.S.C., U.S., Pub., Inc., etc. and claim labels [Observed]/[Inferred]
+# are not counted as sentence boundaries.
+_ABBREV_SUBS: list[tuple[re.Pattern, str]] = [
+    (re.compile(r"U\.S\.C\."), "USC"),
+    (re.compile(r"U\.S\."), "US"),
+    (re.compile(r"(?<!\w)([A-Z])\.(?=[A-Z]\.)"), r"\1"),
+    (
+        re.compile(
+            r"(?:Pub|Inc|Corp|Ltd|Jr|Sr|Dr|Mr|Mrs|Ms|Rev|Gen|Gov|Sen|Rep"
+            r"|Vol|No|vs|etc|approx|est)\."
+        ),
+        lambda m: m.group()[:-1],
+    ),
+    (re.compile(r"\s*\[(Observed|Inferred|Hypothesis)(?:\s*—[^\]]+)?\]"), ""),
+]
+
+
+def _count_sentences(text: str) -> int:
+    """Count real sentences, ignoring abbreviation dots and claim labels."""
+    cleaned = text
+    for pat, repl in _ABBREV_SUBS:
+        cleaned = pat.sub(repl, cleaned)
+    return len([s for s in re.split(r"(?<=[.!?])\s+", cleaned) if s.strip()])
+
+
 def check_outline(path: Path, schema: dict, status: str = "unknown") -> list[str]:
     issues = []
     text = path.read_text()
@@ -199,7 +225,7 @@ def check_outline(path: Path, schema: dict, status: str = "unknown") -> list[str
     )
     if m_summary and (summary_min or summary_max):
         summary_text = m_summary.group(1).strip()
-        sentence_count = len([s for s in re.split(r"[.!?]+", summary_text) if s.strip()])
+        sentence_count = _count_sentences(summary_text)
         if summary_min and sentence_count < summary_min:
             issues.append(
                 f"outline.md: Summary has {sentence_count} sentence(s), need \u2265 {summary_min}"
@@ -214,7 +240,11 @@ def check_outline(path: Path, schema: dict, status: str = "unknown") -> list[str
     if mechanism_max_words:
         m_mech = re.search(r"\*\*Mechanism in one sentence:\*\*\s*(.+)", text)
         if m_mech:
-            mechanism_words = len(m_mech.group(1).strip().split())
+            mech_text = re.sub(
+                r"\s*\[(Observed|Inferred|Hypothesis)(?:\s*—[^\]]+)?\]", "",
+                m_mech.group(1).strip(),
+            )
+            mechanism_words = len(mech_text.split())
             if mechanism_words > mechanism_max_words:
                 issues.append(
                     f"outline.md: Mechanism sentence has {mechanism_words} word(s), "

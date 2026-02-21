@@ -41,8 +41,8 @@
 
   "word_count_targets": {
     "summary_min_sentences": 3,
-    "summary_max_sentences": 5,
-    "mechanism_max_words": 30,
+    "summary_max_sentences": 8,
+    "mechanism_max_words": 50,
     "actors_min_words": 80,
     "process_min_steps": 3,
     "sources_min_entries": 3
