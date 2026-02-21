@@ -9,13 +9,16 @@
 
 ## Phase 1 — Core coverage (in progress)
 
-- ~~Build sections 01–07~~ → 147 modules with deep outlines, citations, actor analysis ✅
+- ~~Build Section 01~~ → 17 modules with deep outlines (150–302 lines), inline statute citations, detailed actor analysis ✅
+- ~~First-draft Sections 02–07~~ → 130 modules with all headings filled, claim labels, basic sources (~58 lines each) ✅
+- Deepen Sections 02–07 to Section 01 quality → expand actors with inline citations, add detailed process maps, specific court cases and datasets
 - Build sections 08–14 → 83 scaffold modules awaiting full build
 - Priority order: 08 (Money/Industry) → 11 (Accountability) → 13 (Meta-Incentive) → 09 (Crisis) → 10 (Polarization) → 12 (Foreign Influence) → 14 (Emerging)
 
 ## Phase 2 — Quality and cross-referencing
 
 - Add `Related Modules` cross-references across all built modules
+- Populate case_studies and data_sources metadata fields across modules
 - Refresh time-sensitive modules (emergency powers, judicial procedures)
 - Add visuals for mechanisms that benefit from diagrams
 
