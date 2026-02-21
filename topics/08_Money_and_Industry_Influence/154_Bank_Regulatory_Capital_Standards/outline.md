@@ -1,47 +1,66 @@
 # Bank Regulatory Capital Standards
 
-**Summary:** Briefly explain how this mechanism works and why it matters.
+**Summary:** Bank regulatory capital standards determine how much loss-absorbing equity financial institutions must hold against their assets, serving as the primary structural mechanism for limiting systemic risk in the banking system. [Observed] In the United States, these standards are set through a multi-layered process: international negotiations at the Basel Committee on Banking Supervision produce framework agreements (Basel I, II, III, and the pending Basel III endgame), which U.S. agencies — the Federal Reserve, OCC, and FDIC — then implement through domestic rulemaking that often diverges from the international framework. [Observed] The capital adequacy framework is among the most technically complex areas of financial regulation, and this complexity is itself a structural advantage for the largest banks, whose compliance and lobbying operations can engage with the rulemaking process at a level of technical detail that smaller institutions and public interest groups cannot match. [Inferred] Capital standards directly affect bank profitability (higher capital requirements reduce return on equity), making them perhaps the single most lobbied-on area of financial regulation. [Inferred]
 
-**Mechanism in one sentence:** Describe the operational lever clearly.
+**Mechanism in one sentence:** Capital requirements convert international Basel framework agreements into domestic rules through multi-agency rulemaking, where technical complexity and industry lobbying systematically shape final standards toward lower requirements for the largest institutions. [Inferred]
 
 ### Actors and roles
 
-- Primary institutional actors and their incentives
-- Oversight actors and their constraints
+- **Federal Reserve Board of Governors** — sets capital requirements for bank holding companies and systemically important financial institutions (SIFIs); conducts annual stress tests (Comprehensive Capital Analysis and Review, CCAR) that impose de facto capital floors beyond minimum regulatory requirements; represents the U.S. at Basel Committee negotiations. [Observed] Incentive: maintain financial system stability while preserving institutional independence. Constraint: must coordinate with OCC and FDIC on capital rules applicable to banks they jointly supervise. [Observed — source: 12 U.S.C. § 5365 (enhanced prudential standards)]
+- **Office of the Comptroller of the Currency (OCC)** — sets capital standards for national banks and federal savings associations; co-issues capital rules with Fed and FDIC. [Observed] Incentive: maintain charter competitiveness for national banks. Constraint: funded by assessments from regulated banks, creating resource dependence. [Observed — source: 12 C.F.R. Part 3]
+- **Federal Deposit Insurance Corporation (FDIC)** — sets capital standards for state-chartered banks not in the Federal Reserve system and for insured depository institutions broadly; manages deposit insurance fund whose exposure is directly affected by bank capital levels. [Observed] Incentive: protect the Deposit Insurance Fund from bank failure losses. Constraint: must balance insurance fund protection with bank competitiveness concerns. [Observed — source: 12 C.F.R. Part 324]
+- **Basel Committee on Banking Supervision (BCBS)** — international body of central bank and regulatory officials from 28 jurisdictions; develops framework capital standards through consensus negotiations. [Observed] Incentive: harmonize international standards to prevent regulatory arbitrage. Constraint: BCBS agreements are not binding — each jurisdiction implements through domestic rulemaking, and implementation varies significantly across countries. [Observed]
+- **Global systemically important banks (G-SIBs)** — the approximately 8 U.S. G-SIBs (JPMorgan Chase, Bank of America, Citigroup, Goldman Sachs, Morgan Stanley, Wells Fargo, BNY Mellon, State Street) are subject to the highest capital requirements and most intensive lobbying engagement on capital rules. [Observed] Incentive: minimize capital requirements to maximize return on equity. Constraint: post-2008 public expectations and Dodd-Frank mandates limit how aggressively they can argue for lower capital. [Inferred]
+- **Banking industry trade associations** — Bank Policy Institute (BPI), American Bankers Association (ABA), Securities Industry and Financial Markets Association (SIFMA), and the Financial Services Forum represent industry interests in capital rulemaking. [Observed] Incentive: reduce capital burden for member institutions. Constraint: public memory of 2008 limits overtly anti-regulation messaging. [Inferred]
+- **Senate Banking Committee and House Financial Services Committee** — exercise oversight over capital regulation through hearings, nominee confirmations, and legislative authority over agency mandates. [Observed] Incentive: respond to constituency concerns (community banks lobby for lower capital; systemic stability advocates lobby for higher). Constraint: limited technical capacity to evaluate complex capital frameworks independently. [Inferred]
 
 ### Process map (bulleted)
 
-- Step 1
-- Step 2
-- Step 3
+- The Basel Committee develops a capital framework through multi-year international negotiations among central bank and regulatory officials from member jurisdictions, producing a standards document (e.g., Basel III, published December 2010; Basel III endgame revisions, 2017-2023). [Observed]
+- U.S. agencies (Fed, OCC, FDIC) translate the Basel framework into proposed domestic rules through interagency rulemaking, a process that involves adapting the international framework to U.S. statutory requirements and often incorporates provisions stricter than or different from the Basel standard (“gold-plating”). [Observed]
+- Agencies publish a Notice of Proposed Rulemaking (NPR) in the Federal Register; the comment period (typically 60-90 days, sometimes extended) generates hundreds to thousands of comment letters from banks, trade associations, academics, and (far fewer) public interest groups. [Observed]
+- The largest banks and their trade associations submit detailed quantitative impact analyses arguing that proposed requirements would constrain lending, reduce market liquidity, or disadvantage U.S. banks against international competitors. [Observed] Smaller community banks argue for simplified frameworks and exemptions from complex requirements designed for globally active institutions. [Observed]
+- Agencies revise the proposed rule in response to comments, often reducing requirements or providing phase-in periods longer than initially proposed; the Basel III endgame NPR (2023) was substantially revised after intense industry opposition. [Observed]
+- Final rules are published with effective dates and phase-in schedules that can extend 5-7 years, during which implementation details are worked out through supervisory guidance and examination procedures. [Observed]
+- Separately, the Fed conducts annual stress tests (CCAR/DFAST) that model bank capital adequacy under hypothetical adverse scenarios; stress test results impose effective capital requirements beyond the regulatory minimums by constraining capital distributions (dividends and share buybacks). [Observed — source: 12 U.S.C. § 5365(i); 12 C.F.R. Part 252]
 
 ### Where power concentrates
 
-- Gatekeepers
-- Bottlenecks
-- Veto points
+- **Gatekeepers:** Federal Reserve Vice Chair for Supervision (post created by Dodd-Frank) sets the supervisory agenda including capital rule proposals and stress test design; the Fed Chair exercises informal authority over the direction of capital policy. [Observed — source: 12 U.S.C. § 242(a)]
+- **Bottlenecks:** Interagency coordination among Fed, OCC, and FDIC is required for joint capital rules, and disagreement among the three agencies can delay or dilute rules. [Observed] International Basel negotiations must reach consensus among 28 jurisdictions before producing standards, creating extensive delay and lowest-common-denominator pressure. [Observed]
+- **Veto points:** Federal agencies can individually decline to adopt all or part of a Basel framework in domestic rules; Congress can override or constrain agency rulemaking through legislation (as it did with the Economic Growth, Regulatory Relief, and Consumer Protection Act of 2018, which raised the SIFI threshold from $50 billion to $250 billion in assets, exempting dozens of banks from enhanced capital requirements). [Observed — source: Pub. L. 115-174 § 401]
 
 ### Common failure modes
 
-- Misaligned incentives
-- Enforcement weakness
-- Transparency gaps
+- **Risk-weight gaming:** Banks optimize asset portfolios to minimize risk-weighted assets (the denominator of capital ratios) rather than actual risk, creating a divergence between regulatory capital adequacy and true loss-absorption capacity. [Observed] The use of internal models for risk-weight calculation (under Basel II/III advanced approaches) gave the largest banks discretion to set their own effective capital requirements. [Observed]
+- **Complexity as capture mechanism:** Capital frameworks exceed thousands of pages; only the largest banks and specialized law firms can fully engage with the rulemaking process, systematically disadvantaging smaller institutions and public interest commentators. [Inferred]
+- **International arbitrage:** U.S. banks facing stricter domestic implementation of Basel standards shift activities to jurisdictions with looser implementation, or argue that domestic gold-plating creates competitive disadvantage, pressuring agencies to reduce requirements. [Observed]
+- **Pro-cyclicality:** Risk-weighted capital requirements can amplify economic cycles: in downturns, asset values fall and risk weights increase, requiring banks to raise capital or reduce lending precisely when the economy needs credit most. [Observed]
+- **SIFI threshold manipulation:** The 2018 Act's increase of the enhanced prudential standards threshold from $50B to $250B in assets removed capital and stress test requirements from banks that subsequently failed or required support (e.g., Silicon Valley Bank, $209 billion in assets at failure in March 2023). [Observed]
 
 ### What evidence would prove/disprove key claims
 
-- Documents, datasets, audits, and public records
+- Compare risk-weighted capital ratios with simple leverage ratios across large banks to assess whether risk-weight optimization creates misleading capital adequacy signals. [Observed — source: FDIC Call Reports; Fed Y-9C filings]
+- Analyze comment letter participation in capital rulemakings by commenter type (G-SIB, regional bank, community bank, public interest group, academic) and correlate with final rule changes to test whether industry comments produce more favorable revisions. [Inferred]
+- Evaluate bank failures since 2018 relative to their regulatory capital ratios and SIFI threshold status to test whether the 2018 threshold increase increased failure risk. [Observed]
+- Compare U.S. bank capital levels with peer-jurisdiction implementations of the same Basel framework to assess the degree of international variation. [Observed]
 
 ### Suggested sources
 
-- Statutes and regulations
-- Oversight reports (GAO/OIG, committees, inspectors general)
-- Official datasets and disclosures
+- Basel Committee on Banking Supervision, Basel III framework (revised December 2017). https://www.bis.org/bcbs/basel3.htm [Observed]
+- 12 U.S.C. § 5365 (enhanced prudential standards for SIFIs). [Observed]
+- 12 C.F.R. Part 217 (Federal Reserve capital adequacy regulations). [Observed]
+- Economic Growth, Regulatory Relief, and Consumer Protection Act, Pub. L. 115-174 (2018). [Observed]
+- Federal Reserve, Comprehensive Capital Analysis and Review (CCAR) results and methodology. https://www.federalreserve.gov/supervisionreg/ccar.htm [Observed]
+- FDIC, Quarterly Banking Profile. https://www.fdic.gov/analysis/quarterly-banking-profile [Observed]
+- Government Accountability Office, reports on bank capital regulation and Basel implementation. https://www.gao.gov [Observed]
+- Federal Reserve, OCC, FDIC, Basel III Endgame Notice of Proposed Rulemaking, 88 FR 64028 (September 2023). [Observed]
 
 ### Episode outline (6 parts)
 
-1. Structure (what it is)
-2. Incentive (why it behaves as it does)
-3. Example (case study)
-4. Evidence (what to show)
-5. Levers (how accountability/reform could work)
-6. Takeaway
+1. **Structure:** Map the capital standards pipeline — from Basel Committee international negotiations through U.S. interagency rulemaking (Fed, OCC, FDIC) to implementation through examination and stress testing — and the statutory framework governing each stage. [Observed]
+2. **Incentive:** Explain why capital standards are the most lobbied area of financial regulation: every percentage point of additional capital requirement reduces bank return on equity by roughly 1-2 percentage points, translating to billions in reduced profits for the largest institutions. This creates an asymmetric incentive structure where industry investment in rulemaking participation far exceeds public interest engagement. [Inferred]
+3. **Example:** Trace the Basel III endgame rulemaking — from the 2017 Basel Committee agreement through the September 2023 U.S. NPR, intensive industry lobbying campaign, and subsequent substantial revision of the proposal — demonstrating how the rulemaking process translates industry participation into regulatory outcomes. [Observed]
+4. **Evidence:** Present capital ratio trends across bank size categories, comment letter participation data from recent capital rulemakings, stress test failure rates, and international capital level comparisons. [Observed]
+5. **Levers:** Evaluate simple leverage ratio requirements as a supplement to risk-weighted standards; removal of internal model discretion for risk-weight calculation; permanent separation of capital rules by bank size category; mandatory public interest advocate participation in rulemaking with funded technical capacity. [Hypothesis]
+6. **Takeaway:** Bank capital standards are determined through a multi-year, technically complex process where the largest regulated institutions have a structural participation advantage that systematically shapes outcomes — making capital regulation a case study in how procedural design affects substantive outcomes in financial oversight. [Inferred]
