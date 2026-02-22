@@ -13,7 +13,7 @@
 How people get to Washington — the rules, money, and gatekeeping that determine who holds federal office.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 001 | Campaign Finance Architecture |
 | 002 | Primaries and Candidate Gatekeeping |
 | 003 | Gerrymandering Systems |
@@ -41,7 +41,7 @@ How people get to Washington — the rules, money, and gatekeeping that determin
 How Congress actually operates — committee power, procedural weapons, leadership control, and the internal structures that shape legislation.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 018 | Committee System Power |
 | 019 | Leadership Structures |
 | 020 | Procedural Levers |
@@ -77,7 +77,7 @@ How Congress actually operates — committee power, procedural weapons, leadersh
 How the White House and federal agencies wield power — executive orders, rulemaking, appointments, and the structural incentives shaping bureaucratic behavior.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 043 | White House Power Centers |
 | 044 | Executive Orders and Agency Rulemaking |
 | 045 | Inspector Generals |
@@ -111,7 +111,7 @@ How the White House and federal agencies wield power — executive orders, rulem
 How private money and career incentives shape federal decisions — lobbying, PACs, dark money, think tanks, and the revolving door between government and industry.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 066 | Lobbying Registration and Disclosure Rules |
 | 067 | Cooling Off Period Structures |
 | 068 | K Street Firm Ecosystems |
@@ -145,7 +145,7 @@ How private money and career incentives shape federal decisions — lobbying, PA
 How media shapes and is shaped by federal power — ownership, algorithms, political advertising, disinformation, and the feedback loops between newsrooms and government.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 089 | Media Ownership Consolidation |
 | 090 | Cable News Incentive Structures |
 | 091 | Digital Platform Algorithmic Amplification |
@@ -175,7 +175,7 @@ How media shapes and is shaped by federal power — ownership, algorithms, polit
 How federal courts shape policy — nominations, strategic litigation, nationwide injunctions, the shadow docket, and the structural rules governing who gets heard.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 108 | Federal Judicial Nomination and Confirmation |
 | 109 | Supreme Court Agenda Setting and Cert Petitions |
 | 110 | Circuit Court Composition and Panel Assignment |
@@ -206,7 +206,7 @@ How federal courts shape policy — nominations, strategic litigation, nationwid
 How states interact with, check, amplify, and undermine federal power — preemption, model legislation, interstate compacts, and the federalism feedback loop.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 128 | Governors Emergency Powers and Executive Orders |
 | 129 | State Attorneys General as Policy Entrepreneurs |
 | 130 | Model Legislation Networks and ALEC |
@@ -237,7 +237,7 @@ How states interact with, check, amplify, and undermine federal power — preemp
 How money flows into and through federal decision-making — industry-specific regulatory capture, procurement, subsidies, tax expenditures, and the financial architecture of government.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 148 | Pharma and Health Policy |
 | 149 | Energy and Environmental Policy |
 | 150 | Tech Regulation |
@@ -265,7 +265,7 @@ How money flows into and through federal decision-making — industry-specific r
 How the federal government operates in emergencies — war powers, disaster declarations, continuity of government, surveillance authority, and the structural expansion of executive power during crises.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 165 | National Emergencies |
 | 166 | Pandemic Governance |
 | 167 | Intelligence and Surveillance |
@@ -291,7 +291,7 @@ How the federal government operates in emergencies — war powers, disaster decl
 Why DC behaves the way it does — the structural incentives (fundraising, primaries, safe districts, media fragmentation) that make polarization rational for individual actors even when destructive for governance.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 180 | Fundraising Incentives for Conflict |
 | 181 | Safe District Effects |
 | 182 | Media Fragmentation |
@@ -308,7 +308,7 @@ Why DC behaves the way it does — the structural incentives (fundraising, prima
 Where federal oversight breaks down — inspectors general, ethics enforcement, FOIA limitations, financial disclosure loopholes, and the structural gaps that allow corruption to persist.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 186 | Inspectors General Reporting Structures |
 | 187 | Congressional Subpoena Enforcement Limits |
 | 188 | GAO Audit Cycles and Authority |
@@ -334,7 +334,7 @@ Where federal oversight breaks down — inspectors general, ethics enforcement, 
 How foreign governments, sovereign wealth funds, and international institutions access and shape federal policy — FARA, treaty mechanics, trade authority, sanctions, and defense alliances.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 201 | FARA Enforcement |
 | 202 | Sovereign Wealth Fund Investments |
 | 203 | Defense Alliance Pressure Networks |
@@ -355,7 +355,7 @@ How foreign governments, sovereign wealth funds, and international institutions 
 The hidden structural incentives and second-order effects that drive DC behavior beneath the surface — consultant economics, dark money pathways, litigation finance, and the academic-policy pipeline.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 211 | Political Consultant Compensation Incentives |
 | 212 | Think Tank Funding Transparency Gaps |
 | 213 | Donor Advised Fund Political Pathways |
@@ -376,7 +376,7 @@ The hidden structural incentives and second-order effects that drive DC behavior
 New and under-documented power levers — algorithmic governance, AI policy, digital surveillance, cybersecurity authority, and cross-branch coordination for emerging threats.
 
 | # | Module |
-|---|--------|
+| --- | -------- |
 | 221 | Algorithmic Governance Impact on Public Policy |
 | 222 | Digital Surveillance and Civil Liberties Enforcement |
 | 223 | Cybersecurity Policy Authority |
@@ -413,7 +413,7 @@ They are a natural Phase 2 expansion after the core structural map is complete.
 Not yet scaffolded — listed here as future scope.
 
 | # | Domain Section |
-|---|----------------|
+| --- | ---------------- |
 | 15 | National Security and Intelligence Community |
 | 16 | Immigration Enforcement Architecture |
 | 17 | Federal Safety Net Program Structure |
@@ -670,7 +670,7 @@ Cross-system modules mapping where public power and market power interact:
 ## Statistics
 
 | Category | Count |
-|----------|-------|
+| ---------- | ------- |
 | Core sections | 14 |
 | Built modules (01-07) | 147 |
 | Scaffold modules (08-14) | 83 |
