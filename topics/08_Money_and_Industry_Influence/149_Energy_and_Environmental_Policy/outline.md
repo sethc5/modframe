@@ -10,7 +10,7 @@
 - **Department of Energy (DOE)** — manages national laboratories, administers energy research grants and loan guarantee programs, sets appliance efficiency standards, and oversees the Strategic Petroleum Reserve. [Observed] Incentive: advance energy technology while managing political tension between fossil and renewable priorities. [Inferred — source: 42 U.S.C. § 7101 et seq.]
 - **Federal Energy Regulatory Commission (FERC)** — regulates interstate electricity transmission, natural gas pipelines, and hydroelectric licensing; approves LNG export terminals. [Observed] Incentive: balance reliability, cost, and environmental considerations in infrastructure siting. Constraint: independent commission structure limits direct presidential control. [Observed — source: 16 U.S.C. § 791a et seq.]
 - **Department of the Interior** — manages federal lands (BLM), offshore energy leasing (BOEM/BSEE), and mineral rights; controls access to approximately 28% of U.S. land surface and the outer continental shelf. [Observed — source: 43 U.S.C. § 1701 et seq.]
-- **Fossil fuel industry** (API, individual majors) — lobby on permitting, emissions standards, subsidy preservation, and trade policy. [Observed] Incentive: maintain return on existing capital stock and extend production timelines. Constraint: increasing investor and regulatory ESG pressure. [Observed]
+- **Fossil fuel industry** (API, individual majors) — lobby on permitting, emissions standards, subsidy preservation, and trade policy. [Observed] Incentive: maintain return on existing capital stock and extend production timelines. Constraint: increasing investor and regulatory ESG pressure. [Inferred - note: specific internal incentives and constraints are difficult to observe directly without internal documents, though market behavior suggests this]
 - **Renewable energy industry** — lobby for production tax credits, investment tax credits, transmission access, and interconnection queue reform. [Observed] Incentive: lock in subsidy parity with fossil fuels and secure grid access. Constraint: incumbent utility and grid operator resistance to distributed generation. [Inferred]
 - **Environmental organizations** — use litigation, NEPA comment processes, and public campaigns to enforce environmental standards and challenge permitting decisions. [Observed] Constraint: standing requirements and judicial deference doctrines limit litigation effectiveness. [Observed]
 
@@ -22,7 +22,7 @@
 - Final rules are published, challenged in court (often in the D.C. Circuit), and subject to Congressional Review Act disapproval in the first 60 legislative days. [Observed — source: 5 U.S.C. § 801]
 - Permitting decisions for major projects require NEPA environmental review (EIS or EA), which can extend timelines by years and trigger litigation on adequacy. [Observed — source: 42 U.S.C. § 4321 et seq.]
 - Tax incentives (PTC, ITC, clean energy credits under IRA) direct private capital toward qualifying energy technologies through Treasury/IRS guidance on eligibility. [Observed — source: 26 U.S.C. §§ 45, 48; Inflation Reduction Act §§ 13101–13702]
-- Administration transitions produce regulatory reversals — rules proposed under one administration are withdrawn, replaced, or weakened by successors, creating investment uncertainty. [Observed]
+- Administration transitions produce regulatory reversals — rules proposed under one administration are withdrawn, replaced, or weakened by successors, creating investment uncertainty. [Inferred - note: while regulatory reversals are observable via the Federal Register, the resulting 'investment uncertainty' is an economic inference rather than a direct primary source observation]
 
 ### Where power concentrates
 
@@ -46,13 +46,21 @@
 
 ### Suggested sources
 
-- Environmental Protection Agency, regulatory actions and Federal Register entries for Clean Air Act rulemakings. URL: https://www.epa.gov [Observed]
-- Federal Energy Regulatory Commission, dockets and ex parte communication logs. URL: https://www.ferc.gov [Observed]
-- Congressional Research Service, *Federal Energy Regulatory Commission: Overview and Selected Issues*. URL: https://crsreports.congress.gov [Observed]
-- OpenSecrets, Energy/Natural Resources lobbying and PAC data. URL: https://www.opensecrets.org/industries/indus?ind=E [Observed]
-- Government Accountability Office, reports on NEPA review timelines, energy subsidies, and regulatory implementation. URL: https://www.gao.gov [Observed]
-- Inflation Reduction Act of 2022, Pub. L. 117–169, §§ 13101–13702 (clean energy tax credits). [Observed]
-- West Virginia v. EPA, 597 U.S. 697 (2022) (major questions doctrine applied to EPA authority). [Observed]
+- Clean Air Act. 101st Congress, 42 U.S.C. § 7401 et seq., November 1990. https://www.govinfo.gov/content/pkg/USCODE-2022-title42/pdf/USCODE-2022-title42-chap85.pdf
+- Federal Power Act. 66th Congress, 16 U.S.C. § 791a et seq., June 1920. https://www.govinfo.gov/content/pkg/USCODE-2022-title16/pdf/USCODE-2022-title16-chap12.pdf
+- Federal Land Policy and Management Act of 1976. 94th Congress, 43 U.S.C. § 1701 et seq., October 1976. https://www.govinfo.gov/content/pkg/USCODE-2022-title43/pdf/USCODE-2022-title43-chap35.pdf
+- Administrative Procedure Act. 79th Congress, 5 U.S.C. § 553, June 1946. https://www.govinfo.gov/content/pkg/USCODE-2022-title5/pdf/USCODE-2022-title5-partI-chap5-subchapII-sec553.pdf
+- National Environmental Policy Act of 1969. 91st Congress, 42 U.S.C. § 4321 et seq., January 1970. https://www.govinfo.gov/content/pkg/USCODE-2022-title42/pdf/USCODE-2022-title42-chap55.pdf
+- Inflation Reduction Act of 2022. 117th Congress, Pub. L. 117-169, August 2022. https://www.congress.gov/117/plaws/publ169/PLAW-117publ169.pdf
+- West Virginia v. Environmental Protection Agency. Supreme Court of the United States, June 2022. https://www.supremecourt.gov/opinions/21pdf/20-1530_n758.pdf
+- Lujan v. Defenders of Wildlife. Supreme Court of the United States, June 1992. https://supreme.justia.com/cases/federal/us/504/555/
+- Federal Energy Regulatory Commission (FERC): Overview and Selected Issues. Congressional Research Service, October 2023. https://crsreports.congress.gov/product/pdf/R/R47854
+- Federal Land Ownership: Overview and Data. Congressional Research Service, February 2020. https://crsreports.congress.gov/product/pdf/R/R42346
+- Environmental Impact Statement Timelines (2010-2018). Council on Environmental Quality, June 2020. https://ceq.doe.gov/docs/nepa-practice/CEQ_EIS_Timelines_Report_2020-6-12.pdf
+- Queued Up: Characteristics of Power Plants Seeking Transmission Interconnection. Lawrence Berkeley National Laboratory, April 2023. https://emp.lbl.gov/queues
+- The Production Tax Credit (PTC) for Wind Energy: Background and Issues. Congressional Research Service, September 2021. https://crsreports.congress.gov/product/pdf/R/R43453
+- Energy/Natural Resources: Lobbying, 2023. OpenSecrets, 2024. https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=E
+- A Guide to the Rulemaking Process. Office of the Federal Register, 2011. https://www.federalregister.gov/uploads/2011/01/the_rulemaking_process.pdf
 
 ### Episode outline (6 parts)
 

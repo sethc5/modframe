@@ -2,7 +2,7 @@
 
 Purpose: How fragmented federal jurisdiction over energy production, environmental regulation, and subsidy allocation creates multiple access points for industry influence over long-term energy and environmental outcomes.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability, regulatory_capture, lobbying
 
@@ -24,9 +24,9 @@ Actors:
 	- name: Department of the Interior
 	  type: institution
 	- name: Fossil fuel industry
-	  type: industry
+	  type: political_entity
 	- name: Renewable energy industry
-	  type: industry
+	  type: political_entity
 	- name: Senate Energy and Natural Resources Committee
 	  type: committee
 

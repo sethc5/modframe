@@ -2,7 +2,7 @@
 
 Purpose: How fragmented federal jurisdiction, broad liability shields, and absence of comprehensive legislation shape the regulatory environment for technology companies.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability, regulatory_capture, lobbying
 

@@ -11,7 +11,7 @@
 - **Centers for Medicare and Medicaid Services (CMS)** — administers Medicare Parts B and D and Medicaid drug coverage, sets reimbursement methodologies, and (as of IRA 2022) negotiates prices on select high-expenditure drugs. [Observed — source: 42 U.S.C. § 1395w-111; Inflation Reduction Act § 11001]
 - **Pharmacy Benefit Managers (PBMs)** — negotiate rebates between manufacturers and insurers, manage formularies, and control pharmacy network access. [Observed] Incentive: capture spread between negotiated and reimbursed prices. Constraint: limited federal transparency requirements prior to recent legislative efforts. [Inferred]
 - **Congressional committees** — Energy and Commerce, Finance, HELP, Ways and Means, and Appropriations subcommittees each control portions of health policy jurisdiction, fragmenting oversight. [Observed] Incentive: maintain jurisdictional turf and campaign contribution relationships. Constraint: overlapping jurisdiction requires cross-committee coordination that rarely materializes. [Inferred]
-- **Pharmaceutical lobbying organizations** (PhRMA, BIO) — coordinate industry-wide advocacy, fund PACs and issue campaigns, and provide technical expertise to congressional staff on drug pricing proposals. [Observed] Incentive: delay or dilute pricing reforms. Constraint: public salience of drug pricing creates periodic political risk. [Observed]
+- **Pharmaceutical lobbying organizations** (PhRMA, BIO) — coordinate industry-wide advocacy, fund PACs and issue campaigns, and provide technical expertise to congressional staff on drug pricing proposals. [Observed] Incentive: delay or dilute pricing reforms. Constraint: public salience of drug pricing creates periodic political risk. [Inferred — downgraded: public salience as a constraint is an analytical conclusion rather than a direct statutory or empirical observation]
 - **Government Accountability Office and HHS Office of Inspector General** — audit drug pricing programs, Medicare Part D plan performance, and FDA process integrity. [Observed] Constraint: recommendations are non-binding and often unimplemented for years. [Observed]
 
 ### Process map (bulleted)
@@ -28,32 +28,32 @@
 
 - **Gatekeepers:** FDA controls market entry through approval and exclusivity grants; PBMs control formulary placement and patient access tier assignment. [Observed]
 - **Bottlenecks:** Patent thickets and citizen petition filings delay generic and biosimilar competition beyond statutory exclusivity periods. [Observed] The Orange Book listing process creates procedural leverage for brand manufacturers to trigger automatic 30-month stays on generic approvals. [Observed — source: 21 U.S.C. § 355(j)(5)(B)(iii)]
-- **Veto points:** Senate filibuster has historically blocked comprehensive drug pricing legislation; jurisdictional fragmentation means any single committee chair can delay action on provisions within their turf. [Observed]
+- **Veto points:** Senate filibuster has historically blocked comprehensive drug pricing legislation; jurisdictional fragmentation means any single committee chair can delay action on provisions within their turf. [Inferred — downgraded: historical blocking via filibuster and committee delays are analytical conclusions about legislative dynamics rather than direct empirical measurements]
 
 ### Common failure modes
 
 - Patent evergreening strategies extend effective monopoly periods well beyond original exclusivity grants through incremental formulation patents and delivery-device claims. [Observed]
 - PBM rebate structures can create misaligned incentives where higher list prices generate larger rebates that benefit PBMs and plan sponsors while increasing out-of-pocket costs for uninsured or high-deductible patients. [Inferred]
 - FDA user fee dependence (PDUFA) creates structural proximity between the agency and its regulated industry, potentially affecting approval timeline pressure and post-market enforcement rigor. [Inferred]
-- Congressional oversight fragmentation allows each committee to hold hearings without producing legislation, creating an accountability gap where visibility substitutes for action. [Observed]
+- Congressional oversight fragmentation allows each committee to hold hearings without producing legislation, creating an accountability gap where visibility substitutes for action. [Inferred — downgraded: the conclusion that visibility substitutes for action is an analytical interpretation of congressional behavior]
 
 ### What evidence would prove/disprove key claims
 
-- Track launch prices for new molecular entities over time and correlate with patent thicket density and exclusivity duration to test pricing power claims. [Observed]
-- Compare drug price trajectories in Medicare Part B (ASP+%) versus Part D (negotiated) versus VA (statutory discount) to isolate structural pricing effects. [Observed]
-- Analyze PBM rebate pass-through rates across plan types and compare net prices paid by patients versus net prices received by manufacturers. [Observed]
+- Track launch prices for new molecular entities over time and correlate with patent thicket density and exclusivity duration to test pricing power claims. [Hypothesis — downgraded: this is a proposed analytical method, not an observed fact]
+- Compare drug price trajectories in Medicare Part B (ASP+%) versus Part D (negotiated) versus VA (statutory discount) to isolate structural pricing effects. [Hypothesis — downgraded: this is a proposed analytical method, not an observed fact]
+- Analyze PBM rebate pass-through rates across plan types and compare net prices paid by patients versus net prices received by manufacturers. [Hypothesis — downgraded: this is a proposed analytical method, not an observed fact]
 - Map pharmaceutical lobbying expenditures and PAC contributions by committee jurisdiction and correlate with committee-level legislative output on pricing reform. [Inferred]
 - Evaluate FDA approval timeline trends relative to PDUFA cycle negotiations and user fee revenue dependence ratios. [Hypothesis]
 
 ### Suggested sources
 
-- Congressional Budget Office, *Prescription Drug Pricing and Policy* (recurring analyses). URL: https://www.cbo.gov [Observed]
-- Government Accountability Office, reports on Medicare Part D, PBM practices, and FDA oversight (multiple reports). URL: https://www.gao.gov [Observed]
-- HHS Office of Inspector General, reports on drug pricing, rebates, and Part B reimbursement. URL: https://oig.hhs.gov [Observed]
-- FDA Orange Book: Approved Drug Products with Therapeutic Equivalence Evaluations. URL: https://www.accessdata.fda.gov/scripts/cder/ob/ [Observed]
-- OpenSecrets, Pharmaceutical/Health Products lobbying and PAC data. URL: https://www.opensecrets.org/industries/indus?ind=H04 [Observed]
-- Inflation Reduction Act of 2022, Pub. L. 117–169, §§ 11001–11003 (Medicare drug price negotiation). [Observed]
-- 21 U.S.C. §§ 355, 355a (Federal Food, Drug, and Cosmetic Act, drug approval and exclusivity). [Observed]
+- Prescription Drugs: Spending, Use, and Prices. Congressional Budget Office, January 2022. https://www.cbo.gov/publication/57050
+- Medicare Part D: Use of Pharmacy Benefit Managers and Efforts to Manage Drug Expenditures and Utilization. Government Accountability Office, July 2019. https://www.gao.gov/products/gao-19-498
+- Drug Prices: The Role of Patents and Regulatory Exclusivities. Congressional Research Service, February 2021. https://crsreports.congress.gov/product/pdf/R/R46679
+- Pharmaceuticals/Health Products: Lobbying. OpenSecrets, January 2024. https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=H04
+- Priority Open Recommendations: Department of Health and Human Services. Government Accountability Office, May 2023. https://www.gao.gov/products/gao-23-106403
+- Inflation Reduction Act of 2022. 117th Congress, August 2022. Pub. L. 117-169.
+- Federal Food, Drug, and Cosmetic Act. U.S. Code, 2023. 21 U.S.C. § 355.
 
 ### Episode outline (6 parts)
 

@@ -2,7 +2,7 @@
 
 Purpose: How patent protection, FDA exclusivity, PBM intermediation, and fragmented congressional jurisdiction shape pharmaceutical pricing and health policy outcomes.
 
-Status: draft
+Status: sourced
 
 Tags: mechanics, institutions, accountability, regulatory_capture, lobbying
 
@@ -16,19 +16,19 @@ Last reviewed: 2026-02
 
 Actors:
 	- name: Pharmaceutical manufacturers
-	  type: industry
+	  type: political_entity
 	- name: Food and Drug Administration
 	  type: regulatory_body
 	- name: Centers for Medicare and Medicaid Services
 	  type: institution
 	- name: Pharmacy Benefit Managers
-	  type: industry
+	  type: political_entity
 	- name: Senate Finance Committee
 	  type: committee
 	- name: House Energy and Commerce Committee
 	  type: committee
 	- name: PhRMA
-	  type: trade_association
+	  type: political_entity
 
 Statutes:
 	- 21 U.S.C. §§ 355, 355a (Federal Food, Drug, and Cosmetic Act — drug approval and exclusivity)
